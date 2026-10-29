@@ -9,7 +9,7 @@
 - Transformer records and the Zone-to-DT hierarchy
 - Data-quality reporting for repairs and hierarchy conflicts
 - In-memory snapshot caching with stale-on-error behavior
-- OpenAPI 3.0 documentation and interactive docs at `/docs`
+- OpenAPI 3.0 documentation and self-contained interactive docs at `/docs`
 - Offline unit and HTTP tests
 
 Consumption energy data has been investigated but is not exposed by the API.
