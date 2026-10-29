@@ -23,6 +23,8 @@ Consumption energy data has been investigated but is not exposed by the API.
 ## Setup and run
 
 ```powershell
+git clone https://github.com/jhaharsh382-hash/urja-api.git
+cd urja-api
 npm install
 Copy-Item .env.example .env
 ```
@@ -43,6 +45,7 @@ npm start
 ```
 
 The API runs at `http://localhost:3000`. Open `http://localhost:3000/docs` for interactive documentation.
+The `npm start` process stays running until you press `Ctrl+C`.
 
 ## Test
 
@@ -51,6 +54,24 @@ npm test
 ```
 
 Tests use saved fixtures and do not require portal credentials.
+
+## Verify the running service
+
+In a second terminal:
+
+```powershell
+curl.exe http://localhost:3000/health
+curl.exe -I http://localhost:3000/docs
+curl.exe -I http://localhost:3000/openapi.json
+```
+
+Expected results:
+
+- `/health` returns HTTP 200 and `{"status":"ok"}`
+- `/docs` returns HTTP 200 and displays the endpoint list
+- `/openapi.json` returns HTTP 200
+
+To restart after changing source files, stop the existing server with `Ctrl+C`, then run `npm start` again.
 
 ## API endpoints
 
