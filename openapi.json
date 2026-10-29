@@ -1,0 +1,649 @@
+{
+  "openapi": "3.0.3",
+  "info": {
+    "title": "Urja Meter API",
+    "version": "1.0.0",
+    "description": "A clean, read-only JSON API in front of the legacy **Urja Meter Ops** portal. Data comes from the portal's signed bulk export, is normalised (blank hierarchy levels filled and flagged), and cached in memory with a TTL. See PROTOCOL.md for how the portal itself works."
+  },
+  "servers": [
+    {
+      "url": "http://localhost:3000"
+    }
+  ],
+  "tags": [
+    {
+      "name": "Meters"
+    },
+    {
+      "name": "Network"
+    },
+    {
+      "name": "Quality"
+    },
+    {
+      "name": "Ops"
+    }
+  ],
+  "paths": {
+    "/meters": {
+      "get": {
+        "tags": [
+          "Meters"
+        ],
+        "summary": "List and filter meters",
+        "operationId": "listMeters",
+        "description": "All filters are optional and combine with AND. String filters are case-insensitive exact matches, except `q`, which is a case-insensitive substring match on meterId or serialNo. With `near`, results are limited to the radius and sorted nearest-first, each with `distanceKm`.",
+        "parameters": [
+          {
+            "name": "page",
+            "in": "query",
+            "description": "1-based page number",
+            "schema": {
+              "type": "integer",
+              "minimum": 1,
+              "default": 1
+            }
+          },
+          {
+            "name": "pageSize",
+            "in": "query",
+            "description": "Items per page",
+            "schema": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 100,
+              "default": 20
+            }
+          },
+          {
+            "name": "make",
+            "in": "query",
+            "description": "Manufacturer",
+            "schema": {
+              "type": "string"
+            },
+            "example": "Genus"
+          },
+          {
+            "name": "installStatus",
+            "in": "query",
+            "description": "Installation status",
+            "schema": {
+              "type": "string",
+              "enum": [
+                "Installed",
+                "Faulty",
+                "Decommissioned"
+              ]
+            }
+          },
+          {
+            "name": "phaseType",
+            "in": "query",
+            "description": "Phase type",
+            "schema": {
+              "type": "string",
+              "enum": [
+                "single",
+                "three"
+              ]
+            }
+          },
+          {
+            "name": "transformer",
+            "in": "query",
+            "description": "Distribution transformer code",
+            "schema": {
+              "type": "string"
+            },
+            "example": "DT-001"
+          },
+          {
+            "name": "q",
+            "in": "query",
+            "description": "Substring search on meterId / serialNo",
+            "schema": {
+              "type": "string"
+            },
+            "example": "J1000"
+          },
+          {
+            "name": "near",
+            "in": "query",
+            "description": "Centre point as `lat,lng`",
+            "schema": {
+              "type": "string"
+            },
+            "example": "26.9124,75.7873"
+          },
+          {
+            "name": "radiusKm",
+            "in": "query",
+            "description": "Search radius in km (needs `near`)",
+            "schema": {
+              "type": "number",
+              "exclusiveMinimum": 0,
+              "maximum": 1000,
+              "default": 5
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "A page of meters",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/MeterPage"
+                }
+              }
+            }
+          },
+          "400": {
+            "$ref": "#/components/responses/BadRequest"
+          },
+          "502": {
+            "$ref": "#/components/responses/PortalError"
+          }
+        }
+      }
+    },
+    "/meters/{id}": {
+      "get": {
+        "tags": [
+          "Meters"
+        ],
+        "summary": "Get one meter",
+        "operationId": "getMeter",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            },
+            "example": "J100000"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The meter",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "data": {
+                      "$ref": "#/components/schemas/Meter"
+                    },
+                    "meta": {
+                      "$ref": "#/components/schemas/Meta"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          },
+          "502": {
+            "$ref": "#/components/responses/PortalError"
+          }
+        }
+      }
+    },
+    "/transformers": {
+      "get": {
+        "tags": [
+          "Network"
+        ],
+        "summary": "List distribution transformers (DTs)",
+        "operationId": "listTransformers",
+        "responses": {
+          "200": {
+            "description": "All transformers",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "data": {
+                      "type": "array",
+                      "items": {
+                        "$ref": "#/components/schemas/Transformer"
+                      }
+                    },
+                    "total": {
+                      "type": "integer"
+                    },
+                    "meta": {
+                      "$ref": "#/components/schemas/Meta"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "502": {
+            "$ref": "#/components/responses/PortalError"
+          }
+        }
+      }
+    },
+    "/hierarchy": {
+      "get": {
+        "tags": [
+          "Network"
+        ],
+        "summary": "Network hierarchy tree",
+        "operationId": "getHierarchy",
+        "description": "Zone \u2192 Circle \u2192 Division \u2192 Subdivision \u2192 Substation \u2192 Feeder \u2192 DT. Nodes are identified by their full code `path`, because the portal reuses codes under different parents. Each DT takes the majority value per level across its meters; disagreements are listed in `/data-quality`.",
+        "responses": {
+          "200": {
+            "description": "The tree",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "data": {
+                      "type": "array",
+                      "items": {
+                        "$ref": "#/components/schemas/HierarchyNode"
+                      }
+                    },
+                    "nodeCounts": {
+                      "type": "object",
+                      "additionalProperties": {
+                        "type": "integer"
+                      },
+                      "example": {
+                        "zone": 3,
+                        "dt": 40
+                      }
+                    },
+                    "meta": {
+                      "$ref": "#/components/schemas/Meta"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "502": {
+            "$ref": "#/components/responses/PortalError"
+          }
+        }
+      }
+    },
+    "/data-quality": {
+      "get": {
+        "tags": [
+          "Quality"
+        ],
+        "summary": "Everything that was repaired or conflicting in the portal data",
+        "operationId": "getDataQuality",
+        "responses": {
+          "200": {
+            "description": "Quality report",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "data": {
+                      "type": "array",
+                      "description": "Meters whose fields were filled or reconciled",
+                      "items": {
+                        "$ref": "#/components/schemas/MeterWarnings"
+                      }
+                    },
+                    "count": {
+                      "type": "integer"
+                    },
+                    "hierarchy": {
+                      "type": "object",
+                      "description": "Conflicts found while building the tree",
+                      "properties": {
+                        "issueCount": {
+                          "type": "integer"
+                        },
+                        "issues": {
+                          "type": "array",
+                          "items": {
+                            "type": "object",
+                            "additionalProperties": true
+                          }
+                        }
+                      }
+                    },
+                    "meta": {
+                      "$ref": "#/components/schemas/Meta"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "502": {
+            "$ref": "#/components/responses/PortalError"
+          }
+        }
+      }
+    },
+    "/health": {
+      "get": {
+        "tags": [
+          "Ops"
+        ],
+        "summary": "Liveness check (does not touch the portal)",
+        "operationId": "health",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "status": {
+                      "type": "string",
+                      "example": "ok"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Meta": {
+        "type": "object",
+        "properties": {
+          "fetchedAt": {
+            "type": "string",
+            "format": "date-time",
+            "description": "When the portal data was last pulled"
+          },
+          "stale": {
+            "type": "boolean",
+            "description": "true if a refresh failed and this is the previous snapshot"
+          }
+        }
+      },
+      "Level": {
+        "type": "object",
+        "nullable": true,
+        "properties": {
+          "code": {
+            "type": "string",
+            "nullable": true,
+            "example": "F-001"
+          },
+          "name": {
+            "type": "string",
+            "nullable": true,
+            "example": "Feeder 1"
+          }
+        }
+      },
+      "Meter": {
+        "type": "object",
+        "properties": {
+          "meterId": {
+            "type": "string",
+            "example": "J100000"
+          },
+          "serialNo": {
+            "type": "string",
+            "example": "SE33962"
+          },
+          "make": {
+            "type": "string",
+            "example": "HPL"
+          },
+          "phaseType": {
+            "type": "string",
+            "enum": [
+              "single",
+              "three"
+            ]
+          },
+          "installStatus": {
+            "type": "string",
+            "enum": [
+              "Installed",
+              "Faulty",
+              "Decommissioned"
+            ]
+          },
+          "installationType": {
+            "type": "string",
+            "nullable": true,
+            "example": "Whole Current"
+          },
+          "transformer": {
+            "type": "object",
+            "properties": {
+              "code": {
+                "type": "string"
+              },
+              "name": {
+                "type": "string",
+                "nullable": true
+              },
+              "feederCode": {
+                "type": "string",
+                "nullable": true
+              },
+              "capacityKva": {
+                "type": "number",
+                "nullable": true
+              }
+            }
+          },
+          "hierarchy": {
+            "type": "object",
+            "properties": {
+              "zone": {
+                "$ref": "#/components/schemas/Level"
+              },
+              "circle": {
+                "$ref": "#/components/schemas/Level"
+              },
+              "division": {
+                "$ref": "#/components/schemas/Level"
+              },
+              "subdivision": {
+                "$ref": "#/components/schemas/Level"
+              },
+              "substation": {
+                "$ref": "#/components/schemas/Level"
+              },
+              "feeder": {
+                "$ref": "#/components/schemas/Level"
+              },
+              "dt": {
+                "$ref": "#/components/schemas/Level"
+              }
+            }
+          },
+          "location": {
+            "type": "object",
+            "nullable": true,
+            "properties": {
+              "latitude": {
+                "type": "number"
+              },
+              "longitude": {
+                "type": "number"
+              }
+            }
+          },
+          "warnings": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "description": "Human-readable notes on any value that was filled in or reconciled"
+          },
+          "distanceKm": {
+            "type": "number",
+            "description": "Only present when `near` was used"
+          }
+        }
+      },
+      "MeterPage": {
+        "type": "object",
+        "properties": {
+          "data": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Meter"
+            }
+          },
+          "page": {
+            "type": "integer"
+          },
+          "pageSize": {
+            "type": "integer"
+          },
+          "total": {
+            "type": "integer"
+          },
+          "totalPages": {
+            "type": "integer"
+          },
+          "meta": {
+            "$ref": "#/components/schemas/Meta"
+          }
+        }
+      },
+      "Transformer": {
+        "type": "object",
+        "description": "Passed through from the portal's /portal/dts list",
+        "additionalProperties": true,
+        "properties": {
+          "code": {
+            "type": "string",
+            "example": "DT-001"
+          },
+          "name": {
+            "type": "string"
+          },
+          "feederCode": {
+            "type": "string"
+          },
+          "capacityKva": {
+            "type": "number"
+          }
+        }
+      },
+      "HierarchyNode": {
+        "type": "object",
+        "properties": {
+          "level": {
+            "type": "string",
+            "enum": [
+              "zone",
+              "circle",
+              "division",
+              "subdivision",
+              "substation",
+              "feeder",
+              "dt"
+            ]
+          },
+          "code": {
+            "type": "string"
+          },
+          "name": {
+            "type": "string"
+          },
+          "path": {
+            "type": "string",
+            "example": "Z-01/C-01/D-01"
+          },
+          "meterCount": {
+            "type": "integer"
+          },
+          "children": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/HierarchyNode"
+            }
+          }
+        }
+      },
+      "MeterWarnings": {
+        "type": "object",
+        "properties": {
+          "meterId": {
+            "type": "string"
+          },
+          "warnings": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      },
+      "Error": {
+        "type": "object",
+        "properties": {
+          "error": {
+            "type": "object",
+            "properties": {
+              "code": {
+                "type": "string",
+                "example": "invalid_parameter"
+              },
+              "message": {
+                "type": "string"
+              }
+            }
+          }
+        }
+      }
+    },
+    "responses": {
+      "BadRequest": {
+        "description": "Invalid query parameter",
+        "content": {
+          "application/json": {
+            "schema": {
+              "$ref": "#/components/schemas/Error"
+            }
+          }
+        }
+      },
+      "NotFound": {
+        "description": "No such meter / route",
+        "content": {
+          "application/json": {
+            "schema": {
+              "$ref": "#/components/schemas/Error"
+            }
+          }
+        }
+      },
+      "PortalError": {
+        "description": "The upstream portal failed (codes: portal_unreachable, portal_timeout, portal_login_failed, portal_bad_payload, ...)",
+        "content": {
+          "application/json": {
+            "schema": {
+              "$ref": "#/components/schemas/Error"
+            }
+          }
+        }
+      }
+    }
+  }
+}

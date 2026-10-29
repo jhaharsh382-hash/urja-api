@@ -1,0 +1,6450 @@
+[
+ {
+  "meterId": "J100000",
+  "dtCode": "DT-001",
+  "hierarchy": {
+   "Meter ID": "J100000",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 1 (D-01)",
+   "Subdivision": "Subdivision 1 (SD-01)",
+   "Sub Station": "Substation 1 (SS-01)",
+   "Feeder": "Feeder 1 (F-001)",
+   "DT": "Malviya Nagar DT 1 (DT-001)"
+  }
+ },
+ {
+  "meterId": "J100001",
+  "dtCode": "DT-002",
+  "hierarchy": {
+   "Meter ID": "J100001",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 2 (D-02)",
+   "Subdivision": "Subdivision 2 (SD-02)",
+   "Sub Station": "Substation 2 (SS-02)",
+   "Feeder": "Feeder 2 (F-002)",
+   "DT": "Mansarovar DT 2 (DT-002)"
+  }
+ },
+ {
+  "meterId": "J100002",
+  "dtCode": "DT-003",
+  "hierarchy": {
+   "Meter ID": "J100002",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 3 (D-03)",
+   "Subdivision": "Subdivision 3 (SD-03)",
+   "Sub Station": "Substation 3 (SS-03)",
+   "Feeder": "Feeder 3 (F-003)",
+   "DT": "Vaishali DT 3 (DT-003)"
+  }
+ },
+ {
+  "meterId": "J100003",
+  "dtCode": "DT-004",
+  "hierarchy": {
+   "Meter ID": "J100003",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 4 (D-04)",
+   "Subdivision": "Subdivision 4 (SD-04)",
+   "Sub Station": "Substation 4 (SS-04)",
+   "Feeder": "Feeder 4 (F-004)",
+   "DT": "Raja Park DT 4 (DT-004)"
+  }
+ },
+ {
+  "meterId": "J100004",
+  "dtCode": "DT-005",
+  "hierarchy": {
+   "Meter ID": "J100004",
+   "Installation Status": "Faulty",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 5 (D-05)",
+   "Subdivision": "Subdivision 5 (SD-05)",
+   "Sub Station": "Substation 5 (SS-05)",
+   "Feeder": "Feeder 5 (F-005)",
+   "DT": "Bani Park DT 5 (DT-005)"
+  }
+ },
+ {
+  "meterId": "J100005",
+  "dtCode": "DT-006",
+  "hierarchy": {
+   "Meter ID": "J100005",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 6 (D-06)",
+   "Subdivision": "Subdivision 6 (SD-06)",
+   "Sub Station": "Substation 6 (SS-06)",
+   "Feeder": "Feeder 6 (F-006)",
+   "DT": "Jhotwara DT 6 (DT-006)"
+  }
+ },
+ {
+  "meterId": "J100006",
+  "dtCode": "DT-007",
+  "hierarchy": {
+   "Meter ID": "J100006",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 7 (D-07)",
+   "Subdivision": "Subdivision 7 (SD-07)",
+   "Sub Station": "Substation 7 (SS-07)",
+   "Feeder": "Feeder 7 (F-007)",
+   "DT": "Sanganer DT 7 (DT-007)"
+  }
+ },
+ {
+  "meterId": "J100007",
+  "dtCode": "DT-008",
+  "hierarchy": {
+   "Meter ID": "J100007",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 8 (D-08)",
+   "Subdivision": "Subdivision 8 (SD-08)",
+   "Sub Station": "Substation 8 (SS-08)",
+   "Feeder": "Feeder 8 (F-008)",
+   "DT": "Tonk Road DT 8 (DT-008)"
+  }
+ },
+ {
+  "meterId": "J100008",
+  "dtCode": "DT-009",
+  "hierarchy": {
+   "Meter ID": "J100008",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 9 (D-09)",
+   "Subdivision": "Subdivision 9 (SD-09)",
+   "Sub Station": "Substation 9 (SS-09)",
+   "Feeder": "Feeder 9 (F-009)",
+   "DT": "Sikar Road DT 9 (DT-009)"
+  }
+ },
+ {
+  "meterId": "J100009",
+  "dtCode": "DT-010",
+  "hierarchy": {
+   "Meter ID": "J100009",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 10 (D-10)",
+   "Subdivision": "Subdivision 10 (SD-10)",
+   "Sub Station": "Substation 10 (SS-10)",
+   "Feeder": "Feeder 10 (F-010)",
+   "DT": "Civil Lines DT 10 (DT-010)"
+  }
+ },
+ {
+  "meterId": "J100010",
+  "dtCode": "DT-011",
+  "hierarchy": {
+   "Meter ID": "J100010",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 1 (D-01)",
+   "Subdivision": "Subdivision 11 (SD-11)",
+   "Sub Station": "Substation 11 (SS-11)",
+   "Feeder": "Feeder 11 (F-011)",
+   "DT": "Malviya Nagar DT 11 (DT-011)"
+  }
+ },
+ {
+  "meterId": "J100011",
+  "dtCode": "DT-012",
+  "hierarchy": {
+   "Meter ID": "J100011",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6",
+   "Division": "Division 2 (D-02)",
+   "Subdivision": "Subdivision 12 (SD-12)",
+   "Sub Station": "Substation 12 (SS-12)",
+   "Feeder": "Feeder 12 (F-012)",
+   "DT": "Mansarovar DT 12 (DT-012)"
+  }
+ },
+ {
+  "meterId": "J100012",
+  "dtCode": "DT-013",
+  "hierarchy": {
+   "Meter ID": "J100012",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 3 (D-03)",
+   "Subdivision": "Subdivision 13 (SD-13)",
+   "Sub Station": "Substation 13 (SS-13)",
+   "Feeder": "Feeder 13 (F-013)",
+   "DT": "Vaishali DT 13 (DT-013)"
+  }
+ },
+ {
+  "meterId": "J100013",
+  "dtCode": "DT-014",
+  "hierarchy": {
+   "Meter ID": "J100013",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 4 (D-04)",
+   "Subdivision": "Subdivision 14 (SD-14)",
+   "Sub Station": "Substation 14 (SS-14)",
+   "Feeder": "Feeder 14 (F-014)",
+   "DT": "Raja Park DT 14 (DT-014)"
+  }
+ },
+ {
+  "meterId": "J100014",
+  "dtCode": "DT-015",
+  "hierarchy": {
+   "Meter ID": "J100014",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 5 (D-05)",
+   "Subdivision": "Subdivision 1 (SD-01)",
+   "Sub Station": "Substation 15 (SS-15)",
+   "Feeder": "Feeder 15 (F-015)",
+   "DT": "Bani Park DT 15 (DT-015)"
+  }
+ },
+ {
+  "meterId": "J100015",
+  "dtCode": "DT-016",
+  "hierarchy": {
+   "Meter ID": "J100015",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 6 (D-06)",
+   "Subdivision": "Subdivision 2 (SD-02)",
+   "Sub Station": "Substation 16 (SS-16)",
+   "Feeder": "Feeder 16 (F-016)",
+   "DT": "Jhotwara DT 16 (DT-016)"
+  }
+ },
+ {
+  "meterId": "J100016",
+  "dtCode": "DT-017",
+  "hierarchy": {
+   "Meter ID": "J100016",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 7 (D-07)",
+   "Subdivision": "Subdivision 3 (SD-03)",
+   "Sub Station": "Substation 17 (SS-17)",
+   "Feeder": "Feeder 17 (F-017)",
+   "DT": "Sanganer DT 17 (DT-017)"
+  }
+ },
+ {
+  "meterId": "J100017",
+  "dtCode": "DT-018",
+  "hierarchy": {
+   "Meter ID": "J100017",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 8 (D-08)",
+   "Subdivision": "Subdivision 4 (SD-04)",
+   "Sub Station": "Substation 18 (SS-18)",
+   "Feeder": "Feeder 18 (F-018)",
+   "DT": "Tonk Road DT 18 (DT-018)"
+  }
+ },
+ {
+  "meterId": "J100018",
+  "dtCode": "DT-019",
+  "hierarchy": {
+   "Meter ID": "J100018",
+   "Installation Status": "Faulty",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 9 (D-09)",
+   "Subdivision": "Subdivision 5 (SD-05)",
+   "Sub Station": "Substation 1 (SS-01)",
+   "Feeder": "Feeder 19 (F-019)",
+   "DT": "Sikar Road DT 19 (DT-019)"
+  }
+ },
+ {
+  "meterId": "J100019",
+  "dtCode": "DT-020",
+  "hierarchy": {
+   "Meter ID": "J100019",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 10 (D-10)",
+   "Subdivision": "Subdivision 6 (SD-06)",
+   "Sub Station": "Substation 2 (SS-02)",
+   "Feeder": "Feeder 20 (F-020)",
+   "DT": "Civil Lines DT 20 (DT-020)"
+  }
+ },
+ {
+  "meterId": "J100020",
+  "dtCode": "DT-021",
+  "hierarchy": {
+   "Meter ID": "J100020",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 1 (D-01)",
+   "Subdivision": "Subdivision 7 (SD-07)",
+   "Sub Station": "Substation 3 (SS-03)",
+   "Feeder": "Feeder 21 (F-021)",
+   "DT": "Malviya Nagar DT 21 (DT-021)"
+  }
+ },
+ {
+  "meterId": "J100021",
+  "dtCode": "DT-022",
+  "hierarchy": {
+   "Meter ID": "J100021",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 2 (D-02)",
+   "Subdivision": "Subdivision 8 (SD-08)",
+   "Sub Station": "Substation 4 (SS-04)",
+   "Feeder": "Feeder 22 (F-022)",
+   "DT": "Mansarovar DT 22 (DT-022)"
+  }
+ },
+ {
+  "meterId": "J100022",
+  "dtCode": "DT-023",
+  "hierarchy": {
+   "Meter ID": "J100022",
+   "Installation Status": "Faulty",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 3 (D-03)",
+   "Subdivision": "Subdivision 9 (SD-09)",
+   "Sub Station": "Substation 5 (SS-05)",
+   "Feeder": "Feeder 23 (F-023)",
+   "DT": "Vaishali DT 23 (DT-023)"
+  }
+ },
+ {
+  "meterId": "J100023",
+  "dtCode": "DT-024",
+  "hierarchy": {
+   "Meter ID": "J100023",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 4 (D-04)",
+   "Subdivision": "Subdivision 10 (SD-10)",
+   "Sub Station": "Substation 6 (SS-06)",
+   "Feeder": "Feeder 24 (F-024)",
+   "DT": "Raja Park DT 24 (DT-024)"
+  }
+ },
+ {
+  "meterId": "J100024",
+  "dtCode": "DT-025",
+  "hierarchy": {
+   "Meter ID": "J100024",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 5 (D-05)",
+   "Subdivision": "Subdivision 11 (SD-11)",
+   "Sub Station": "Substation 7 (SS-07)",
+   "Feeder": "Feeder 25 (F-025)",
+   "DT": "Bani Park DT 25 (DT-025)"
+  }
+ },
+ {
+  "meterId": "J100025",
+  "dtCode": "DT-026",
+  "hierarchy": {
+   "Meter ID": "J100025",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 6 (D-06)",
+   "Subdivision": "Subdivision 12 (SD-12)",
+   "Sub Station": "Substation 8 (SS-08)",
+   "Feeder": "Feeder 26 (F-026)",
+   "DT": "Jhotwara DT 26 (DT-026)"
+  }
+ },
+ {
+  "meterId": "J100026",
+  "dtCode": "DT-027",
+  "hierarchy": {
+   "Meter ID": "J100026",
+   "Installation Status": "Faulty",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 7 (D-07)",
+   "Subdivision": "Subdivision 13 (SD-13)",
+   "Sub Station": "Substation 9 (SS-09)",
+   "Feeder": "Feeder 27 (F-027)",
+   "DT": "Sanganer DT 27 (DT-027)"
+  }
+ },
+ {
+  "meterId": "J100027",
+  "dtCode": "DT-028",
+  "hierarchy": {
+   "Meter ID": "J100027",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 8 (D-08)",
+   "Subdivision": "Subdivision 14 (SD-14)",
+   "Sub Station": "Substation 10 (SS-10)",
+   "Feeder": "Feeder 28 (F-028)",
+   "DT": "Tonk Road DT 28 (DT-028)"
+  }
+ },
+ {
+  "meterId": "J100028",
+  "dtCode": "DT-029",
+  "hierarchy": {
+   "Meter ID": "J100028",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 9 (D-09)",
+   "Subdivision": "Subdivision 1 (SD-01)",
+   "Sub Station": "Substation 11 (SS-11)",
+   "Feeder": "Feeder 1 (F-001)",
+   "DT": "Sikar Road DT 29 (DT-029)"
+  }
+ },
+ {
+  "meterId": "J100029",
+  "dtCode": "DT-030",
+  "hierarchy": {
+   "Meter ID": "J100029",
+   "Installation Status": "Faulty",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 10 (D-10)",
+   "Subdivision": "Subdivision 2 (SD-02)",
+   "Sub Station": "Substation 12 (SS-12)",
+   "Feeder": "Feeder 2 (F-002)",
+   "DT": "Civil Lines DT 30 (DT-030)"
+  }
+ },
+ {
+  "meterId": "J100030",
+  "dtCode": "DT-031",
+  "hierarchy": {
+   "Meter ID": "J100030",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 1 (D-01)",
+   "Subdivision": "Subdivision 3 (SD-03)",
+   "Sub Station": "Substation 13 (SS-13)",
+   "Feeder": "Feeder 3 (F-003)",
+   "DT": "Malviya Nagar DT 31 (DT-031)"
+  }
+ },
+ {
+  "meterId": "J100031",
+  "dtCode": "DT-032",
+  "hierarchy": {
+   "Meter ID": "J100031",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 2 (D-02)",
+   "Subdivision": "Subdivision 4 (SD-04)",
+   "Sub Station": "Substation 14 (SS-14)",
+   "Feeder": "Feeder 4 (F-004)",
+   "DT": "Mansarovar DT 32 (DT-032)"
+  }
+ },
+ {
+  "meterId": "J100032",
+  "dtCode": "DT-033",
+  "hierarchy": {
+   "Meter ID": "J100032",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 3 (D-03)",
+   "Subdivision": "Subdivision 5 (SD-05)",
+   "Sub Station": "Substation 15 (SS-15)",
+   "Feeder": "Feeder 5 (F-005)",
+   "DT": "Vaishali DT 33 (DT-033)"
+  }
+ },
+ {
+  "meterId": "J100033",
+  "dtCode": "DT-034",
+  "hierarchy": {
+   "Meter ID": "J100033",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 4 (D-04)",
+   "Subdivision": "Subdivision 6 (SD-06)",
+   "Sub Station": "Substation 16 (SS-16)",
+   "Feeder": "Feeder 6 (F-006)",
+   "DT": "Raja Park DT 34 (DT-034)"
+  }
+ },
+ {
+  "meterId": "J100034",
+  "dtCode": "DT-035",
+  "hierarchy": {
+   "Meter ID": "J100034",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 5 (D-05)",
+   "Subdivision": "Subdivision 7 (SD-07)",
+   "Sub Station": "Substation 17 (SS-17)",
+   "Feeder": "Feeder 7 (F-007)",
+   "DT": "Bani Park DT 35 (DT-035)"
+  }
+ },
+ {
+  "meterId": "J100035",
+  "dtCode": "DT-036",
+  "hierarchy": {
+   "Meter ID": "J100035",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 6 (D-06)",
+   "Subdivision": "Subdivision 8 (SD-08)",
+   "Sub Station": "Substation 18 (SS-18)",
+   "Feeder": "Feeder 8 (F-008)",
+   "DT": "Jhotwara DT 36 (DT-036)"
+  }
+ },
+ {
+  "meterId": "J100036",
+  "dtCode": "DT-037",
+  "hierarchy": {
+   "Meter ID": "J100036",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 7 (D-07)",
+   "Subdivision": "Subdivision 9 (SD-09)",
+   "Sub Station": "Substation 1 (SS-01)",
+   "Feeder": "Feeder 9 (F-009)",
+   "DT": "Sanganer DT 37 (DT-037)"
+  }
+ },
+ {
+  "meterId": "J100037",
+  "dtCode": "DT-038",
+  "hierarchy": {
+   "Meter ID": "J100037",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 8 (D-08)",
+   "Subdivision": "Subdivision 10 (SD-10)",
+   "Sub Station": "Substation 2 (SS-02)",
+   "Feeder": "Feeder 10 (F-010)",
+   "DT": "Tonk Road DT 38 (DT-038)"
+  }
+ },
+ {
+  "meterId": "J100038",
+  "dtCode": "DT-039",
+  "hierarchy": {
+   "Meter ID": "J100038",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 9 (D-09)",
+   "Subdivision": "Subdivision 11 (SD-11)",
+   "Sub Station": "Substation 3 (SS-03)",
+   "Feeder": "Feeder 11 (F-011)",
+   "DT": "Sikar Road DT 39 (DT-039)"
+  }
+ },
+ {
+  "meterId": "J100039",
+  "dtCode": "DT-040",
+  "hierarchy": {
+   "Meter ID": "J100039",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 10 (D-10)",
+   "Subdivision": "Subdivision 12 (SD-12)",
+   "Sub Station": "Substation 4 (SS-04)",
+   "Feeder": "Feeder 12 (F-012)",
+   "DT": "Civil Lines DT 40 (DT-040)"
+  }
+ },
+ {
+  "meterId": "J100040",
+  "dtCode": "DT-001",
+  "hierarchy": {
+   "Meter ID": "J100040",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 1 (D-01)",
+   "Subdivision": "Subdivision 1 (SD-01)",
+   "Sub Station": "Substation 1 (SS-01)",
+   "Feeder": "Feeder 1 (F-001)",
+   "DT": "Malviya Nagar DT 1 (DT-001)"
+  }
+ },
+ {
+  "meterId": "J100041",
+  "dtCode": "DT-002",
+  "hierarchy": {
+   "Meter ID": "J100041",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 2 (D-02)",
+   "Subdivision": "Subdivision 2 (SD-02)",
+   "Sub Station": "Substation 2 (SS-02)",
+   "Feeder": "Feeder 2 (F-002)",
+   "DT": "Mansarovar DT 2 (DT-002)"
+  }
+ },
+ {
+  "meterId": "J100042",
+  "dtCode": "DT-003",
+  "hierarchy": {
+   "Meter ID": "J100042",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 3 (D-03)",
+   "Subdivision": "Subdivision 3 (SD-03)",
+   "Sub Station": "Substation 3 (SS-03)",
+   "Feeder": "Feeder 3 (F-003)",
+   "DT": "Vaishali DT 3 (DT-003)"
+  }
+ },
+ {
+  "meterId": "J100043",
+  "dtCode": "DT-004",
+  "hierarchy": {
+   "Meter ID": "J100043",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 4 (D-04)",
+   "Subdivision": "Subdivision 4 (SD-04)",
+   "Sub Station": "Substation 4 (SS-04)",
+   "Feeder": "Feeder 4 (F-004)",
+   "DT": "Raja Park DT 4 (DT-004)"
+  }
+ },
+ {
+  "meterId": "J100044",
+  "dtCode": "DT-005",
+  "hierarchy": {
+   "Meter ID": "J100044",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 5 (D-05)",
+   "Subdivision": "Subdivision 5 (SD-05)",
+   "Sub Station": "Substation 5 (SS-05)",
+   "Feeder": "Feeder 5",
+   "DT": "Bani Park DT 5 (DT-005)"
+  }
+ },
+ {
+  "meterId": "J100045",
+  "dtCode": "DT-006",
+  "hierarchy": {
+   "Meter ID": "J100045",
+   "Installation Status": "Faulty",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 6 (D-06)",
+   "Subdivision": "Subdivision 6 (SD-06)",
+   "Sub Station": "Substation 6 (SS-06)",
+   "Feeder": "Feeder 6 (F-006)",
+   "DT": "Jhotwara DT 6 (DT-006)"
+  }
+ },
+ {
+  "meterId": "J100046",
+  "dtCode": "DT-007",
+  "hierarchy": {
+   "Meter ID": "J100046",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 7 (D-07)",
+   "Subdivision": "Subdivision 7 (SD-07)",
+   "Sub Station": "Substation 7 (SS-07)",
+   "Feeder": "Feeder 7 (F-007)",
+   "DT": "Sanganer DT 7 (DT-007)"
+  }
+ },
+ {
+  "meterId": "J100047",
+  "dtCode": "DT-008",
+  "hierarchy": {
+   "Meter ID": "J100047",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 8 (D-08)",
+   "Subdivision": "Subdivision 8 (SD-08)",
+   "Sub Station": "Substation 8 (SS-08)",
+   "Feeder": "Feeder 8 (F-008)",
+   "DT": "Tonk Road DT 8 (DT-008)"
+  }
+ },
+ {
+  "meterId": "J100048",
+  "dtCode": "DT-009",
+  "hierarchy": {
+   "Meter ID": "J100048",
+   "Installation Status": "Faulty",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 9 (D-09)",
+   "Subdivision": "Subdivision 9 (SD-09)",
+   "Sub Station": "Substation 9 (SS-09)",
+   "Feeder": "Feeder 9 (F-009)",
+   "DT": "Sikar Road DT 9 (DT-009)"
+  }
+ },
+ {
+  "meterId": "J100049",
+  "dtCode": "DT-010",
+  "hierarchy": {
+   "Meter ID": "J100049",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 10 (D-10)",
+   "Subdivision": "Subdivision 10 (SD-10)",
+   "Sub Station": "Substation 10 (SS-10)",
+   "Feeder": "Feeder 10 (F-010)",
+   "DT": "Civil Lines DT 10 (DT-010)"
+  }
+ },
+ {
+  "meterId": "J100050",
+  "dtCode": "DT-011",
+  "hierarchy": {
+   "Meter ID": "J100050",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 1 (D-01)",
+   "Subdivision": "Subdivision 11 (SD-11)",
+   "Sub Station": "Substation 11 (SS-11)",
+   "Feeder": "Feeder 11 (F-011)",
+   "DT": "Malviya Nagar DT 11 (DT-011)"
+  }
+ },
+ {
+  "meterId": "J100051",
+  "dtCode": "DT-012",
+  "hierarchy": {
+   "Meter ID": "J100051",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 2 (D-02)",
+   "Subdivision": "Subdivision 12 (SD-12)",
+   "Sub Station": "Substation 12 (SS-12)",
+   "Feeder": "Feeder 12 (F-012)",
+   "DT": "Mansarovar DT 12 (DT-012)"
+  }
+ },
+ {
+  "meterId": "J100052",
+  "dtCode": "DT-013",
+  "hierarchy": {
+   "Meter ID": "J100052",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 3 (D-03)",
+   "Subdivision": "Subdivision 13 (SD-13)",
+   "Sub Station": "Substation 13 (SS-13)",
+   "Feeder": "Feeder 13 (F-013)",
+   "DT": "Vaishali DT 13 (DT-013)"
+  }
+ },
+ {
+  "meterId": "J100053",
+  "dtCode": "DT-014",
+  "hierarchy": {
+   "Meter ID": "J100053",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 4 (D-04)",
+   "Subdivision": "Subdivision 14 (SD-14)",
+   "Sub Station": "Substation 14 (SS-14)",
+   "Feeder": "Feeder 14 (F-014)",
+   "DT": "Raja Park DT 14 (DT-014)"
+  }
+ },
+ {
+  "meterId": "J100054",
+  "dtCode": "DT-015",
+  "hierarchy": {
+   "Meter ID": "J100054",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 5 (D-05)",
+   "Subdivision": "Subdivision 1 (SD-01)",
+   "Sub Station": "Substation 15 (SS-15)",
+   "Feeder": "Feeder 15 (F-015)",
+   "DT": "Bani Park DT 15 (DT-015)"
+  }
+ },
+ {
+  "meterId": "J100055",
+  "dtCode": "DT-016",
+  "hierarchy": {
+   "Meter ID": "J100055",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 6 (D-06)",
+   "Subdivision": "Subdivision 2 (SD-02)",
+   "Sub Station": "Substation 16 (SS-16)",
+   "Feeder": "Feeder 16 (F-016)",
+   "DT": "Jhotwara DT 16 (DT-016)"
+  }
+ },
+ {
+  "meterId": "J100056",
+  "dtCode": "DT-017",
+  "hierarchy": {
+   "Meter ID": "J100056",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 7 (D-07)",
+   "Subdivision": "Subdivision 3 (SD-03)",
+   "Sub Station": "Substation 17 (SS-17)",
+   "Feeder": "Feeder 17 (F-017)",
+   "DT": "Sanganer DT 17 (DT-017)"
+  }
+ },
+ {
+  "meterId": "J100057",
+  "dtCode": "DT-018",
+  "hierarchy": {
+   "Meter ID": "J100057",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 8 (D-08)",
+   "Subdivision": "Subdivision 4 (SD-04)",
+   "Sub Station": "Substation 18 (SS-18)",
+   "Feeder": "Feeder 18 (F-018)",
+   "DT": "Tonk Road DT 18 (DT-018)"
+  }
+ },
+ {
+  "meterId": "J100058",
+  "dtCode": "DT-019",
+  "hierarchy": {
+   "Meter ID": "J100058",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 9 (D-09)",
+   "Subdivision": "Subdivision 5 (SD-05)",
+   "Sub Station": "Substation 1 (SS-01)",
+   "Feeder": "Feeder 19 (F-019)",
+   "DT": "Sikar Road DT 19 (DT-019)"
+  }
+ },
+ {
+  "meterId": "J100059",
+  "dtCode": "DT-020",
+  "hierarchy": {
+   "Meter ID": "J100059",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 10 (D-10)",
+   "Subdivision": "Subdivision 6 (SD-06)",
+   "Sub Station": "Substation 2 (SS-02)",
+   "Feeder": "Feeder 20 (F-020)",
+   "DT": "Civil Lines DT 20 (DT-020)"
+  }
+ },
+ {
+  "meterId": "J100060",
+  "dtCode": "DT-021",
+  "hierarchy": {
+   "Meter ID": "J100060",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 1 (D-01)",
+   "Subdivision": "Subdivision 7 (SD-07)",
+   "Sub Station": "Substation 3 (SS-03)",
+   "Feeder": "Feeder 21 (F-021)",
+   "DT": "Malviya Nagar DT 21 (DT-021)"
+  }
+ },
+ {
+  "meterId": "J100061",
+  "dtCode": "DT-022",
+  "hierarchy": {
+   "Meter ID": "J100061",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 2 (D-02)",
+   "Subdivision": "Subdivision 8 (SD-08)",
+   "Sub Station": "Substation 4 (SS-04)",
+   "Feeder": "Feeder 22 (F-022)",
+   "DT": "Mansarovar DT 22 (DT-022)"
+  }
+ },
+ {
+  "meterId": "J100062",
+  "dtCode": "DT-023",
+  "hierarchy": {
+   "Meter ID": "J100062",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 3 (D-03)",
+   "Subdivision": "Subdivision 9 (SD-09)",
+   "Sub Station": "Substation 5 (SS-05)",
+   "Feeder": "Feeder 23 (F-023)",
+   "DT": "Vaishali DT 23 (DT-023)"
+  }
+ },
+ {
+  "meterId": "J100063",
+  "dtCode": "DT-024",
+  "hierarchy": {
+   "Meter ID": "J100063",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 4 (D-04)",
+   "Subdivision": "Subdivision 10 (SD-10)",
+   "Sub Station": "Substation 6 (SS-06)",
+   "Feeder": "Feeder 24 (F-024)",
+   "DT": "Raja Park DT 24 (DT-024)"
+  }
+ },
+ {
+  "meterId": "J100064",
+  "dtCode": "DT-025",
+  "hierarchy": {
+   "Meter ID": "J100064",
+   "Installation Status": "Faulty",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 5 (D-05)",
+   "Subdivision": "Subdivision 11 (SD-11)",
+   "Sub Station": "Substation 7 (SS-07)",
+   "Feeder": "Feeder 25 (F-025)",
+   "DT": "Bani Park DT 25 (DT-025)"
+  }
+ },
+ {
+  "meterId": "J100065",
+  "dtCode": "DT-026",
+  "hierarchy": {
+   "Meter ID": "J100065",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 6 (D-06)",
+   "Subdivision": "Subdivision 12 (SD-12)",
+   "Sub Station": "Substation 8 (SS-08)",
+   "Feeder": "Feeder 26 (F-026)",
+   "DT": "Jhotwara DT 26 (DT-026)"
+  }
+ },
+ {
+  "meterId": "J100066",
+  "dtCode": "DT-027",
+  "hierarchy": {
+   "Meter ID": "J100066",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 7 (D-07)",
+   "Subdivision": "Subdivision 13 (SD-13)",
+   "Sub Station": "Substation 9 (SS-09)",
+   "Feeder": "Feeder 27 (F-027)",
+   "DT": "Sanganer DT 27 (DT-027)"
+  }
+ },
+ {
+  "meterId": "J100067",
+  "dtCode": "DT-028",
+  "hierarchy": {
+   "Meter ID": "J100067",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 8 (D-08)",
+   "Subdivision": "Subdivision 14 (SD-14)",
+   "Sub Station": "Substation 10 (SS-10)",
+   "Feeder": "Feeder 28 (F-028)",
+   "DT": "Tonk Road DT 28 (DT-028)"
+  }
+ },
+ {
+  "meterId": "J100068",
+  "dtCode": "DT-029",
+  "hierarchy": {
+   "Meter ID": "J100068",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 9 (D-09)",
+   "Subdivision": "Subdivision 1 (SD-01)",
+   "Sub Station": "Substation 11 (SS-11)",
+   "Feeder": "Feeder 1 (F-001)",
+   "DT": "Sikar Road DT 29 (DT-029)"
+  }
+ },
+ {
+  "meterId": "J100069",
+  "dtCode": "DT-030",
+  "hierarchy": {
+   "Meter ID": "J100069",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 10 (D-10)",
+   "Subdivision": "Subdivision 2 (SD-02)",
+   "Sub Station": "Substation 12 (SS-12)",
+   "Feeder": "Feeder 2 (F-002)",
+   "DT": "Civil Lines DT 30 (DT-030)"
+  }
+ },
+ {
+  "meterId": "J100070",
+  "dtCode": "DT-031",
+  "hierarchy": {
+   "Meter ID": "J100070",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 1 (D-01)",
+   "Subdivision": "Subdivision 3 (SD-03)",
+   "Sub Station": "Substation 13 (SS-13)",
+   "Feeder": "Feeder 3 (F-003)",
+   "DT": "Malviya Nagar DT 31 (DT-031)"
+  }
+ },
+ {
+  "meterId": "J100071",
+  "dtCode": "DT-032",
+  "hierarchy": {
+   "Meter ID": "J100071",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 2 (D-02)",
+   "Subdivision": "Subdivision 4 (SD-04)",
+   "Sub Station": "Substation 14 (SS-14)",
+   "Feeder": "Feeder 4 (F-004)",
+   "DT": "Mansarovar DT 32 (DT-032)"
+  }
+ },
+ {
+  "meterId": "J100072",
+  "dtCode": "DT-033",
+  "hierarchy": {
+   "Meter ID": "J100072",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 3 (D-03)",
+   "Subdivision": "Subdivision 5 (SD-05)",
+   "Sub Station": "Substation 15 (SS-15)",
+   "Feeder": "Feeder 5 (F-005)",
+   "DT": "Vaishali DT 33 (DT-033)"
+  }
+ },
+ {
+  "meterId": "J100073",
+  "dtCode": "DT-034",
+  "hierarchy": {
+   "Meter ID": "J100073",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 4 (D-04)",
+   "Subdivision": "Subdivision 6 (SD-06)",
+   "Sub Station": "Substation 16 (SS-16)",
+   "Feeder": "Feeder 6 (F-006)",
+   "DT": "Raja Park DT 34 (DT-034)"
+  }
+ },
+ {
+  "meterId": "J100074",
+  "dtCode": "DT-035",
+  "hierarchy": {
+   "Meter ID": "J100074",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5",
+   "Division": "Division 5 (D-05)",
+   "Subdivision": "Subdivision 7 (SD-07)",
+   "Sub Station": "Substation 17 (SS-17)",
+   "Feeder": "Feeder 7 (F-007)",
+   "DT": "Bani Park DT 35 (DT-035)"
+  }
+ },
+ {
+  "meterId": "J100075",
+  "dtCode": "DT-036",
+  "hierarchy": {
+   "Meter ID": "J100075",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 6 (D-06)",
+   "Subdivision": "Subdivision 8 (SD-08)",
+   "Sub Station": "Substation 18 (SS-18)",
+   "Feeder": "Feeder 8 (F-008)",
+   "DT": "Jhotwara DT 36 (DT-036)"
+  }
+ },
+ {
+  "meterId": "J100076",
+  "dtCode": "DT-037",
+  "hierarchy": {
+   "Meter ID": "J100076",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 7 (D-07)",
+   "Subdivision": "Subdivision 9 (SD-09)",
+   "Sub Station": "Substation 1 (SS-01)",
+   "Feeder": "Feeder 9 (F-009)",
+   "DT": "Sanganer DT 37 (DT-037)"
+  }
+ },
+ {
+  "meterId": "J100077",
+  "dtCode": "DT-038",
+  "hierarchy": {
+   "Meter ID": "J100077",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 8 (D-08)",
+   "Subdivision": "Subdivision 10 (SD-10)",
+   "Sub Station": "Substation 2 (SS-02)",
+   "Feeder": "Feeder 10 (F-010)",
+   "DT": "Tonk Road DT 38 (DT-038)"
+  }
+ },
+ {
+  "meterId": "J100078",
+  "dtCode": "DT-039",
+  "hierarchy": {
+   "Meter ID": "J100078",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 9 (D-09)",
+   "Subdivision": "Subdivision 11 (SD-11)",
+   "Sub Station": "Substation 3 (SS-03)",
+   "Feeder": "Feeder 11",
+   "DT": "Sikar Road DT 39 (DT-039)"
+  }
+ },
+ {
+  "meterId": "J100079",
+  "dtCode": "DT-040",
+  "hierarchy": {
+   "Meter ID": "J100079",
+   "Installation Status": "Faulty",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 10 (D-10)",
+   "Subdivision": "Subdivision 12 (SD-12)",
+   "Sub Station": "Substation 4 (SS-04)",
+   "Feeder": "Feeder 12 (F-012)",
+   "DT": "Civil Lines DT 40 (DT-040)"
+  }
+ },
+ {
+  "meterId": "J100080",
+  "dtCode": "DT-001",
+  "hierarchy": {
+   "Meter ID": "J100080",
+   "Installation Status": "Faulty",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 1 (D-01)",
+   "Subdivision": "Subdivision 1 (SD-01)",
+   "Sub Station": "Substation 1 (SS-01)",
+   "Feeder": "Feeder 1 (F-001)",
+   "DT": "Malviya Nagar DT 1 (DT-001)"
+  }
+ },
+ {
+  "meterId": "J100081",
+  "dtCode": "DT-002",
+  "hierarchy": {
+   "Meter ID": "J100081",
+   "Installation Status": "Faulty",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 2 (D-02)",
+   "Subdivision": "Subdivision 2 (SD-02)",
+   "Sub Station": "Substation 2 (SS-02)",
+   "Feeder": "Feeder 2 (F-002)",
+   "DT": "Mansarovar DT 2 (DT-002)"
+  }
+ },
+ {
+  "meterId": "J100082",
+  "dtCode": "DT-003",
+  "hierarchy": {
+   "Meter ID": "J100082",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 3 (D-03)",
+   "Subdivision": "Subdivision 3 (SD-03)",
+   "Sub Station": "Substation 3 (SS-03)",
+   "Feeder": "Feeder 3 (F-003)",
+   "DT": "Vaishali DT 3 (DT-003)"
+  }
+ },
+ {
+  "meterId": "J100083",
+  "dtCode": "DT-004",
+  "hierarchy": {
+   "Meter ID": "J100083",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 4 (D-04)",
+   "Subdivision": "Subdivision 4 (SD-04)",
+   "Sub Station": "Substation 4 (SS-04)",
+   "Feeder": "Feeder 4 (F-004)",
+   "DT": "Raja Park DT 4 (DT-004)"
+  }
+ },
+ {
+  "meterId": "J100084",
+  "dtCode": "DT-005",
+  "hierarchy": {
+   "Meter ID": "J100084",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 5 (D-05)",
+   "Subdivision": "Subdivision 5 (SD-05)",
+   "Sub Station": "Substation 5 (SS-05)",
+   "Feeder": "Feeder 5 (F-005)",
+   "DT": "Bani Park DT 5 (DT-005)"
+  }
+ },
+ {
+  "meterId": "J100085",
+  "dtCode": "DT-006",
+  "hierarchy": {
+   "Meter ID": "J100085",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 6 (D-06)",
+   "Subdivision": "Subdivision 6 (SD-06)",
+   "Sub Station": "Substation 6 (SS-06)",
+   "Feeder": "Feeder 6 (F-006)",
+   "DT": "Jhotwara DT 6 (DT-006)"
+  }
+ },
+ {
+  "meterId": "J100086",
+  "dtCode": "DT-007",
+  "hierarchy": {
+   "Meter ID": "J100086",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 7 (D-07)",
+   "Subdivision": "Subdivision 7 (SD-07)",
+   "Sub Station": "Substation 7 (SS-07)",
+   "Feeder": "Feeder 7 (F-007)",
+   "DT": "Sanganer DT 7 (DT-007)"
+  }
+ },
+ {
+  "meterId": "J100087",
+  "dtCode": "DT-008",
+  "hierarchy": {
+   "Meter ID": "J100087",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 8 (D-08)",
+   "Subdivision": "Subdivision 8 (SD-08)",
+   "Sub Station": "Substation 8 (SS-08)",
+   "Feeder": "Feeder 8 (F-008)",
+   "DT": "Tonk Road DT 8 (DT-008)"
+  }
+ },
+ {
+  "meterId": "J100088",
+  "dtCode": "DT-009",
+  "hierarchy": {
+   "Meter ID": "J100088",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 9 (D-09)",
+   "Subdivision": "Subdivision 9 (SD-09)",
+   "Sub Station": "Substation 9 (SS-09)",
+   "Feeder": "Feeder 9 (F-009)",
+   "DT": "Sikar Road DT 9 (DT-009)"
+  }
+ },
+ {
+  "meterId": "J100089",
+  "dtCode": "DT-010",
+  "hierarchy": {
+   "Meter ID": "J100089",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 10 (D-10)",
+   "Subdivision": "Subdivision 10 (SD-10)",
+   "Sub Station": "Substation 10 (SS-10)",
+   "Feeder": "Feeder 10 (F-010)",
+   "DT": "Civil Lines DT 10 (DT-010)"
+  }
+ },
+ {
+  "meterId": "J100090",
+  "dtCode": "DT-011",
+  "hierarchy": {
+   "Meter ID": "J100090",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 1 (D-01)",
+   "Subdivision": "Subdivision 11 (SD-11)",
+   "Sub Station": "Substation 11 (SS-11)",
+   "Feeder": "Feeder 11 (F-011)",
+   "DT": "Malviya Nagar DT 11 (DT-011)"
+  }
+ },
+ {
+  "meterId": "J100091",
+  "dtCode": "DT-012",
+  "hierarchy": {
+   "Meter ID": "J100091",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 2 (D-02)",
+   "Subdivision": "Subdivision 12 (SD-12)",
+   "Sub Station": "Substation 12 (SS-12)",
+   "Feeder": "Feeder 12 (F-012)",
+   "DT": "Mansarovar DT 12 (DT-012)"
+  }
+ },
+ {
+  "meterId": "J100092",
+  "dtCode": "DT-013",
+  "hierarchy": {
+   "Meter ID": "J100092",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 3 (D-03)",
+   "Subdivision": "Subdivision 13 (SD-13)",
+   "Sub Station": "Substation 13 (SS-13)",
+   "Feeder": "Feeder 13 (F-013)",
+   "DT": "Vaishali DT 13 (DT-013)"
+  }
+ },
+ {
+  "meterId": "J100093",
+  "dtCode": "DT-014",
+  "hierarchy": {
+   "Meter ID": "J100093",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 4 (D-04)",
+   "Subdivision": "Subdivision 14 (SD-14)",
+   "Sub Station": "Substation 14 (SS-14)",
+   "Feeder": "Feeder 14 (F-014)",
+   "DT": "Raja Park DT 14 (DT-014)"
+  }
+ },
+ {
+  "meterId": "J100094",
+  "dtCode": "DT-015",
+  "hierarchy": {
+   "Meter ID": "J100094",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 5 (D-05)",
+   "Subdivision": "Subdivision 1 (SD-01)",
+   "Sub Station": "Substation 15 (SS-15)",
+   "Feeder": "Feeder 15 (F-015)",
+   "DT": "Bani Park DT 15 (DT-015)"
+  }
+ },
+ {
+  "meterId": "J100095",
+  "dtCode": "DT-016",
+  "hierarchy": {
+   "Meter ID": "J100095",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 6 (D-06)",
+   "Subdivision": "Subdivision 2 (SD-02)",
+   "Sub Station": "Substation 16 (SS-16)",
+   "Feeder": "Feeder 16 (F-016)",
+   "DT": "Jhotwara DT 16 (DT-016)"
+  }
+ },
+ {
+  "meterId": "J100096",
+  "dtCode": "DT-017",
+  "hierarchy": {
+   "Meter ID": "J100096",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 7 (D-07)",
+   "Subdivision": "Subdivision 3 (SD-03)",
+   "Sub Station": "Substation 17 (SS-17)",
+   "Feeder": "Feeder 17 (F-017)",
+   "DT": "Sanganer DT 17 (DT-017)"
+  }
+ },
+ {
+  "meterId": "J100097",
+  "dtCode": "DT-018",
+  "hierarchy": {
+   "Meter ID": "J100097",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6",
+   "Division": "Division 8 (D-08)",
+   "Subdivision": "Subdivision 4 (SD-04)",
+   "Sub Station": "Substation 18 (SS-18)",
+   "Feeder": "Feeder 18 (F-018)",
+   "DT": "Tonk Road DT 18 (DT-018)"
+  }
+ },
+ {
+  "meterId": "J100098",
+  "dtCode": "DT-019",
+  "hierarchy": {
+   "Meter ID": "J100098",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 9 (D-09)",
+   "Subdivision": "Subdivision 5 (SD-05)",
+   "Sub Station": "Substation 1 (SS-01)",
+   "Feeder": "Feeder 19 (F-019)",
+   "DT": "Sikar Road DT 19 (DT-019)"
+  }
+ },
+ {
+  "meterId": "J100099",
+  "dtCode": "DT-020",
+  "hierarchy": {
+   "Meter ID": "J100099",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 10 (D-10)",
+   "Subdivision": "Subdivision 6 (SD-06)",
+   "Sub Station": "Substation 2 (SS-02)",
+   "Feeder": "Feeder 20 (F-020)",
+   "DT": "Civil Lines DT 20 (DT-020)"
+  }
+ },
+ {
+  "meterId": "J100100",
+  "dtCode": "DT-021",
+  "hierarchy": {
+   "Meter ID": "J100100",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 1 (D-01)",
+   "Subdivision": "Subdivision 7 (SD-07)",
+   "Sub Station": "Substation 3 (SS-03)",
+   "Feeder": "Feeder 21 (F-021)",
+   "DT": "Malviya Nagar DT 21 (DT-021)"
+  }
+ },
+ {
+  "meterId": "J100101",
+  "dtCode": "DT-022",
+  "hierarchy": {
+   "Meter ID": "J100101",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 2 (D-02)",
+   "Subdivision": "Subdivision 8 (SD-08)",
+   "Sub Station": "Substation 4 (SS-04)",
+   "Feeder": "Feeder 22 (F-022)",
+   "DT": "Mansarovar DT 22 (DT-022)"
+  }
+ },
+ {
+  "meterId": "J100102",
+  "dtCode": "DT-023",
+  "hierarchy": {
+   "Meter ID": "J100102",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 3 (D-03)",
+   "Subdivision": "Subdivision 9 (SD-09)",
+   "Sub Station": "Substation 5 (SS-05)",
+   "Feeder": "Feeder 23 (F-023)",
+   "DT": "Vaishali DT 23 (DT-023)"
+  }
+ },
+ {
+  "meterId": "J100103",
+  "dtCode": "DT-024",
+  "hierarchy": {
+   "Meter ID": "J100103",
+   "Installation Status": "Faulty",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 4 (D-04)",
+   "Subdivision": "Subdivision 10 (SD-10)",
+   "Sub Station": "Substation 6 (SS-06)",
+   "Feeder": "Feeder 24 (F-024)",
+   "DT": "Raja Park DT 24 (DT-024)"
+  }
+ },
+ {
+  "meterId": "J100104",
+  "dtCode": "DT-025",
+  "hierarchy": {
+   "Meter ID": "J100104",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 5 (D-05)",
+   "Subdivision": "Subdivision 11 (SD-11)",
+   "Sub Station": "Substation 7 (SS-07)",
+   "Feeder": "Feeder 25 (F-025)",
+   "DT": "Bani Park DT 25 (DT-025)"
+  }
+ },
+ {
+  "meterId": "J100105",
+  "dtCode": "DT-026",
+  "hierarchy": {
+   "Meter ID": "J100105",
+   "Installation Status": "Faulty",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 6 (D-06)",
+   "Subdivision": "Subdivision 12 (SD-12)",
+   "Sub Station": "Substation 8 (SS-08)",
+   "Feeder": "Feeder 26 (F-026)",
+   "DT": "Jhotwara DT 26 (DT-026)"
+  }
+ },
+ {
+  "meterId": "J100106",
+  "dtCode": "DT-027",
+  "hierarchy": {
+   "Meter ID": "J100106",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 7 (D-07)",
+   "Subdivision": "Subdivision 13 (SD-13)",
+   "Sub Station": "Substation 9 (SS-09)",
+   "Feeder": "Feeder 27 (F-027)",
+   "DT": "Sanganer DT 27 (DT-027)"
+  }
+ },
+ {
+  "meterId": "J100107",
+  "dtCode": "DT-028",
+  "hierarchy": {
+   "Meter ID": "J100107",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 8 (D-08)",
+   "Subdivision": "Subdivision 14 (SD-14)",
+   "Sub Station": "Substation 10 (SS-10)",
+   "Feeder": "Feeder 28 (F-028)",
+   "DT": "Tonk Road DT 28 (DT-028)"
+  }
+ },
+ {
+  "meterId": "J100108",
+  "dtCode": "DT-029",
+  "hierarchy": {
+   "Meter ID": "J100108",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 9 (D-09)",
+   "Subdivision": "Subdivision 1 (SD-01)",
+   "Sub Station": "Substation 11 (SS-11)",
+   "Feeder": "Feeder 1 (F-001)",
+   "DT": "Sikar Road DT 29 (DT-029)"
+  }
+ },
+ {
+  "meterId": "J100109",
+  "dtCode": "DT-030",
+  "hierarchy": {
+   "Meter ID": "J100109",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 10 (D-10)",
+   "Subdivision": "Subdivision 2 (SD-02)",
+   "Sub Station": "Substation 12 (SS-12)",
+   "Feeder": "Feeder 2 (F-002)",
+   "DT": "Civil Lines DT 30 (DT-030)"
+  }
+ },
+ {
+  "meterId": "J100110",
+  "dtCode": "DT-031",
+  "hierarchy": {
+   "Meter ID": "J100110",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 1 (D-01)",
+   "Subdivision": "Subdivision 3 (SD-03)",
+   "Sub Station": "Substation 13 (SS-13)",
+   "Feeder": "Feeder 3 (F-003)",
+   "DT": "Malviya Nagar DT 31 (DT-031)"
+  }
+ },
+ {
+  "meterId": "J100111",
+  "dtCode": "DT-032",
+  "hierarchy": {
+   "Meter ID": "J100111",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 2 (D-02)",
+   "Subdivision": "Subdivision 4 (SD-04)",
+   "Sub Station": "Substation 14 (SS-14)",
+   "Feeder": "Feeder 4 (F-004)",
+   "DT": "Mansarovar DT 32 (DT-032)"
+  }
+ },
+ {
+  "meterId": "J100112",
+  "dtCode": "DT-033",
+  "hierarchy": {
+   "Meter ID": "J100112",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 3 (D-03)",
+   "Subdivision": "Subdivision 5 (SD-05)",
+   "Sub Station": "Substation 15 (SS-15)",
+   "Feeder": "Feeder 5 (F-005)",
+   "DT": "Vaishali DT 33 (DT-033)"
+  }
+ },
+ {
+  "meterId": "J100113",
+  "dtCode": "DT-034",
+  "hierarchy": {
+   "Meter ID": "J100113",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 4 (D-04)",
+   "Subdivision": "Subdivision 6 (SD-06)",
+   "Sub Station": "Substation 16 (SS-16)",
+   "Feeder": "Feeder 6 (F-006)",
+   "DT": "Raja Park DT 34 (DT-034)"
+  }
+ },
+ {
+  "meterId": "J100114",
+  "dtCode": "DT-035",
+  "hierarchy": {
+   "Meter ID": "J100114",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 5 (D-05)",
+   "Subdivision": "Subdivision 7 (SD-07)",
+   "Sub Station": "Substation 17 (SS-17)",
+   "Feeder": "Feeder 7 (F-007)",
+   "DT": "Bani Park DT 35 (DT-035)"
+  }
+ },
+ {
+  "meterId": "J100115",
+  "dtCode": "DT-036",
+  "hierarchy": {
+   "Meter ID": "J100115",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 6 (D-06)",
+   "Subdivision": "Subdivision 8 (SD-08)",
+   "Sub Station": "Substation 18 (SS-18)",
+   "Feeder": "Feeder 8 (F-008)",
+   "DT": "Jhotwara DT 36 (DT-036)"
+  }
+ },
+ {
+  "meterId": "J100116",
+  "dtCode": "DT-037",
+  "hierarchy": {
+   "Meter ID": "J100116",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1",
+   "Division": "Division 7 (D-07)",
+   "Subdivision": "Subdivision 9 (SD-09)",
+   "Sub Station": "Substation 1 (SS-01)",
+   "Feeder": "Feeder 9 (F-009)",
+   "DT": "Sanganer DT 37 (DT-037)"
+  }
+ },
+ {
+  "meterId": "J100117",
+  "dtCode": "DT-038",
+  "hierarchy": {
+   "Meter ID": "J100117",
+   "Installation Status": "Faulty",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 8 (D-08)",
+   "Subdivision": "Subdivision 10 (SD-10)",
+   "Sub Station": "Substation 2 (SS-02)",
+   "Feeder": "Feeder 10 (F-010)",
+   "DT": "Tonk Road DT 38 (DT-038)"
+  }
+ },
+ {
+  "meterId": "J100118",
+  "dtCode": "DT-039",
+  "hierarchy": {
+   "Meter ID": "J100118",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 9 (D-09)",
+   "Subdivision": "Subdivision 11 (SD-11)",
+   "Sub Station": "Substation 3 (SS-03)",
+   "Feeder": "Feeder 11 (F-011)",
+   "DT": "Sikar Road DT 39 (DT-039)"
+  }
+ },
+ {
+  "meterId": "J100119",
+  "dtCode": "DT-040",
+  "hierarchy": {
+   "Meter ID": "J100119",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 10 (D-10)",
+   "Subdivision": "Subdivision 12 (SD-12)",
+   "Sub Station": "Substation 4 (SS-04)",
+   "Feeder": "Feeder 12 (F-012)",
+   "DT": "Civil Lines DT 40 (DT-040)"
+  }
+ },
+ {
+  "meterId": "J100120",
+  "dtCode": "DT-001",
+  "hierarchy": {
+   "Meter ID": "J100120",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 1 (D-01)",
+   "Subdivision": "Subdivision 1 (SD-01)",
+   "Sub Station": "Substation 1 (SS-01)",
+   "Feeder": "Feeder 1 (F-001)",
+   "DT": "Malviya Nagar DT 1 (DT-001)"
+  }
+ },
+ {
+  "meterId": "J100121",
+  "dtCode": "DT-002",
+  "hierarchy": {
+   "Meter ID": "J100121",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 2 (D-02)",
+   "Subdivision": "Subdivision 2 (SD-02)",
+   "Sub Station": "Substation 2 (SS-02)",
+   "Feeder": "Feeder 2 (F-002)",
+   "DT": "Mansarovar DT 2 (DT-002)"
+  }
+ },
+ {
+  "meterId": "J100122",
+  "dtCode": "DT-003",
+  "hierarchy": {
+   "Meter ID": "J100122",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 3 (D-03)",
+   "Subdivision": "Subdivision 3 (SD-03)",
+   "Sub Station": "Substation 3 (SS-03)",
+   "Feeder": "Feeder 3 (F-003)",
+   "DT": "Vaishali DT 3 (DT-003)"
+  }
+ },
+ {
+  "meterId": "J100123",
+  "dtCode": "DT-004",
+  "hierarchy": {
+   "Meter ID": "J100123",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 4 (D-04)",
+   "Subdivision": "Subdivision 4 (SD-04)",
+   "Sub Station": "Substation 4 (SS-04)",
+   "Feeder": "Feeder 4 (F-004)",
+   "DT": "Raja Park DT 4 (DT-004)"
+  }
+ },
+ {
+  "meterId": "J100124",
+  "dtCode": "DT-005",
+  "hierarchy": {
+   "Meter ID": "J100124",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 5 (D-05)",
+   "Subdivision": "Subdivision 5 (SD-05)",
+   "Sub Station": "Substation 5 (SS-05)",
+   "Feeder": "Feeder 5 (F-005)",
+   "DT": "Bani Park DT 5 (DT-005)"
+  }
+ },
+ {
+  "meterId": "J100125",
+  "dtCode": "DT-006",
+  "hierarchy": {
+   "Meter ID": "J100125",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 6 (D-06)",
+   "Subdivision": "Subdivision 6 (SD-06)",
+   "Sub Station": "Substation 6 (SS-06)",
+   "Feeder": "Feeder 6 (F-006)",
+   "DT": "Jhotwara DT 6 (DT-006)"
+  }
+ },
+ {
+  "meterId": "J100126",
+  "dtCode": "DT-007",
+  "hierarchy": {
+   "Meter ID": "J100126",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 7 (D-07)",
+   "Subdivision": "Subdivision 7 (SD-07)",
+   "Sub Station": "Substation 7 (SS-07)",
+   "Feeder": "Feeder 7 (F-007)",
+   "DT": "Sanganer DT 7 (DT-007)"
+  }
+ },
+ {
+  "meterId": "J100127",
+  "dtCode": "DT-008",
+  "hierarchy": {
+   "Meter ID": "J100127",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 8 (D-08)",
+   "Subdivision": "Subdivision 8 (SD-08)",
+   "Sub Station": "Substation 8 (SS-08)",
+   "Feeder": "Feeder 8 (F-008)",
+   "DT": "Tonk Road DT 8 (DT-008)"
+  }
+ },
+ {
+  "meterId": "J100128",
+  "dtCode": "DT-009",
+  "hierarchy": {
+   "Meter ID": "J100128",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 9 (D-09)",
+   "Subdivision": "Subdivision 9 (SD-09)",
+   "Sub Station": "Substation 9 (SS-09)",
+   "Feeder": "Feeder 9 (F-009)",
+   "DT": "Sikar Road DT 9 (DT-009)"
+  }
+ },
+ {
+  "meterId": "J100129",
+  "dtCode": "DT-010",
+  "hierarchy": {
+   "Meter ID": "J100129",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 10 (D-10)",
+   "Subdivision": "Subdivision 10 (SD-10)",
+   "Sub Station": "Substation 10 (SS-10)",
+   "Feeder": "Feeder 10 (F-010)",
+   "DT": "Civil Lines DT 10 (DT-010)"
+  }
+ },
+ {
+  "meterId": "J100130",
+  "dtCode": "DT-011",
+  "hierarchy": {
+   "Meter ID": "J100130",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 1 (D-01)",
+   "Subdivision": "Subdivision 11 (SD-11)",
+   "Sub Station": "Substation 11 (SS-11)",
+   "Feeder": "Feeder 11 (F-011)",
+   "DT": "Malviya Nagar DT 11 (DT-011)"
+  }
+ },
+ {
+  "meterId": "J100131",
+  "dtCode": "DT-012",
+  "hierarchy": {
+   "Meter ID": "J100131",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 2 (D-02)",
+   "Subdivision": "Subdivision 12 (SD-12)",
+   "Sub Station": "Substation 12 (SS-12)",
+   "Feeder": "Feeder 12 (F-012)",
+   "DT": "Mansarovar DT 12 (DT-012)"
+  }
+ },
+ {
+  "meterId": "J100132",
+  "dtCode": "DT-013",
+  "hierarchy": {
+   "Meter ID": "J100132",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 3 (D-03)",
+   "Subdivision": "Subdivision 13 (SD-13)",
+   "Sub Station": "Substation 13 (SS-13)",
+   "Feeder": "Feeder 13 (F-013)",
+   "DT": "Vaishali DT 13 (DT-013)"
+  }
+ },
+ {
+  "meterId": "J100133",
+  "dtCode": "DT-014",
+  "hierarchy": {
+   "Meter ID": "J100133",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 4 (D-04)",
+   "Subdivision": "Subdivision 14 (SD-14)",
+   "Sub Station": "Substation 14 (SS-14)",
+   "Feeder": "Feeder 14 (F-014)",
+   "DT": "Raja Park DT 14 (DT-014)"
+  }
+ },
+ {
+  "meterId": "J100134",
+  "dtCode": "DT-015",
+  "hierarchy": {
+   "Meter ID": "J100134",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 5 (D-05)",
+   "Subdivision": "Subdivision 1 (SD-01)",
+   "Sub Station": "Substation 15 (SS-15)",
+   "Feeder": "Feeder 15",
+   "DT": "Bani Park DT 15 (DT-015)"
+  }
+ },
+ {
+  "meterId": "J100135",
+  "dtCode": "DT-016",
+  "hierarchy": {
+   "Meter ID": "J100135",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 6 (D-06)",
+   "Subdivision": "Subdivision 2 (SD-02)",
+   "Sub Station": "Substation 16 (SS-16)",
+   "Feeder": "Feeder 16 (F-016)",
+   "DT": "Jhotwara DT 16 (DT-016)"
+  }
+ },
+ {
+  "meterId": "J100136",
+  "dtCode": "DT-017",
+  "hierarchy": {
+   "Meter ID": "J100136",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 7 (D-07)",
+   "Subdivision": "Subdivision 3 (SD-03)",
+   "Sub Station": "Substation 17 (SS-17)",
+   "Feeder": "Feeder 17 (F-017)",
+   "DT": "Sanganer DT 17 (DT-017)"
+  }
+ },
+ {
+  "meterId": "J100137",
+  "dtCode": "DT-018",
+  "hierarchy": {
+   "Meter ID": "J100137",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 8 (D-08)",
+   "Subdivision": "Subdivision 4 (SD-04)",
+   "Sub Station": "Substation 18 (SS-18)",
+   "Feeder": "Feeder 18 (F-018)",
+   "DT": "Tonk Road DT 18 (DT-018)"
+  }
+ },
+ {
+  "meterId": "J100138",
+  "dtCode": "DT-019",
+  "hierarchy": {
+   "Meter ID": "J100138",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 9 (D-09)",
+   "Subdivision": "Subdivision 5 (SD-05)",
+   "Sub Station": "Substation 1 (SS-01)",
+   "Feeder": "Feeder 19 (F-019)",
+   "DT": "Sikar Road DT 19 (DT-019)"
+  }
+ },
+ {
+  "meterId": "J100139",
+  "dtCode": "DT-020",
+  "hierarchy": {
+   "Meter ID": "J100139",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 10 (D-10)",
+   "Subdivision": "Subdivision 6 (SD-06)",
+   "Sub Station": "Substation 2 (SS-02)",
+   "Feeder": "Feeder 20 (F-020)",
+   "DT": "Civil Lines DT 20 (DT-020)"
+  }
+ },
+ {
+  "meterId": "J100140",
+  "dtCode": "DT-021",
+  "hierarchy": {
+   "Meter ID": "J100140",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 1 (D-01)",
+   "Subdivision": "Subdivision 7 (SD-07)",
+   "Sub Station": "Substation 3 (SS-03)",
+   "Feeder": "Feeder 21 (F-021)",
+   "DT": "Malviya Nagar DT 21 (DT-021)"
+  }
+ },
+ {
+  "meterId": "J100141",
+  "dtCode": "DT-022",
+  "hierarchy": {
+   "Meter ID": "J100141",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 2 (D-02)",
+   "Subdivision": "Subdivision 8 (SD-08)",
+   "Sub Station": "Substation 4 (SS-04)",
+   "Feeder": "Feeder 22 (F-022)",
+   "DT": "Mansarovar DT 22 (DT-022)"
+  }
+ },
+ {
+  "meterId": "J100142",
+  "dtCode": "DT-023",
+  "hierarchy": {
+   "Meter ID": "J100142",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 3 (D-03)",
+   "Subdivision": "Subdivision 9 (SD-09)",
+   "Sub Station": "Substation 5 (SS-05)",
+   "Feeder": "Feeder 23 (F-023)",
+   "DT": "Vaishali DT 23 (DT-023)"
+  }
+ },
+ {
+  "meterId": "J100143",
+  "dtCode": "DT-024",
+  "hierarchy": {
+   "Meter ID": "J100143",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 4 (D-04)",
+   "Subdivision": "Subdivision 10 (SD-10)",
+   "Sub Station": "Substation 6 (SS-06)",
+   "Feeder": "Feeder 24 (F-024)",
+   "DT": "Raja Park DT 24 (DT-024)"
+  }
+ },
+ {
+  "meterId": "J100144",
+  "dtCode": "DT-025",
+  "hierarchy": {
+   "Meter ID": "J100144",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 5 (D-05)",
+   "Subdivision": "Subdivision 11 (SD-11)",
+   "Sub Station": "Substation 7 (SS-07)",
+   "Feeder": "Feeder 25 (F-025)",
+   "DT": "Bani Park DT 25 (DT-025)"
+  }
+ },
+ {
+  "meterId": "J100145",
+  "dtCode": "DT-026",
+  "hierarchy": {
+   "Meter ID": "J100145",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 6 (D-06)",
+   "Subdivision": "Subdivision 12 (SD-12)",
+   "Sub Station": "Substation 8 (SS-08)",
+   "Feeder": "Feeder 26 (F-026)",
+   "DT": "Jhotwara DT 26 (DT-026)"
+  }
+ },
+ {
+  "meterId": "J100146",
+  "dtCode": "DT-027",
+  "hierarchy": {
+   "Meter ID": "J100146",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 7 (D-07)",
+   "Subdivision": "Subdivision 13 (SD-13)",
+   "Sub Station": "Substation 9 (SS-09)",
+   "Feeder": "Feeder 27 (F-027)",
+   "DT": "Sanganer DT 27 (DT-027)"
+  }
+ },
+ {
+  "meterId": "J100147",
+  "dtCode": "DT-028",
+  "hierarchy": {
+   "Meter ID": "J100147",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 8 (D-08)",
+   "Subdivision": "Subdivision 14 (SD-14)",
+   "Sub Station": "Substation 10 (SS-10)",
+   "Feeder": "Feeder 28 (F-028)",
+   "DT": "Tonk Road DT 28 (DT-028)"
+  }
+ },
+ {
+  "meterId": "J100148",
+  "dtCode": "DT-029",
+  "hierarchy": {
+   "Meter ID": "J100148",
+   "Installation Status": "Faulty",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 9 (D-09)",
+   "Subdivision": "Subdivision 1 (SD-01)",
+   "Sub Station": "Substation 11 (SS-11)",
+   "Feeder": "Feeder 1 (F-001)",
+   "DT": "Sikar Road DT 29 (DT-029)"
+  }
+ },
+ {
+  "meterId": "J100149",
+  "dtCode": "DT-030",
+  "hierarchy": {
+   "Meter ID": "J100149",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 10 (D-10)",
+   "Subdivision": "Subdivision 2 (SD-02)",
+   "Sub Station": "Substation 12 (SS-12)",
+   "Feeder": "Feeder 2 (F-002)",
+   "DT": "Civil Lines DT 30 (DT-030)"
+  }
+ },
+ {
+  "meterId": "J100150",
+  "dtCode": "DT-031",
+  "hierarchy": {
+   "Meter ID": "J100150",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 1 (D-01)",
+   "Subdivision": "Subdivision 3 (SD-03)",
+   "Sub Station": "Substation 13 (SS-13)",
+   "Feeder": "Feeder 3 (F-003)",
+   "DT": "Malviya Nagar DT 31 (DT-031)"
+  }
+ },
+ {
+  "meterId": "J100151",
+  "dtCode": "DT-032",
+  "hierarchy": {
+   "Meter ID": "J100151",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 2 (D-02)",
+   "Subdivision": "Subdivision 4 (SD-04)",
+   "Sub Station": "Substation 14 (SS-14)",
+   "Feeder": "Feeder 4 (F-004)",
+   "DT": "Mansarovar DT 32 (DT-032)"
+  }
+ },
+ {
+  "meterId": "J100152",
+  "dtCode": "DT-033",
+  "hierarchy": {
+   "Meter ID": "J100152",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 3 (D-03)",
+   "Subdivision": "Subdivision 5 (SD-05)",
+   "Sub Station": "Substation 15 (SS-15)",
+   "Feeder": "Feeder 5 (F-005)",
+   "DT": "Vaishali DT 33 (DT-033)"
+  }
+ },
+ {
+  "meterId": "J100153",
+  "dtCode": "DT-034",
+  "hierarchy": {
+   "Meter ID": "J100153",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 4 (D-04)",
+   "Subdivision": "Subdivision 6 (SD-06)",
+   "Sub Station": "Substation 16",
+   "Feeder": "Feeder 6 (F-006)",
+   "DT": "Raja Park DT 34 (DT-034)"
+  }
+ },
+ {
+  "meterId": "J100154",
+  "dtCode": "DT-035",
+  "hierarchy": {
+   "Meter ID": "J100154",
+   "Installation Status": "Faulty",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 5 (D-05)",
+   "Subdivision": "Subdivision 7 (SD-07)",
+   "Sub Station": "Substation 17 (SS-17)",
+   "Feeder": "Feeder 7 (F-007)",
+   "DT": "Bani Park DT 35 (DT-035)"
+  }
+ },
+ {
+  "meterId": "J100155",
+  "dtCode": "DT-036",
+  "hierarchy": {
+   "Meter ID": "J100155",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 6 (D-06)",
+   "Subdivision": "Subdivision 8 (SD-08)",
+   "Sub Station": "Substation 18 (SS-18)",
+   "Feeder": "Feeder 8 (F-008)",
+   "DT": "Jhotwara DT 36 (DT-036)"
+  }
+ },
+ {
+  "meterId": "J100156",
+  "dtCode": "DT-037",
+  "hierarchy": {
+   "Meter ID": "J100156",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 7 (D-07)",
+   "Subdivision": "Subdivision 9 (SD-09)",
+   "Sub Station": "Substation 1 (SS-01)",
+   "Feeder": "Feeder 9 (F-009)",
+   "DT": "Sanganer DT 37 (DT-037)"
+  }
+ },
+ {
+  "meterId": "J100157",
+  "dtCode": "DT-038",
+  "hierarchy": {
+   "Meter ID": "J100157",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 8 (D-08)",
+   "Subdivision": "Subdivision 10 (SD-10)",
+   "Sub Station": "Substation 2 (SS-02)",
+   "Feeder": "Feeder 10 (F-010)",
+   "DT": "Tonk Road DT 38 (DT-038)"
+  }
+ },
+ {
+  "meterId": "J100158",
+  "dtCode": "DT-039",
+  "hierarchy": {
+   "Meter ID": "J100158",
+   "Installation Status": "Faulty",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 9 (D-09)",
+   "Subdivision": "Subdivision 11 (SD-11)",
+   "Sub Station": "Substation 3 (SS-03)",
+   "Feeder": "Feeder 11 (F-011)",
+   "DT": "Sikar Road DT 39 (DT-039)"
+  }
+ },
+ {
+  "meterId": "J100159",
+  "dtCode": "DT-040",
+  "hierarchy": {
+   "Meter ID": "J100159",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 10 (D-10)",
+   "Subdivision": "Subdivision 12 (SD-12)",
+   "Sub Station": "Substation 4 (SS-04)",
+   "Feeder": "Feeder 12 (F-012)",
+   "DT": "Civil Lines DT 40 (DT-040)"
+  }
+ },
+ {
+  "meterId": "J100160",
+  "dtCode": "DT-001",
+  "hierarchy": {
+   "Meter ID": "J100160",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 1 (D-01)",
+   "Subdivision": "Subdivision 1 (SD-01)",
+   "Sub Station": "Substation 1 (SS-01)",
+   "Feeder": "Feeder 1 (F-001)",
+   "DT": "Malviya Nagar DT 1 (DT-001)"
+  }
+ },
+ {
+  "meterId": "J100161",
+  "dtCode": "DT-002",
+  "hierarchy": {
+   "Meter ID": "J100161",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 2 (D-02)",
+   "Subdivision": "Subdivision 2 (SD-02)",
+   "Sub Station": "Substation 2 (SS-02)",
+   "Feeder": "Feeder 2 (F-002)",
+   "DT": "Mansarovar DT 2 (DT-002)"
+  }
+ },
+ {
+  "meterId": "J100162",
+  "dtCode": "DT-003",
+  "hierarchy": {
+   "Meter ID": "J100162",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 3 (D-03)",
+   "Subdivision": "Subdivision 3 (SD-03)",
+   "Sub Station": "Substation 3 (SS-03)",
+   "Feeder": "",
+   "DT": "Vaishali DT 3 (DT-003)"
+  }
+ },
+ {
+  "meterId": "J100163",
+  "dtCode": "DT-004",
+  "hierarchy": {
+   "Meter ID": "J100163",
+   "Installation Status": "Faulty",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 4 (D-04)",
+   "Subdivision": "Subdivision 4 (SD-04)",
+   "Sub Station": "Substation 4 (SS-04)",
+   "Feeder": "Feeder 4 (F-004)",
+   "DT": "Raja Park DT 4 (DT-004)"
+  }
+ },
+ {
+  "meterId": "J100164",
+  "dtCode": "DT-005",
+  "hierarchy": {
+   "Meter ID": "J100164",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 5 (D-05)",
+   "Subdivision": "Subdivision 5 (SD-05)",
+   "Sub Station": "Substation 5 (SS-05)",
+   "Feeder": "Feeder 5 (F-005)",
+   "DT": "Bani Park DT 5 (DT-005)"
+  }
+ },
+ {
+  "meterId": "J100165",
+  "dtCode": "DT-006",
+  "hierarchy": {
+   "Meter ID": "J100165",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 6 (D-06)",
+   "Subdivision": "Subdivision 6 (SD-06)",
+   "Sub Station": "Substation 6 (SS-06)",
+   "Feeder": "Feeder 6 (F-006)",
+   "DT": "Jhotwara DT 6 (DT-006)"
+  }
+ },
+ {
+  "meterId": "J100166",
+  "dtCode": "DT-007",
+  "hierarchy": {
+   "Meter ID": "J100166",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 7 (D-07)",
+   "Subdivision": "Subdivision 7 (SD-07)",
+   "Sub Station": "Substation 7 (SS-07)",
+   "Feeder": "Feeder 7 (F-007)",
+   "DT": "Sanganer DT 7 (DT-007)"
+  }
+ },
+ {
+  "meterId": "J100167",
+  "dtCode": "DT-008",
+  "hierarchy": {
+   "Meter ID": "J100167",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 8 (D-08)",
+   "Subdivision": "Subdivision 8 (SD-08)",
+   "Sub Station": "Substation 8 (SS-08)",
+   "Feeder": "Feeder 8 (F-008)",
+   "DT": "Tonk Road DT 8 (DT-008)"
+  }
+ },
+ {
+  "meterId": "J100168",
+  "dtCode": "DT-009",
+  "hierarchy": {
+   "Meter ID": "J100168",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 9 (D-09)",
+   "Subdivision": "Subdivision 9 (SD-09)",
+   "Sub Station": "Substation 9 (SS-09)",
+   "Feeder": "Feeder 9 (F-009)",
+   "DT": "Sikar Road DT 9 (DT-009)"
+  }
+ },
+ {
+  "meterId": "J100169",
+  "dtCode": "DT-010",
+  "hierarchy": {
+   "Meter ID": "J100169",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 10 (D-10)",
+   "Subdivision": "Subdivision 10 (SD-10)",
+   "Sub Station": "Substation 10 (SS-10)",
+   "Feeder": "Feeder 10 (F-010)",
+   "DT": "Civil Lines DT 10 (DT-010)"
+  }
+ },
+ {
+  "meterId": "J100170",
+  "dtCode": "DT-011",
+  "hierarchy": {
+   "Meter ID": "J100170",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5",
+   "Division": "Division 1 (D-01)",
+   "Subdivision": "Subdivision 11 (SD-11)",
+   "Sub Station": "Substation 11 (SS-11)",
+   "Feeder": "Feeder 11 (F-011)",
+   "DT": "Malviya Nagar DT 11 (DT-011)"
+  }
+ },
+ {
+  "meterId": "J100171",
+  "dtCode": "DT-012",
+  "hierarchy": {
+   "Meter ID": "J100171",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 2 (D-02)",
+   "Subdivision": "Subdivision 12 (SD-12)",
+   "Sub Station": "Substation 12 (SS-12)",
+   "Feeder": "Feeder 12 (F-012)",
+   "DT": "Mansarovar DT 12 (DT-012)"
+  }
+ },
+ {
+  "meterId": "J100172",
+  "dtCode": "DT-013",
+  "hierarchy": {
+   "Meter ID": "J100172",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 3 (D-03)",
+   "Subdivision": "Subdivision 13 (SD-13)",
+   "Sub Station": "Substation 13 (SS-13)",
+   "Feeder": "Feeder 13 (F-013)",
+   "DT": "Vaishali DT 13 (DT-013)"
+  }
+ },
+ {
+  "meterId": "J100173",
+  "dtCode": "DT-014",
+  "hierarchy": {
+   "Meter ID": "J100173",
+   "Installation Status": "Faulty",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 4 (D-04)",
+   "Subdivision": "Subdivision 14 (SD-14)",
+   "Sub Station": "Substation 14 (SS-14)",
+   "Feeder": "Feeder 14 (F-014)",
+   "DT": "Raja Park DT 14 (DT-014)"
+  }
+ },
+ {
+  "meterId": "J100174",
+  "dtCode": "DT-015",
+  "hierarchy": {
+   "Meter ID": "J100174",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 5 (D-05)",
+   "Subdivision": "Subdivision 1 (SD-01)",
+   "Sub Station": "Substation 15 (SS-15)",
+   "Feeder": "Feeder 15 (F-015)",
+   "DT": "Bani Park DT 15 (DT-015)"
+  }
+ },
+ {
+  "meterId": "J100175",
+  "dtCode": "DT-016",
+  "hierarchy": {
+   "Meter ID": "J100175",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 6 (D-06)",
+   "Subdivision": "Subdivision 2 (SD-02)",
+   "Sub Station": "Substation 16 (SS-16)",
+   "Feeder": "Feeder 16 (F-016)",
+   "DT": "Jhotwara DT 16 (DT-016)"
+  }
+ },
+ {
+  "meterId": "J100176",
+  "dtCode": "DT-017",
+  "hierarchy": {
+   "Meter ID": "J100176",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 7 (D-07)",
+   "Subdivision": "Subdivision 3 (SD-03)",
+   "Sub Station": "Substation 17 (SS-17)",
+   "Feeder": "Feeder 17 (F-017)",
+   "DT": "Sanganer DT 17 (DT-017)"
+  }
+ },
+ {
+  "meterId": "J100177",
+  "dtCode": "DT-018",
+  "hierarchy": {
+   "Meter ID": "J100177",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 8 (D-08)",
+   "Subdivision": "Subdivision 4 (SD-04)",
+   "Sub Station": "Substation 18 (SS-18)",
+   "Feeder": "Feeder 18 (F-018)",
+   "DT": "Tonk Road DT 18 (DT-018)"
+  }
+ },
+ {
+  "meterId": "J100178",
+  "dtCode": "DT-019",
+  "hierarchy": {
+   "Meter ID": "J100178",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 9 (D-09)",
+   "Subdivision": "Subdivision 5 (SD-05)",
+   "Sub Station": "Substation 1 (SS-01)",
+   "Feeder": "Feeder 19 (F-019)",
+   "DT": "Sikar Road DT 19 (DT-019)"
+  }
+ },
+ {
+  "meterId": "J100179",
+  "dtCode": "DT-020",
+  "hierarchy": {
+   "Meter ID": "J100179",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 10 (D-10)",
+   "Subdivision": "Subdivision 6 (SD-06)",
+   "Sub Station": "Substation 2 (SS-02)",
+   "Feeder": "Feeder 20 (F-020)",
+   "DT": "Civil Lines DT 20 (DT-020)"
+  }
+ },
+ {
+  "meterId": "J100180",
+  "dtCode": "DT-021",
+  "hierarchy": {
+   "Meter ID": "J100180",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 1 (D-01)",
+   "Subdivision": "Subdivision 7 (SD-07)",
+   "Sub Station": "Substation 3 (SS-03)",
+   "Feeder": "Feeder 21 (F-021)",
+   "DT": "Malviya Nagar DT 21 (DT-021)"
+  }
+ },
+ {
+  "meterId": "J100181",
+  "dtCode": "DT-022",
+  "hierarchy": {
+   "Meter ID": "J100181",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 2 (D-02)",
+   "Subdivision": "Subdivision 8 (SD-08)",
+   "Sub Station": "Substation 4 (SS-04)",
+   "Feeder": "Feeder 22 (F-022)",
+   "DT": "Mansarovar DT 22 (DT-022)"
+  }
+ },
+ {
+  "meterId": "J100182",
+  "dtCode": "DT-023",
+  "hierarchy": {
+   "Meter ID": "J100182",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 3 (D-03)",
+   "Subdivision": "Subdivision 9 (SD-09)",
+   "Sub Station": "Substation 5 (SS-05)",
+   "Feeder": "Feeder 23 (F-023)",
+   "DT": "Vaishali DT 23 (DT-023)"
+  }
+ },
+ {
+  "meterId": "J100183",
+  "dtCode": "DT-024",
+  "hierarchy": {
+   "Meter ID": "J100183",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 4 (D-04)",
+   "Subdivision": "Subdivision 10 (SD-10)",
+   "Sub Station": "Substation 6 (SS-06)",
+   "Feeder": "Feeder 24 (F-024)",
+   "DT": "Raja Park DT 24 (DT-024)"
+  }
+ },
+ {
+  "meterId": "J100184",
+  "dtCode": "DT-025",
+  "hierarchy": {
+   "Meter ID": "J100184",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 5 (D-05)",
+   "Subdivision": "Subdivision 11 (SD-11)",
+   "Sub Station": "Substation 7 (SS-07)",
+   "Feeder": "Feeder 25 (F-025)",
+   "DT": "Bani Park DT 25 (DT-025)"
+  }
+ },
+ {
+  "meterId": "J100185",
+  "dtCode": "DT-026",
+  "hierarchy": {
+   "Meter ID": "J100185",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 6 (D-06)",
+   "Subdivision": "Subdivision 12 (SD-12)",
+   "Sub Station": "Substation 8 (SS-08)",
+   "Feeder": "Feeder 26 (F-026)",
+   "DT": "Jhotwara DT 26 (DT-026)"
+  }
+ },
+ {
+  "meterId": "J100186",
+  "dtCode": "DT-027",
+  "hierarchy": {
+   "Meter ID": "J100186",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 7 (D-07)",
+   "Subdivision": "Subdivision 13 (SD-13)",
+   "Sub Station": "Substation 9 (SS-09)",
+   "Feeder": "Feeder 27 (F-027)",
+   "DT": "Sanganer DT 27 (DT-027)"
+  }
+ },
+ {
+  "meterId": "J100187",
+  "dtCode": "DT-028",
+  "hierarchy": {
+   "Meter ID": "J100187",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 8 (D-08)",
+   "Subdivision": "Subdivision 14 (SD-14)",
+   "Sub Station": "Substation 10 (SS-10)",
+   "Feeder": "Feeder 28 (F-028)",
+   "DT": "Tonk Road DT 28 (DT-028)"
+  }
+ },
+ {
+  "meterId": "J100188",
+  "dtCode": "DT-029",
+  "hierarchy": {
+   "Meter ID": "J100188",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 9 (D-09)",
+   "Subdivision": "Subdivision 1 (SD-01)",
+   "Sub Station": "Substation 11 (SS-11)",
+   "Feeder": "Feeder 1 (F-001)",
+   "DT": "Sikar Road DT 29 (DT-029)"
+  }
+ },
+ {
+  "meterId": "J100189",
+  "dtCode": "DT-030",
+  "hierarchy": {
+   "Meter ID": "J100189",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 10 (D-10)",
+   "Subdivision": "Subdivision 2 (SD-02)",
+   "Sub Station": "Substation 12 (SS-12)",
+   "Feeder": "Feeder 2 (F-002)",
+   "DT": "Civil Lines DT 30 (DT-030)"
+  }
+ },
+ {
+  "meterId": "J100190",
+  "dtCode": "DT-031",
+  "hierarchy": {
+   "Meter ID": "J100190",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 1 (D-01)",
+   "Subdivision": "Subdivision 3 (SD-03)",
+   "Sub Station": "Substation 13 (SS-13)",
+   "Feeder": "Feeder 3 (F-003)",
+   "DT": "Malviya Nagar DT 31 (DT-031)"
+  }
+ },
+ {
+  "meterId": "J100191",
+  "dtCode": "DT-032",
+  "hierarchy": {
+   "Meter ID": "J100191",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 2 (D-02)",
+   "Subdivision": "Subdivision 4 (SD-04)",
+   "Sub Station": "Substation 14 (SS-14)",
+   "Feeder": "Feeder 4 (F-004)",
+   "DT": "Mansarovar DT 32 (DT-032)"
+  }
+ },
+ {
+  "meterId": "J100192",
+  "dtCode": "DT-033",
+  "hierarchy": {
+   "Meter ID": "J100192",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 3 (D-03)",
+   "Subdivision": "Subdivision 5 (SD-05)",
+   "Sub Station": "Substation 15 (SS-15)",
+   "Feeder": "Feeder 5 (F-005)",
+   "DT": "Vaishali DT 33 (DT-033)"
+  }
+ },
+ {
+  "meterId": "J100193",
+  "dtCode": "DT-034",
+  "hierarchy": {
+   "Meter ID": "J100193",
+   "Installation Status": "Faulty",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 4 (D-04)",
+   "Subdivision": "Subdivision 6 (SD-06)",
+   "Sub Station": "Substation 16 (SS-16)",
+   "Feeder": "Feeder 6 (F-006)",
+   "DT": "Raja Park DT 34 (DT-034)"
+  }
+ },
+ {
+  "meterId": "J100194",
+  "dtCode": "DT-035",
+  "hierarchy": {
+   "Meter ID": "J100194",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 5 (D-05)",
+   "Subdivision": "Subdivision 7 (SD-07)",
+   "Sub Station": "Substation 17 (SS-17)",
+   "Feeder": "Feeder 7 (F-007)",
+   "DT": "Bani Park DT 35 (DT-035)"
+  }
+ },
+ {
+  "meterId": "J100195",
+  "dtCode": "DT-036",
+  "hierarchy": {
+   "Meter ID": "J100195",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 6 (D-06)",
+   "Subdivision": "Subdivision 8 (SD-08)",
+   "Sub Station": "Substation 18 (SS-18)",
+   "Feeder": "Feeder 8 (F-008)",
+   "DT": "Jhotwara DT 36 (DT-036)"
+  }
+ },
+ {
+  "meterId": "J100196",
+  "dtCode": "DT-037",
+  "hierarchy": {
+   "Meter ID": "J100196",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 7 (D-07)",
+   "Subdivision": "Subdivision 9 (SD-09)",
+   "Sub Station": "Substation 1 (SS-01)",
+   "Feeder": "Feeder 9 (F-009)",
+   "DT": "Sanganer DT 37 (DT-037)"
+  }
+ },
+ {
+  "meterId": "J100197",
+  "dtCode": "DT-038",
+  "hierarchy": {
+   "Meter ID": "J100197",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 8 (D-08)",
+   "Subdivision": "Subdivision 10 (SD-10)",
+   "Sub Station": "Substation 2 (SS-02)",
+   "Feeder": "Feeder 10 (F-010)",
+   "DT": "Tonk Road DT 38 (DT-038)"
+  }
+ },
+ {
+  "meterId": "J100198",
+  "dtCode": "DT-039",
+  "hierarchy": {
+   "Meter ID": "J100198",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 9 (D-09)",
+   "Subdivision": "Subdivision 11 (SD-11)",
+   "Sub Station": "Substation 3 (SS-03)",
+   "Feeder": "Feeder 11 (F-011)",
+   "DT": "Sikar Road DT 39 (DT-039)"
+  }
+ },
+ {
+  "meterId": "J100199",
+  "dtCode": "DT-040",
+  "hierarchy": {
+   "Meter ID": "J100199",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 10 (D-10)",
+   "Subdivision": "Subdivision 12 (SD-12)",
+   "Sub Station": "Substation 4 (SS-04)",
+   "Feeder": "Feeder 12 (F-012)",
+   "DT": "Civil Lines DT 40 (DT-040)"
+  }
+ },
+ {
+  "meterId": "J100200",
+  "dtCode": "DT-001",
+  "hierarchy": {
+   "Meter ID": "J100200",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 1 (D-01)",
+   "Subdivision": "Subdivision 1 (SD-01)",
+   "Sub Station": "Substation 1 (SS-01)",
+   "Feeder": "Feeder 1 (F-001)",
+   "DT": "Malviya Nagar DT 1 (DT-001)"
+  }
+ },
+ {
+  "meterId": "J100201",
+  "dtCode": "DT-002",
+  "hierarchy": {
+   "Meter ID": "J100201",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 2 (D-02)",
+   "Subdivision": "Subdivision 2 (SD-02)",
+   "Sub Station": "Substation 2 (SS-02)",
+   "Feeder": "Feeder 2 (F-002)",
+   "DT": "Mansarovar DT 2 (DT-002)"
+  }
+ },
+ {
+  "meterId": "J100202",
+  "dtCode": "DT-003",
+  "hierarchy": {
+   "Meter ID": "J100202",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 3 (D-03)",
+   "Subdivision": "Subdivision 3 (SD-03)",
+   "Sub Station": "Substation 3 (SS-03)",
+   "Feeder": "Feeder 3 (F-003)",
+   "DT": "Vaishali DT 3 (DT-003)"
+  }
+ },
+ {
+  "meterId": "J100203",
+  "dtCode": "DT-004",
+  "hierarchy": {
+   "Meter ID": "J100203",
+   "Installation Status": "Faulty",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 4 (D-04)",
+   "Subdivision": "Subdivision 4 (SD-04)",
+   "Sub Station": "Substation 4 (SS-04)",
+   "Feeder": "Feeder 4 (F-004)",
+   "DT": "Raja Park DT 4 (DT-004)"
+  }
+ },
+ {
+  "meterId": "J100204",
+  "dtCode": "DT-005",
+  "hierarchy": {
+   "Meter ID": "J100204",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 5 (D-05)",
+   "Subdivision": "Subdivision 5 (SD-05)",
+   "Sub Station": "Substation 5 (SS-05)",
+   "Feeder": "Feeder 5 (F-005)",
+   "DT": "Bani Park DT 5 (DT-005)"
+  }
+ },
+ {
+  "meterId": "J100205",
+  "dtCode": "DT-006",
+  "hierarchy": {
+   "Meter ID": "J100205",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 6 (D-06)",
+   "Subdivision": "Subdivision 6 (SD-06)",
+   "Sub Station": "Substation 6 (SS-06)",
+   "Feeder": "Feeder 6 (F-006)",
+   "DT": "Jhotwara DT 6 (DT-006)"
+  }
+ },
+ {
+  "meterId": "J100206",
+  "dtCode": "DT-007",
+  "hierarchy": {
+   "Meter ID": "J100206",
+   "Installation Status": "Faulty",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 7 (D-07)",
+   "Subdivision": "Subdivision 7 (SD-07)",
+   "Sub Station": "Substation 7 (SS-07)",
+   "Feeder": "Feeder 7 (F-007)",
+   "DT": "Sanganer DT 7 (DT-007)"
+  }
+ },
+ {
+  "meterId": "J100207",
+  "dtCode": "DT-008",
+  "hierarchy": {
+   "Meter ID": "J100207",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 8 (D-08)",
+   "Subdivision": "Subdivision 8 (SD-08)",
+   "Sub Station": "Substation 8 (SS-08)",
+   "Feeder": "Feeder 8 (F-008)",
+   "DT": "Tonk Road DT 8 (DT-008)"
+  }
+ },
+ {
+  "meterId": "J100208",
+  "dtCode": "DT-009",
+  "hierarchy": {
+   "Meter ID": "J100208",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 9 (D-09)",
+   "Subdivision": "Subdivision 9 (SD-09)",
+   "Sub Station": "Substation 9 (SS-09)",
+   "Feeder": "Feeder 9 (F-009)",
+   "DT": "Sikar Road DT 9 (DT-009)"
+  }
+ },
+ {
+  "meterId": "J100209",
+  "dtCode": "DT-010",
+  "hierarchy": {
+   "Meter ID": "J100209",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 10 (D-10)",
+   "Subdivision": "Subdivision 10 (SD-10)",
+   "Sub Station": "Substation 10 (SS-10)",
+   "Feeder": "Feeder 10 (F-010)",
+   "DT": "Civil Lines DT 10 (DT-010)"
+  }
+ },
+ {
+  "meterId": "J100210",
+  "dtCode": "DT-011",
+  "hierarchy": {
+   "Meter ID": "J100210",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 1 (D-01)",
+   "Subdivision": "Subdivision 11 (SD-11)",
+   "Sub Station": "Substation 11 (SS-11)",
+   "Feeder": "Feeder 11",
+   "DT": "Malviya Nagar DT 11 (DT-011)"
+  }
+ },
+ {
+  "meterId": "J100211",
+  "dtCode": "DT-012",
+  "hierarchy": {
+   "Meter ID": "J100211",
+   "Installation Status": "Faulty",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 2 (D-02)",
+   "Subdivision": "Subdivision 12 (SD-12)",
+   "Sub Station": "Substation 12 (SS-12)",
+   "Feeder": "Feeder 12 (F-012)",
+   "DT": "Mansarovar DT 12 (DT-012)"
+  }
+ },
+ {
+  "meterId": "J100212",
+  "dtCode": "DT-013",
+  "hierarchy": {
+   "Meter ID": "J100212",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 3 (D-03)",
+   "Subdivision": "Subdivision 13 (SD-13)",
+   "Sub Station": "Substation 13 (SS-13)",
+   "Feeder": "Feeder 13 (F-013)",
+   "DT": "Vaishali DT 13 (DT-013)"
+  }
+ },
+ {
+  "meterId": "J100213",
+  "dtCode": "DT-014",
+  "hierarchy": {
+   "Meter ID": "J100213",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 4 (D-04)",
+   "Subdivision": "Subdivision 14 (SD-14)",
+   "Sub Station": "Substation 14 (SS-14)",
+   "Feeder": "Feeder 14 (F-014)",
+   "DT": "Raja Park DT 14 (DT-014)"
+  }
+ },
+ {
+  "meterId": "J100214",
+  "dtCode": "DT-015",
+  "hierarchy": {
+   "Meter ID": "J100214",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 5 (D-05)",
+   "Subdivision": "Subdivision 1 (SD-01)",
+   "Sub Station": "Substation 15 (SS-15)",
+   "Feeder": "Feeder 15 (F-015)",
+   "DT": "Bani Park DT 15 (DT-015)"
+  }
+ },
+ {
+  "meterId": "J100215",
+  "dtCode": "DT-016",
+  "hierarchy": {
+   "Meter ID": "J100215",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 6 (D-06)",
+   "Subdivision": "Subdivision 2 (SD-02)",
+   "Sub Station": "Substation 16 (SS-16)",
+   "Feeder": "Feeder 16 (F-016)",
+   "DT": "Jhotwara DT 16 (DT-016)"
+  }
+ },
+ {
+  "meterId": "J100216",
+  "dtCode": "DT-017",
+  "hierarchy": {
+   "Meter ID": "J100216",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 7 (D-07)",
+   "Subdivision": "Subdivision 3 (SD-03)",
+   "Sub Station": "Substation 17 (SS-17)",
+   "Feeder": "Feeder 17 (F-017)",
+   "DT": "Sanganer DT 17 (DT-017)"
+  }
+ },
+ {
+  "meterId": "J100217",
+  "dtCode": "DT-018",
+  "hierarchy": {
+   "Meter ID": "J100217",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 8 (D-08)",
+   "Subdivision": "Subdivision 4 (SD-04)",
+   "Sub Station": "Substation 18 (SS-18)",
+   "Feeder": "Feeder 18 (F-018)",
+   "DT": "Tonk Road DT 18 (DT-018)"
+  }
+ },
+ {
+  "meterId": "J100218",
+  "dtCode": "DT-019",
+  "hierarchy": {
+   "Meter ID": "J100218",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "",
+   "Division": "Division 9 (D-09)",
+   "Subdivision": "Subdivision 5 (SD-05)",
+   "Sub Station": "Substation 1 (SS-01)",
+   "Feeder": "Feeder 19 (F-019)",
+   "DT": "Sikar Road DT 19 (DT-019)"
+  }
+ },
+ {
+  "meterId": "J100219",
+  "dtCode": "DT-020",
+  "hierarchy": {
+   "Meter ID": "J100219",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 10 (D-10)",
+   "Subdivision": "Subdivision 6 (SD-06)",
+   "Sub Station": "Substation 2 (SS-02)",
+   "Feeder": "Feeder 20 (F-020)",
+   "DT": "Civil Lines DT 20 (DT-020)"
+  }
+ },
+ {
+  "meterId": "J100220",
+  "dtCode": "DT-021",
+  "hierarchy": {
+   "Meter ID": "J100220",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 1 (D-01)",
+   "Subdivision": "Subdivision 7 (SD-07)",
+   "Sub Station": "Substation 3 (SS-03)",
+   "Feeder": "Feeder 21 (F-021)",
+   "DT": "Malviya Nagar DT 21 (DT-021)"
+  }
+ },
+ {
+  "meterId": "J100221",
+  "dtCode": "DT-022",
+  "hierarchy": {
+   "Meter ID": "J100221",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 2 (D-02)",
+   "Subdivision": "Subdivision 8 (SD-08)",
+   "Sub Station": "Substation 4 (SS-04)",
+   "Feeder": "Feeder 22 (F-022)",
+   "DT": "Mansarovar DT 22 (DT-022)"
+  }
+ },
+ {
+  "meterId": "J100222",
+  "dtCode": "DT-023",
+  "hierarchy": {
+   "Meter ID": "J100222",
+   "Installation Status": "Faulty",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 3 (D-03)",
+   "Subdivision": "Subdivision 9 (SD-09)",
+   "Sub Station": "Substation 5 (SS-05)",
+   "Feeder": "Feeder 23 (F-023)",
+   "DT": "Vaishali DT 23 (DT-023)"
+  }
+ },
+ {
+  "meterId": "J100223",
+  "dtCode": "DT-024",
+  "hierarchy": {
+   "Meter ID": "J100223",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 4 (D-04)",
+   "Subdivision": "Subdivision 10 (SD-10)",
+   "Sub Station": "Substation 6 (SS-06)",
+   "Feeder": "Feeder 24 (F-024)",
+   "DT": "Raja Park DT 24 (DT-024)"
+  }
+ },
+ {
+  "meterId": "J100224",
+  "dtCode": "DT-025",
+  "hierarchy": {
+   "Meter ID": "J100224",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 5 (D-05)",
+   "Subdivision": "Subdivision 11 (SD-11)",
+   "Sub Station": "Substation 7 (SS-07)",
+   "Feeder": "Feeder 25 (F-025)",
+   "DT": "Bani Park DT 25 (DT-025)"
+  }
+ },
+ {
+  "meterId": "J100225",
+  "dtCode": "DT-026",
+  "hierarchy": {
+   "Meter ID": "J100225",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 6 (D-06)",
+   "Subdivision": "Subdivision 12 (SD-12)",
+   "Sub Station": "Substation 8 (SS-08)",
+   "Feeder": "Feeder 26 (F-026)",
+   "DT": "Jhotwara DT 26 (DT-026)"
+  }
+ },
+ {
+  "meterId": "J100226",
+  "dtCode": "DT-027",
+  "hierarchy": {
+   "Meter ID": "J100226",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 7 (D-07)",
+   "Subdivision": "Subdivision 13 (SD-13)",
+   "Sub Station": "Substation 9 (SS-09)",
+   "Feeder": "Feeder 27 (F-027)",
+   "DT": "Sanganer DT 27 (DT-027)"
+  }
+ },
+ {
+  "meterId": "J100227",
+  "dtCode": "DT-028",
+  "hierarchy": {
+   "Meter ID": "J100227",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 8 (D-08)",
+   "Subdivision": "Subdivision 14 (SD-14)",
+   "Sub Station": "Substation 10 (SS-10)",
+   "Feeder": "Feeder 28 (F-028)",
+   "DT": "Tonk Road DT 28 (DT-028)"
+  }
+ },
+ {
+  "meterId": "J100228",
+  "dtCode": "DT-029",
+  "hierarchy": {
+   "Meter ID": "J100228",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 9 (D-09)",
+   "Subdivision": "Subdivision 1 (SD-01)",
+   "Sub Station": "Substation 11",
+   "Feeder": "Feeder 1 (F-001)",
+   "DT": "Sikar Road DT 29 (DT-029)"
+  }
+ },
+ {
+  "meterId": "J100229",
+  "dtCode": "DT-030",
+  "hierarchy": {
+   "Meter ID": "J100229",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 10 (D-10)",
+   "Subdivision": "Subdivision 2 (SD-02)",
+   "Sub Station": "Substation 12 (SS-12)",
+   "Feeder": "Feeder 2 (F-002)",
+   "DT": "Civil Lines DT 30 (DT-030)"
+  }
+ },
+ {
+  "meterId": "J100230",
+  "dtCode": "DT-031",
+  "hierarchy": {
+   "Meter ID": "J100230",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 1 (D-01)",
+   "Subdivision": "Subdivision 3 (SD-03)",
+   "Sub Station": "Substation 13 (SS-13)",
+   "Feeder": "Feeder 3 (F-003)",
+   "DT": "Malviya Nagar DT 31 (DT-031)"
+  }
+ },
+ {
+  "meterId": "J100231",
+  "dtCode": "DT-032",
+  "hierarchy": {
+   "Meter ID": "J100231",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 2 (D-02)",
+   "Subdivision": "Subdivision 4 (SD-04)",
+   "Sub Station": "Substation 14 (SS-14)",
+   "Feeder": "Feeder 4 (F-004)",
+   "DT": "Mansarovar DT 32 (DT-032)"
+  }
+ },
+ {
+  "meterId": "J100232",
+  "dtCode": "DT-033",
+  "hierarchy": {
+   "Meter ID": "J100232",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 3 (D-03)",
+   "Subdivision": "Subdivision 5 (SD-05)",
+   "Sub Station": "Substation 15 (SS-15)",
+   "Feeder": "Feeder 5 (F-005)",
+   "DT": "Vaishali DT 33 (DT-033)"
+  }
+ },
+ {
+  "meterId": "J100233",
+  "dtCode": "DT-034",
+  "hierarchy": {
+   "Meter ID": "J100233",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 4 (D-04)",
+   "Subdivision": "Subdivision 6 (SD-06)",
+   "Sub Station": "Substation 16 (SS-16)",
+   "Feeder": "Feeder 6 (F-006)",
+   "DT": "Raja Park DT 34 (DT-034)"
+  }
+ },
+ {
+  "meterId": "J100234",
+  "dtCode": "DT-035",
+  "hierarchy": {
+   "Meter ID": "J100234",
+   "Installation Status": "Faulty",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 5 (D-05)",
+   "Subdivision": "Subdivision 7 (SD-07)",
+   "Sub Station": "Substation 17 (SS-17)",
+   "Feeder": "Feeder 7 (F-007)",
+   "DT": "Bani Park DT 35 (DT-035)"
+  }
+ },
+ {
+  "meterId": "J100235",
+  "dtCode": "DT-036",
+  "hierarchy": {
+   "Meter ID": "J100235",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 6 (D-06)",
+   "Subdivision": "Subdivision 8 (SD-08)",
+   "Sub Station": "Substation 18 (SS-18)",
+   "Feeder": "Feeder 8 (F-008)",
+   "DT": "Jhotwara DT 36 (DT-036)"
+  }
+ },
+ {
+  "meterId": "J100236",
+  "dtCode": "DT-037",
+  "hierarchy": {
+   "Meter ID": "J100236",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 7 (D-07)",
+   "Subdivision": "Subdivision 9 (SD-09)",
+   "Sub Station": "Substation 1 (SS-01)",
+   "Feeder": "Feeder 9 (F-009)",
+   "DT": "Sanganer DT 37 (DT-037)"
+  }
+ },
+ {
+  "meterId": "J100237",
+  "dtCode": "DT-038",
+  "hierarchy": {
+   "Meter ID": "J100237",
+   "Installation Status": "Faulty",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 8 (D-08)",
+   "Subdivision": "Subdivision 10 (SD-10)",
+   "Sub Station": "Substation 2 (SS-02)",
+   "Feeder": "Feeder 10 (F-010)",
+   "DT": "Tonk Road DT 38 (DT-038)"
+  }
+ },
+ {
+  "meterId": "J100238",
+  "dtCode": "DT-039",
+  "hierarchy": {
+   "Meter ID": "J100238",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 9 (D-09)",
+   "Subdivision": "Subdivision 11 (SD-11)",
+   "Sub Station": "Substation 3 (SS-03)",
+   "Feeder": "Feeder 11 (F-011)",
+   "DT": "Sikar Road DT 39 (DT-039)"
+  }
+ },
+ {
+  "meterId": "J100239",
+  "dtCode": "DT-040",
+  "hierarchy": {
+   "Meter ID": "J100239",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 10 (D-10)",
+   "Subdivision": "Subdivision 12 (SD-12)",
+   "Sub Station": "Substation 4 (SS-04)",
+   "Feeder": "Feeder 12 (F-012)",
+   "DT": "Civil Lines DT 40 (DT-040)"
+  }
+ },
+ {
+  "meterId": "J100240",
+  "dtCode": "DT-001",
+  "hierarchy": {
+   "Meter ID": "J100240",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 1 (D-01)",
+   "Subdivision": "Subdivision 1 (SD-01)",
+   "Sub Station": "Substation 1 (SS-01)",
+   "Feeder": "Feeder 1 (F-001)",
+   "DT": "Malviya Nagar DT 1 (DT-001)"
+  }
+ },
+ {
+  "meterId": "J100241",
+  "dtCode": "DT-002",
+  "hierarchy": {
+   "Meter ID": "J100241",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 2 (D-02)",
+   "Subdivision": "Subdivision 2 (SD-02)",
+   "Sub Station": "Substation 2 (SS-02)",
+   "Feeder": "Feeder 2 (F-002)",
+   "DT": "Mansarovar DT 2 (DT-002)"
+  }
+ },
+ {
+  "meterId": "J100242",
+  "dtCode": "DT-003",
+  "hierarchy": {
+   "Meter ID": "J100242",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 3 (D-03)",
+   "Subdivision": "Subdivision 3 (SD-03)",
+   "Sub Station": "Substation 3 (SS-03)",
+   "Feeder": "Feeder 3 (F-003)",
+   "DT": "Vaishali DT 3 (DT-003)"
+  }
+ },
+ {
+  "meterId": "J100243",
+  "dtCode": "DT-004",
+  "hierarchy": {
+   "Meter ID": "J100243",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 4 (D-04)",
+   "Subdivision": "Subdivision 4 (SD-04)",
+   "Sub Station": "Substation 4 (SS-04)",
+   "Feeder": "Feeder 4 (F-004)",
+   "DT": "Raja Park DT 4 (DT-004)"
+  }
+ },
+ {
+  "meterId": "J100244",
+  "dtCode": "DT-005",
+  "hierarchy": {
+   "Meter ID": "J100244",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 5 (D-05)",
+   "Subdivision": "Subdivision 5 (SD-05)",
+   "Sub Station": "Substation 5 (SS-05)",
+   "Feeder": "Feeder 5 (F-005)",
+   "DT": "Bani Park DT 5 (DT-005)"
+  }
+ },
+ {
+  "meterId": "J100245",
+  "dtCode": "DT-006",
+  "hierarchy": {
+   "Meter ID": "J100245",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 6 (D-06)",
+   "Subdivision": "Subdivision 6 (SD-06)",
+   "Sub Station": "Substation 6 (SS-06)",
+   "Feeder": "Feeder 6 (F-006)",
+   "DT": "Jhotwara DT 6 (DT-006)"
+  }
+ },
+ {
+  "meterId": "J100246",
+  "dtCode": "DT-007",
+  "hierarchy": {
+   "Meter ID": "J100246",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 7 (D-07)",
+   "Subdivision": "Subdivision 7 (SD-07)",
+   "Sub Station": "Substation 7 (SS-07)",
+   "Feeder": "Feeder 7 (F-007)",
+   "DT": "Sanganer DT 7 (DT-007)"
+  }
+ },
+ {
+  "meterId": "J100247",
+  "dtCode": "DT-008",
+  "hierarchy": {
+   "Meter ID": "J100247",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 8 (D-08)",
+   "Subdivision": "Subdivision 8 (SD-08)",
+   "Sub Station": "Substation 8 (SS-08)",
+   "Feeder": "Feeder 8 (F-008)",
+   "DT": "Tonk Road DT 8 (DT-008)"
+  }
+ },
+ {
+  "meterId": "J100248",
+  "dtCode": "DT-009",
+  "hierarchy": {
+   "Meter ID": "J100248",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "",
+   "Division": "Division 9 (D-09)",
+   "Subdivision": "Subdivision 9 (SD-09)",
+   "Sub Station": "Substation 9 (SS-09)",
+   "Feeder": "Feeder 9 (F-009)",
+   "DT": "Sikar Road DT 9 (DT-009)"
+  }
+ },
+ {
+  "meterId": "J100249",
+  "dtCode": "DT-010",
+  "hierarchy": {
+   "Meter ID": "J100249",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 10 (D-10)",
+   "Subdivision": "Subdivision 10 (SD-10)",
+   "Sub Station": "Substation 10 (SS-10)",
+   "Feeder": "Feeder 10 (F-010)",
+   "DT": "Civil Lines DT 10 (DT-010)"
+  }
+ },
+ {
+  "meterId": "J100250",
+  "dtCode": "DT-011",
+  "hierarchy": {
+   "Meter ID": "J100250",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 1 (D-01)",
+   "Subdivision": "Subdivision 11 (SD-11)",
+   "Sub Station": "Substation 11 (SS-11)",
+   "Feeder": "Feeder 11 (F-011)",
+   "DT": "Malviya Nagar DT 11 (DT-011)"
+  }
+ },
+ {
+  "meterId": "J100251",
+  "dtCode": "DT-012",
+  "hierarchy": {
+   "Meter ID": "J100251",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 2 (D-02)",
+   "Subdivision": "Subdivision 12 (SD-12)",
+   "Sub Station": "Substation 12 (SS-12)",
+   "Feeder": "Feeder 12 (F-012)",
+   "DT": "Mansarovar DT 12 (DT-012)"
+  }
+ },
+ {
+  "meterId": "J100252",
+  "dtCode": "DT-013",
+  "hierarchy": {
+   "Meter ID": "J100252",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 3 (D-03)",
+   "Subdivision": "Subdivision 13 (SD-13)",
+   "Sub Station": "Substation 13 (SS-13)",
+   "Feeder": "Feeder 13 (F-013)",
+   "DT": "Vaishali DT 13 (DT-013)"
+  }
+ },
+ {
+  "meterId": "J100253",
+  "dtCode": "DT-014",
+  "hierarchy": {
+   "Meter ID": "J100253",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 4 (D-04)",
+   "Subdivision": "Subdivision 14 (SD-14)",
+   "Sub Station": "Substation 14 (SS-14)",
+   "Feeder": "Feeder 14 (F-014)",
+   "DT": "Raja Park DT 14 (DT-014)"
+  }
+ },
+ {
+  "meterId": "J100254",
+  "dtCode": "DT-015",
+  "hierarchy": {
+   "Meter ID": "J100254",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 5 (D-05)",
+   "Subdivision": "Subdivision 1 (SD-01)",
+   "Sub Station": "Substation 15 (SS-15)",
+   "Feeder": "Feeder 15 (F-015)",
+   "DT": "Bani Park DT 15 (DT-015)"
+  }
+ },
+ {
+  "meterId": "J100255",
+  "dtCode": "DT-016",
+  "hierarchy": {
+   "Meter ID": "J100255",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 6 (D-06)",
+   "Subdivision": "Subdivision 2 (SD-02)",
+   "Sub Station": "Substation 16 (SS-16)",
+   "Feeder": "Feeder 16 (F-016)",
+   "DT": "Jhotwara DT 16 (DT-016)"
+  }
+ },
+ {
+  "meterId": "J100256",
+  "dtCode": "DT-017",
+  "hierarchy": {
+   "Meter ID": "J100256",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 7 (D-07)",
+   "Subdivision": "Subdivision 3 (SD-03)",
+   "Sub Station": "Substation 17 (SS-17)",
+   "Feeder": "Feeder 17 (F-017)",
+   "DT": "Sanganer DT 17 (DT-017)"
+  }
+ },
+ {
+  "meterId": "J100257",
+  "dtCode": "DT-018",
+  "hierarchy": {
+   "Meter ID": "J100257",
+   "Installation Status": "Faulty",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 8 (D-08)",
+   "Subdivision": "Subdivision 4 (SD-04)",
+   "Sub Station": "Substation 18 (SS-18)",
+   "Feeder": "",
+   "DT": "Tonk Road DT 18 (DT-018)"
+  }
+ },
+ {
+  "meterId": "J100258",
+  "dtCode": "DT-019",
+  "hierarchy": {
+   "Meter ID": "J100258",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 9 (D-09)",
+   "Subdivision": "Subdivision 5 (SD-05)",
+   "Sub Station": "Substation 1 (SS-01)",
+   "Feeder": "Feeder 19 (F-019)",
+   "DT": "Sikar Road DT 19 (DT-019)"
+  }
+ },
+ {
+  "meterId": "J100259",
+  "dtCode": "DT-020",
+  "hierarchy": {
+   "Meter ID": "J100259",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 10 (D-10)",
+   "Subdivision": "Subdivision 6 (SD-06)",
+   "Sub Station": "Substation 2 (SS-02)",
+   "Feeder": "Feeder 20 (F-020)",
+   "DT": "Civil Lines DT 20 (DT-020)"
+  }
+ },
+ {
+  "meterId": "J100260",
+  "dtCode": "DT-021",
+  "hierarchy": {
+   "Meter ID": "J100260",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 1 (D-01)",
+   "Subdivision": "Subdivision 7 (SD-07)",
+   "Sub Station": "Substation 3 (SS-03)",
+   "Feeder": "Feeder 21 (F-021)",
+   "DT": "Malviya Nagar DT 21 (DT-021)"
+  }
+ },
+ {
+  "meterId": "J100261",
+  "dtCode": "DT-022",
+  "hierarchy": {
+   "Meter ID": "J100261",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 2 (D-02)",
+   "Subdivision": "Subdivision 8 (SD-08)",
+   "Sub Station": "Substation 4 (SS-04)",
+   "Feeder": "Feeder 22 (F-022)",
+   "DT": "Mansarovar DT 22 (DT-022)"
+  }
+ },
+ {
+  "meterId": "J100262",
+  "dtCode": "DT-023",
+  "hierarchy": {
+   "Meter ID": "J100262",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 3 (D-03)",
+   "Subdivision": "Subdivision 9 (SD-09)",
+   "Sub Station": "Substation 5 (SS-05)",
+   "Feeder": "Feeder 23 (F-023)",
+   "DT": "Vaishali DT 23 (DT-023)"
+  }
+ },
+ {
+  "meterId": "J100263",
+  "dtCode": "DT-024",
+  "hierarchy": {
+   "Meter ID": "J100263",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 4 (D-04)",
+   "Subdivision": "Subdivision 10 (SD-10)",
+   "Sub Station": "Substation 6 (SS-06)",
+   "Feeder": "Feeder 24 (F-024)",
+   "DT": "Raja Park DT 24 (DT-024)"
+  }
+ },
+ {
+  "meterId": "J100264",
+  "dtCode": "DT-025",
+  "hierarchy": {
+   "Meter ID": "J100264",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 5 (D-05)",
+   "Subdivision": "Subdivision 11 (SD-11)",
+   "Sub Station": "Substation 7 (SS-07)",
+   "Feeder": "Feeder 25 (F-025)",
+   "DT": "Bani Park DT 25 (DT-025)"
+  }
+ },
+ {
+  "meterId": "J100265",
+  "dtCode": "DT-026",
+  "hierarchy": {
+   "Meter ID": "J100265",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2",
+   "Division": "Division 6 (D-06)",
+   "Subdivision": "Subdivision 12 (SD-12)",
+   "Sub Station": "Substation 8 (SS-08)",
+   "Feeder": "Feeder 26 (F-026)",
+   "DT": "Jhotwara DT 26 (DT-026)"
+  }
+ },
+ {
+  "meterId": "J100266",
+  "dtCode": "DT-027",
+  "hierarchy": {
+   "Meter ID": "J100266",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 7 (D-07)",
+   "Subdivision": "Subdivision 13 (SD-13)",
+   "Sub Station": "Substation 9 (SS-09)",
+   "Feeder": "Feeder 27 (F-027)",
+   "DT": "Sanganer DT 27 (DT-027)"
+  }
+ },
+ {
+  "meterId": "J100267",
+  "dtCode": "DT-028",
+  "hierarchy": {
+   "Meter ID": "J100267",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 8 (D-08)",
+   "Subdivision": "Subdivision 14 (SD-14)",
+   "Sub Station": "Substation 10 (SS-10)",
+   "Feeder": "Feeder 28 (F-028)",
+   "DT": "Tonk Road DT 28 (DT-028)"
+  }
+ },
+ {
+  "meterId": "J100268",
+  "dtCode": "DT-029",
+  "hierarchy": {
+   "Meter ID": "J100268",
+   "Installation Status": "Faulty",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 9 (D-09)",
+   "Subdivision": "Subdivision 1 (SD-01)",
+   "Sub Station": "Substation 11 (SS-11)",
+   "Feeder": "Feeder 1",
+   "DT": "Sikar Road DT 29 (DT-029)"
+  }
+ },
+ {
+  "meterId": "J100269",
+  "dtCode": "DT-030",
+  "hierarchy": {
+   "Meter ID": "J100269",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 10 (D-10)",
+   "Subdivision": "Subdivision 2 (SD-02)",
+   "Sub Station": "Substation 12 (SS-12)",
+   "Feeder": "Feeder 2 (F-002)",
+   "DT": "Civil Lines DT 30 (DT-030)"
+  }
+ },
+ {
+  "meterId": "J100270",
+  "dtCode": "DT-031",
+  "hierarchy": {
+   "Meter ID": "J100270",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 1 (D-01)",
+   "Subdivision": "Subdivision 3 (SD-03)",
+   "Sub Station": "Substation 13 (SS-13)",
+   "Feeder": "Feeder 3 (F-003)",
+   "DT": "Malviya Nagar DT 31 (DT-031)"
+  }
+ },
+ {
+  "meterId": "J100271",
+  "dtCode": "DT-032",
+  "hierarchy": {
+   "Meter ID": "J100271",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 2 (D-02)",
+   "Subdivision": "Subdivision 4 (SD-04)",
+   "Sub Station": "Substation 14 (SS-14)",
+   "Feeder": "Feeder 4 (F-004)",
+   "DT": "Mansarovar DT 32 (DT-032)"
+  }
+ },
+ {
+  "meterId": "J100272",
+  "dtCode": "DT-033",
+  "hierarchy": {
+   "Meter ID": "J100272",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 3 (D-03)",
+   "Subdivision": "Subdivision 5 (SD-05)",
+   "Sub Station": "Substation 15 (SS-15)",
+   "Feeder": "Feeder 5 (F-005)",
+   "DT": "Vaishali DT 33 (DT-033)"
+  }
+ },
+ {
+  "meterId": "J100273",
+  "dtCode": "DT-034",
+  "hierarchy": {
+   "Meter ID": "J100273",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 4 (D-04)",
+   "Subdivision": "Subdivision 6 (SD-06)",
+   "Sub Station": "Substation 16 (SS-16)",
+   "Feeder": "Feeder 6 (F-006)",
+   "DT": "Raja Park DT 34 (DT-034)"
+  }
+ },
+ {
+  "meterId": "J100274",
+  "dtCode": "DT-035",
+  "hierarchy": {
+   "Meter ID": "J100274",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 5 (D-05)",
+   "Subdivision": "Subdivision 7 (SD-07)",
+   "Sub Station": "Substation 17 (SS-17)",
+   "Feeder": "Feeder 7 (F-007)",
+   "DT": "Bani Park DT 35 (DT-035)"
+  }
+ },
+ {
+  "meterId": "J100275",
+  "dtCode": "DT-036",
+  "hierarchy": {
+   "Meter ID": "J100275",
+   "Installation Status": "Faulty",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 6 (D-06)",
+   "Subdivision": "Subdivision 8 (SD-08)",
+   "Sub Station": "Substation 18 (SS-18)",
+   "Feeder": "Feeder 8 (F-008)",
+   "DT": "Jhotwara DT 36 (DT-036)"
+  }
+ },
+ {
+  "meterId": "J100276",
+  "dtCode": "DT-037",
+  "hierarchy": {
+   "Meter ID": "J100276",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 7 (D-07)",
+   "Subdivision": "Subdivision 9 (SD-09)",
+   "Sub Station": "Substation 1 (SS-01)",
+   "Feeder": "Feeder 9 (F-009)",
+   "DT": "Sanganer DT 37 (DT-037)"
+  }
+ },
+ {
+  "meterId": "J100277",
+  "dtCode": "DT-038",
+  "hierarchy": {
+   "Meter ID": "J100277",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 8 (D-08)",
+   "Subdivision": "Subdivision 10 (SD-10)",
+   "Sub Station": "Substation 2 (SS-02)",
+   "Feeder": "Feeder 10 (F-010)",
+   "DT": "Tonk Road DT 38 (DT-038)"
+  }
+ },
+ {
+  "meterId": "J100278",
+  "dtCode": "DT-039",
+  "hierarchy": {
+   "Meter ID": "J100278",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 9 (D-09)",
+   "Subdivision": "Subdivision 11 (SD-11)",
+   "Sub Station": "Substation 3 (SS-03)",
+   "Feeder": "Feeder 11 (F-011)",
+   "DT": "Sikar Road DT 39 (DT-039)"
+  }
+ },
+ {
+  "meterId": "J100279",
+  "dtCode": "DT-040",
+  "hierarchy": {
+   "Meter ID": "J100279",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 10 (D-10)",
+   "Subdivision": "Subdivision 12 (SD-12)",
+   "Sub Station": "Substation 4 (SS-04)",
+   "Feeder": "Feeder 12 (F-012)",
+   "DT": "Civil Lines DT 40 (DT-040)"
+  }
+ },
+ {
+  "meterId": "J100280",
+  "dtCode": "DT-001",
+  "hierarchy": {
+   "Meter ID": "J100280",
+   "Installation Status": "Faulty",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 1 (D-01)",
+   "Subdivision": "Subdivision 1 (SD-01)",
+   "Sub Station": "Substation 1 (SS-01)",
+   "Feeder": "Feeder 1 (F-001)",
+   "DT": "Malviya Nagar DT 1 (DT-001)"
+  }
+ },
+ {
+  "meterId": "J100281",
+  "dtCode": "DT-002",
+  "hierarchy": {
+   "Meter ID": "J100281",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 2 (D-02)",
+   "Subdivision": "Subdivision 2 (SD-02)",
+   "Sub Station": "Substation 2 (SS-02)",
+   "Feeder": "Feeder 2 (F-002)",
+   "DT": "Mansarovar DT 2 (DT-002)"
+  }
+ },
+ {
+  "meterId": "J100282",
+  "dtCode": "DT-003",
+  "hierarchy": {
+   "Meter ID": "J100282",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 3 (D-03)",
+   "Subdivision": "Subdivision 3 (SD-03)",
+   "Sub Station": "Substation 3 (SS-03)",
+   "Feeder": "Feeder 3 (F-003)",
+   "DT": "Vaishali DT 3 (DT-003)"
+  }
+ },
+ {
+  "meterId": "J100283",
+  "dtCode": "DT-004",
+  "hierarchy": {
+   "Meter ID": "J100283",
+   "Installation Status": "Faulty",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 4 (D-04)",
+   "Subdivision": "Subdivision 4 (SD-04)",
+   "Sub Station": "Substation 4 (SS-04)",
+   "Feeder": "Feeder 4 (F-004)",
+   "DT": "Raja Park DT 4 (DT-004)"
+  }
+ },
+ {
+  "meterId": "J100284",
+  "dtCode": "DT-005",
+  "hierarchy": {
+   "Meter ID": "J100284",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 5 (D-05)",
+   "Subdivision": "Subdivision 5 (SD-05)",
+   "Sub Station": "Substation 5 (SS-05)",
+   "Feeder": "Feeder 5 (F-005)",
+   "DT": "Bani Park DT 5 (DT-005)"
+  }
+ },
+ {
+  "meterId": "J100285",
+  "dtCode": "DT-006",
+  "hierarchy": {
+   "Meter ID": "J100285",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 6 (D-06)",
+   "Subdivision": "Subdivision 6 (SD-06)",
+   "Sub Station": "Substation 6 (SS-06)",
+   "Feeder": "Feeder 6 (F-006)",
+   "DT": "Jhotwara DT 6 (DT-006)"
+  }
+ },
+ {
+  "meterId": "J100286",
+  "dtCode": "DT-007",
+  "hierarchy": {
+   "Meter ID": "J100286",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 7 (D-07)",
+   "Subdivision": "Subdivision 7 (SD-07)",
+   "Sub Station": "Substation 7 (SS-07)",
+   "Feeder": "Feeder 7 (F-007)",
+   "DT": "Sanganer DT 7 (DT-007)"
+  }
+ },
+ {
+  "meterId": "J100287",
+  "dtCode": "DT-008",
+  "hierarchy": {
+   "Meter ID": "J100287",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 8 (D-08)",
+   "Subdivision": "Subdivision 8 (SD-08)",
+   "Sub Station": "Substation 8 (SS-08)",
+   "Feeder": "Feeder 8 (F-008)",
+   "DT": "Tonk Road DT 8 (DT-008)"
+  }
+ },
+ {
+  "meterId": "J100288",
+  "dtCode": "DT-009",
+  "hierarchy": {
+   "Meter ID": "J100288",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 9 (D-09)",
+   "Subdivision": "Subdivision 9 (SD-09)",
+   "Sub Station": "Substation 9 (SS-09)",
+   "Feeder": "Feeder 9 (F-009)",
+   "DT": "Sikar Road DT 9 (DT-009)"
+  }
+ },
+ {
+  "meterId": "J100289",
+  "dtCode": "DT-010",
+  "hierarchy": {
+   "Meter ID": "J100289",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 10 (D-10)",
+   "Subdivision": "Subdivision 10 (SD-10)",
+   "Sub Station": "Substation 10 (SS-10)",
+   "Feeder": "Feeder 10 (F-010)",
+   "DT": "Civil Lines DT 10 (DT-010)"
+  }
+ },
+ {
+  "meterId": "J100290",
+  "dtCode": "DT-011",
+  "hierarchy": {
+   "Meter ID": "J100290",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 1 (D-01)",
+   "Subdivision": "Subdivision 11 (SD-11)",
+   "Sub Station": "Substation 11 (SS-11)",
+   "Feeder": "Feeder 11 (F-011)",
+   "DT": "Malviya Nagar DT 11 (DT-011)"
+  }
+ },
+ {
+  "meterId": "J100291",
+  "dtCode": "DT-012",
+  "hierarchy": {
+   "Meter ID": "J100291",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 2 (D-02)",
+   "Subdivision": "Subdivision 12 (SD-12)",
+   "Sub Station": "Substation 12 (SS-12)",
+   "Feeder": "Feeder 12 (F-012)",
+   "DT": "Mansarovar DT 12 (DT-012)"
+  }
+ },
+ {
+  "meterId": "J100292",
+  "dtCode": "DT-013",
+  "hierarchy": {
+   "Meter ID": "J100292",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 3 (D-03)",
+   "Subdivision": "Subdivision 13 (SD-13)",
+   "Sub Station": "Substation 13 (SS-13)",
+   "Feeder": "Feeder 13 (F-013)",
+   "DT": "Vaishali DT 13 (DT-013)"
+  }
+ },
+ {
+  "meterId": "J100293",
+  "dtCode": "DT-014",
+  "hierarchy": {
+   "Meter ID": "J100293",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 4 (D-04)",
+   "Subdivision": "Subdivision 14 (SD-14)",
+   "Sub Station": "Substation 14 (SS-14)",
+   "Feeder": "Feeder 14 (F-014)",
+   "DT": "Raja Park DT 14 (DT-014)"
+  }
+ },
+ {
+  "meterId": "J100294",
+  "dtCode": "DT-015",
+  "hierarchy": {
+   "Meter ID": "J100294",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 5 (D-05)",
+   "Subdivision": "Subdivision 1 (SD-01)",
+   "Sub Station": "Substation 15 (SS-15)",
+   "Feeder": "Feeder 15 (F-015)",
+   "DT": "Bani Park DT 15 (DT-015)"
+  }
+ },
+ {
+  "meterId": "J100295",
+  "dtCode": "DT-016",
+  "hierarchy": {
+   "Meter ID": "J100295",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 6 (D-06)",
+   "Subdivision": "Subdivision 2 (SD-02)",
+   "Sub Station": "Substation 16 (SS-16)",
+   "Feeder": "Feeder 16 (F-016)",
+   "DT": "Jhotwara DT 16 (DT-016)"
+  }
+ },
+ {
+  "meterId": "J100296",
+  "dtCode": "DT-017",
+  "hierarchy": {
+   "Meter ID": "J100296",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 7 (D-07)",
+   "Subdivision": "Subdivision 3 (SD-03)",
+   "Sub Station": "Substation 17 (SS-17)",
+   "Feeder": "Feeder 17 (F-017)",
+   "DT": "Sanganer DT 17 (DT-017)"
+  }
+ },
+ {
+  "meterId": "J100297",
+  "dtCode": "DT-018",
+  "hierarchy": {
+   "Meter ID": "J100297",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 8 (D-08)",
+   "Subdivision": "Subdivision 4 (SD-04)",
+   "Sub Station": "Substation 18 (SS-18)",
+   "Feeder": "Feeder 18 (F-018)",
+   "DT": "Tonk Road DT 18 (DT-018)"
+  }
+ },
+ {
+  "meterId": "J100298",
+  "dtCode": "DT-019",
+  "hierarchy": {
+   "Meter ID": "J100298",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 9 (D-09)",
+   "Subdivision": "Subdivision 5 (SD-05)",
+   "Sub Station": "Substation 1 (SS-01)",
+   "Feeder": "Feeder 19 (F-019)",
+   "DT": "Sikar Road DT 19 (DT-019)"
+  }
+ },
+ {
+  "meterId": "J100299",
+  "dtCode": "DT-020",
+  "hierarchy": {
+   "Meter ID": "J100299",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 10 (D-10)",
+   "Subdivision": "Subdivision 6 (SD-06)",
+   "Sub Station": "Substation 2 (SS-02)",
+   "Feeder": "Feeder 20 (F-020)",
+   "DT": "Civil Lines DT 20 (DT-020)"
+  }
+ },
+ {
+  "meterId": "J100300",
+  "dtCode": "DT-021",
+  "hierarchy": {
+   "Meter ID": "J100300",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 1 (D-01)",
+   "Subdivision": "Subdivision 7 (SD-07)",
+   "Sub Station": "Substation 3 (SS-03)",
+   "Feeder": "Feeder 21 (F-021)",
+   "DT": "Malviya Nagar DT 21 (DT-021)"
+  }
+ },
+ {
+  "meterId": "J100301",
+  "dtCode": "DT-022",
+  "hierarchy": {
+   "Meter ID": "J100301",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 2 (D-02)",
+   "Subdivision": "Subdivision 8 (SD-08)",
+   "Sub Station": "Substation 4 (SS-04)",
+   "Feeder": "Feeder 22 (F-022)",
+   "DT": "Mansarovar DT 22 (DT-022)"
+  }
+ },
+ {
+  "meterId": "J100302",
+  "dtCode": "DT-023",
+  "hierarchy": {
+   "Meter ID": "J100302",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 3 (D-03)",
+   "Subdivision": "Subdivision 9 (SD-09)",
+   "Sub Station": "Substation 5",
+   "Feeder": "Feeder 23 (F-023)",
+   "DT": "Vaishali DT 23 (DT-023)"
+  }
+ },
+ {
+  "meterId": "J100303",
+  "dtCode": "DT-024",
+  "hierarchy": {
+   "Meter ID": "J100303",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 4 (D-04)",
+   "Subdivision": "Subdivision 10 (SD-10)",
+   "Sub Station": "Substation 6 (SS-06)",
+   "Feeder": "Feeder 24 (F-024)",
+   "DT": "Raja Park DT 24 (DT-024)"
+  }
+ },
+ {
+  "meterId": "J100304",
+  "dtCode": "DT-025",
+  "hierarchy": {
+   "Meter ID": "J100304",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 5 (D-05)",
+   "Subdivision": "Subdivision 11 (SD-11)",
+   "Sub Station": "Substation 7 (SS-07)",
+   "Feeder": "Feeder 25 (F-025)",
+   "DT": "Bani Park DT 25 (DT-025)"
+  }
+ },
+ {
+  "meterId": "J100305",
+  "dtCode": "DT-026",
+  "hierarchy": {
+   "Meter ID": "J100305",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 6 (D-06)",
+   "Subdivision": "Subdivision 12 (SD-12)",
+   "Sub Station": "Substation 8 (SS-08)",
+   "Feeder": "Feeder 26 (F-026)",
+   "DT": "Jhotwara DT 26 (DT-026)"
+  }
+ },
+ {
+  "meterId": "J100306",
+  "dtCode": "DT-027",
+  "hierarchy": {
+   "Meter ID": "J100306",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "",
+   "Division": "Division 7 (D-07)",
+   "Subdivision": "Subdivision 13 (SD-13)",
+   "Sub Station": "Substation 9 (SS-09)",
+   "Feeder": "Feeder 27 (F-027)",
+   "DT": "Sanganer DT 27 (DT-027)"
+  }
+ },
+ {
+  "meterId": "J100307",
+  "dtCode": "DT-028",
+  "hierarchy": {
+   "Meter ID": "J100307",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 8 (D-08)",
+   "Subdivision": "Subdivision 14 (SD-14)",
+   "Sub Station": "Substation 10 (SS-10)",
+   "Feeder": "Feeder 28 (F-028)",
+   "DT": "Tonk Road DT 28 (DT-028)"
+  }
+ },
+ {
+  "meterId": "J100308",
+  "dtCode": "DT-029",
+  "hierarchy": {
+   "Meter ID": "J100308",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 9 (D-09)",
+   "Subdivision": "Subdivision 1 (SD-01)",
+   "Sub Station": "Substation 11 (SS-11)",
+   "Feeder": "Feeder 1 (F-001)",
+   "DT": "Sikar Road DT 29 (DT-029)"
+  }
+ },
+ {
+  "meterId": "J100309",
+  "dtCode": "DT-030",
+  "hierarchy": {
+   "Meter ID": "J100309",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 10 (D-10)",
+   "Subdivision": "Subdivision 2 (SD-02)",
+   "Sub Station": "Substation 12 (SS-12)",
+   "Feeder": "Feeder 2 (F-002)",
+   "DT": "Civil Lines DT 30 (DT-030)"
+  }
+ },
+ {
+  "meterId": "J100310",
+  "dtCode": "DT-031",
+  "hierarchy": {
+   "Meter ID": "J100310",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 1 (D-01)",
+   "Subdivision": "Subdivision 3 (SD-03)",
+   "Sub Station": "Substation 13 (SS-13)",
+   "Feeder": "Feeder 3 (F-003)",
+   "DT": "Malviya Nagar DT 31 (DT-031)"
+  }
+ },
+ {
+  "meterId": "J100311",
+  "dtCode": "DT-032",
+  "hierarchy": {
+   "Meter ID": "J100311",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 2 (D-02)",
+   "Subdivision": "Subdivision 4 (SD-04)",
+   "Sub Station": "Substation 14 (SS-14)",
+   "Feeder": "Feeder 4 (F-004)",
+   "DT": "Mansarovar DT 32 (DT-032)"
+  }
+ },
+ {
+  "meterId": "J100312",
+  "dtCode": "DT-033",
+  "hierarchy": {
+   "Meter ID": "J100312",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 3 (D-03)",
+   "Subdivision": "Subdivision 5 (SD-05)",
+   "Sub Station": "Substation 15 (SS-15)",
+   "Feeder": "Feeder 5 (F-005)",
+   "DT": "Vaishali DT 33 (DT-033)"
+  }
+ },
+ {
+  "meterId": "J100313",
+  "dtCode": "DT-034",
+  "hierarchy": {
+   "Meter ID": "J100313",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 4 (D-04)",
+   "Subdivision": "Subdivision 6 (SD-06)",
+   "Sub Station": "Substation 16 (SS-16)",
+   "Feeder": "Feeder 6 (F-006)",
+   "DT": "Raja Park DT 34 (DT-034)"
+  }
+ },
+ {
+  "meterId": "J100314",
+  "dtCode": "DT-035",
+  "hierarchy": {
+   "Meter ID": "J100314",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 5 (D-05)",
+   "Subdivision": "Subdivision 7 (SD-07)",
+   "Sub Station": "Substation 17 (SS-17)",
+   "Feeder": "Feeder 7 (F-007)",
+   "DT": "Bani Park DT 35 (DT-035)"
+  }
+ },
+ {
+  "meterId": "J100315",
+  "dtCode": "DT-036",
+  "hierarchy": {
+   "Meter ID": "J100315",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 6 (D-06)",
+   "Subdivision": "Subdivision 8 (SD-08)",
+   "Sub Station": "Substation 18 (SS-18)",
+   "Feeder": "Feeder 8 (F-008)",
+   "DT": "Jhotwara DT 36 (DT-036)"
+  }
+ },
+ {
+  "meterId": "J100316",
+  "dtCode": "DT-037",
+  "hierarchy": {
+   "Meter ID": "J100316",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 7 (D-07)",
+   "Subdivision": "Subdivision 9 (SD-09)",
+   "Sub Station": "Substation 1 (SS-01)",
+   "Feeder": "Feeder 9 (F-009)",
+   "DT": "Sanganer DT 37 (DT-037)"
+  }
+ },
+ {
+  "meterId": "J100317",
+  "dtCode": "DT-038",
+  "hierarchy": {
+   "Meter ID": "J100317",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 8 (D-08)",
+   "Subdivision": "Subdivision 10 (SD-10)",
+   "Sub Station": "Substation 2 (SS-02)",
+   "Feeder": "Feeder 10 (F-010)",
+   "DT": "Tonk Road DT 38 (DT-038)"
+  }
+ },
+ {
+  "meterId": "J100318",
+  "dtCode": "DT-039",
+  "hierarchy": {
+   "Meter ID": "J100318",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 9 (D-09)",
+   "Subdivision": "Subdivision 11 (SD-11)",
+   "Sub Station": "Substation 3 (SS-03)",
+   "Feeder": "Feeder 11 (F-011)",
+   "DT": "Sikar Road DT 39 (DT-039)"
+  }
+ },
+ {
+  "meterId": "J100319",
+  "dtCode": "DT-040",
+  "hierarchy": {
+   "Meter ID": "J100319",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 10 (D-10)",
+   "Subdivision": "Subdivision 12 (SD-12)",
+   "Sub Station": "Substation 4 (SS-04)",
+   "Feeder": "Feeder 12 (F-012)",
+   "DT": "Civil Lines DT 40 (DT-040)"
+  }
+ },
+ {
+  "meterId": "J100320",
+  "dtCode": "DT-001",
+  "hierarchy": {
+   "Meter ID": "J100320",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 1 (D-01)",
+   "Subdivision": "Subdivision 1 (SD-01)",
+   "Sub Station": "Substation 1 (SS-01)",
+   "Feeder": "Feeder 1 (F-001)",
+   "DT": "Malviya Nagar DT 1 (DT-001)"
+  }
+ },
+ {
+  "meterId": "J100321",
+  "dtCode": "DT-002",
+  "hierarchy": {
+   "Meter ID": "J100321",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 2 (D-02)",
+   "Subdivision": "Subdivision 2 (SD-02)",
+   "Sub Station": "Substation 2 (SS-02)",
+   "Feeder": "Feeder 2 (F-002)",
+   "DT": "Mansarovar DT 2 (DT-002)"
+  }
+ },
+ {
+  "meterId": "J100322",
+  "dtCode": "DT-003",
+  "hierarchy": {
+   "Meter ID": "J100322",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 3 (D-03)",
+   "Subdivision": "Subdivision 3 (SD-03)",
+   "Sub Station": "Substation 3 (SS-03)",
+   "Feeder": "Feeder 3 (F-003)",
+   "DT": "Vaishali DT 3 (DT-003)"
+  }
+ },
+ {
+  "meterId": "J100323",
+  "dtCode": "DT-004",
+  "hierarchy": {
+   "Meter ID": "J100323",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 4 (D-04)",
+   "Subdivision": "Subdivision 4 (SD-04)",
+   "Sub Station": "Substation 4 (SS-04)",
+   "Feeder": "Feeder 4 (F-004)",
+   "DT": "Raja Park DT 4 (DT-004)"
+  }
+ },
+ {
+  "meterId": "J100324",
+  "dtCode": "DT-005",
+  "hierarchy": {
+   "Meter ID": "J100324",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 5 (D-05)",
+   "Subdivision": "Subdivision 5 (SD-05)",
+   "Sub Station": "Substation 5 (SS-05)",
+   "Feeder": "Feeder 5 (F-005)",
+   "DT": "Bani Park DT 5 (DT-005)"
+  }
+ },
+ {
+  "meterId": "J100325",
+  "dtCode": "DT-006",
+  "hierarchy": {
+   "Meter ID": "J100325",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 6 (D-06)",
+   "Subdivision": "Subdivision 6 (SD-06)",
+   "Sub Station": "Substation 6 (SS-06)",
+   "Feeder": "Feeder 6 (F-006)",
+   "DT": "Jhotwara DT 6 (DT-006)"
+  }
+ },
+ {
+  "meterId": "J100326",
+  "dtCode": "DT-007",
+  "hierarchy": {
+   "Meter ID": "J100326",
+   "Installation Status": "Faulty",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 7 (D-07)",
+   "Subdivision": "Subdivision 7 (SD-07)",
+   "Sub Station": "Substation 7 (SS-07)",
+   "Feeder": "Feeder 7 (F-007)",
+   "DT": "Sanganer DT 7 (DT-007)"
+  }
+ },
+ {
+  "meterId": "J100327",
+  "dtCode": "DT-008",
+  "hierarchy": {
+   "Meter ID": "J100327",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 8 (D-08)",
+   "Subdivision": "Subdivision 8 (SD-08)",
+   "Sub Station": "Substation 8 (SS-08)",
+   "Feeder": "Feeder 8 (F-008)",
+   "DT": "Tonk Road DT 8 (DT-008)"
+  }
+ },
+ {
+  "meterId": "J100328",
+  "dtCode": "DT-009",
+  "hierarchy": {
+   "Meter ID": "J100328",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 9 (D-09)",
+   "Subdivision": "Subdivision 9 (SD-09)",
+   "Sub Station": "Substation 9 (SS-09)",
+   "Feeder": "Feeder 9 (F-009)",
+   "DT": "Sikar Road DT 9 (DT-009)"
+  }
+ },
+ {
+  "meterId": "J100329",
+  "dtCode": "DT-010",
+  "hierarchy": {
+   "Meter ID": "J100329",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 10 (D-10)",
+   "Subdivision": "Subdivision 10 (SD-10)",
+   "Sub Station": "Substation 10 (SS-10)",
+   "Feeder": "Feeder 10 (F-010)",
+   "DT": "Civil Lines DT 10 (DT-010)"
+  }
+ },
+ {
+  "meterId": "J100330",
+  "dtCode": "DT-011",
+  "hierarchy": {
+   "Meter ID": "J100330",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 1 (D-01)",
+   "Subdivision": "Subdivision 11 (SD-11)",
+   "Sub Station": "Substation 11 (SS-11)",
+   "Feeder": "Feeder 11 (F-011)",
+   "DT": "Malviya Nagar DT 11 (DT-011)"
+  }
+ },
+ {
+  "meterId": "J100331",
+  "dtCode": "DT-012",
+  "hierarchy": {
+   "Meter ID": "J100331",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 2 (D-02)",
+   "Subdivision": "Subdivision 12 (SD-12)",
+   "Sub Station": "Substation 12 (SS-12)",
+   "Feeder": "Feeder 12 (F-012)",
+   "DT": "Mansarovar DT 12 (DT-012)"
+  }
+ },
+ {
+  "meterId": "J100332",
+  "dtCode": "DT-013",
+  "hierarchy": {
+   "Meter ID": "J100332",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 3 (D-03)",
+   "Subdivision": "Subdivision 13 (SD-13)",
+   "Sub Station": "Substation 13 (SS-13)",
+   "Feeder": "Feeder 13 (F-013)",
+   "DT": "Vaishali DT 13 (DT-013)"
+  }
+ },
+ {
+  "meterId": "J100333",
+  "dtCode": "DT-014",
+  "hierarchy": {
+   "Meter ID": "J100333",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 4 (D-04)",
+   "Subdivision": "Subdivision 14 (SD-14)",
+   "Sub Station": "Substation 14 (SS-14)",
+   "Feeder": "Feeder 14 (F-014)",
+   "DT": "Raja Park DT 14 (DT-014)"
+  }
+ },
+ {
+  "meterId": "J100334",
+  "dtCode": "DT-015",
+  "hierarchy": {
+   "Meter ID": "J100334",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 5 (D-05)",
+   "Subdivision": "Subdivision 1 (SD-01)",
+   "Sub Station": "Substation 15 (SS-15)",
+   "Feeder": "Feeder 15 (F-015)",
+   "DT": "Bani Park DT 15 (DT-015)"
+  }
+ },
+ {
+  "meterId": "J100335",
+  "dtCode": "DT-016",
+  "hierarchy": {
+   "Meter ID": "J100335",
+   "Installation Status": "Faulty",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 6 (D-06)",
+   "Subdivision": "Subdivision 2 (SD-02)",
+   "Sub Station": "Substation 16 (SS-16)",
+   "Feeder": "Feeder 16 (F-016)",
+   "DT": "Jhotwara DT 16 (DT-016)"
+  }
+ },
+ {
+  "meterId": "J100336",
+  "dtCode": "DT-017",
+  "hierarchy": {
+   "Meter ID": "J100336",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 7 (D-07)",
+   "Subdivision": "Subdivision 3 (SD-03)",
+   "Sub Station": "Substation 17 (SS-17)",
+   "Feeder": "Feeder 17 (F-017)",
+   "DT": "Sanganer DT 17 (DT-017)"
+  }
+ },
+ {
+  "meterId": "J100337",
+  "dtCode": "DT-018",
+  "hierarchy": {
+   "Meter ID": "J100337",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 8 (D-08)",
+   "Subdivision": "Subdivision 4 (SD-04)",
+   "Sub Station": "Substation 18 (SS-18)",
+   "Feeder": "Feeder 18 (F-018)",
+   "DT": "Tonk Road DT 18 (DT-018)"
+  }
+ },
+ {
+  "meterId": "J100338",
+  "dtCode": "DT-019",
+  "hierarchy": {
+   "Meter ID": "J100338",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 9 (D-09)",
+   "Subdivision": "Subdivision 5 (SD-05)",
+   "Sub Station": "Substation 1 (SS-01)",
+   "Feeder": "Feeder 19 (F-019)",
+   "DT": "Sikar Road DT 19 (DT-019)"
+  }
+ },
+ {
+  "meterId": "J100339",
+  "dtCode": "DT-020",
+  "hierarchy": {
+   "Meter ID": "J100339",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 10 (D-10)",
+   "Subdivision": "Subdivision 6 (SD-06)",
+   "Sub Station": "Substation 2 (SS-02)",
+   "Feeder": "Feeder 20 (F-020)",
+   "DT": "Civil Lines DT 20 (DT-020)"
+  }
+ },
+ {
+  "meterId": "J100340",
+  "dtCode": "DT-021",
+  "hierarchy": {
+   "Meter ID": "J100340",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 1 (D-01)",
+   "Subdivision": "Subdivision 7 (SD-07)",
+   "Sub Station": "Substation 3 (SS-03)",
+   "Feeder": "Feeder 21 (F-021)",
+   "DT": "Malviya Nagar DT 21 (DT-021)"
+  }
+ },
+ {
+  "meterId": "J100341",
+  "dtCode": "DT-022",
+  "hierarchy": {
+   "Meter ID": "J100341",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 2 (D-02)",
+   "Subdivision": "Subdivision 8 (SD-08)",
+   "Sub Station": "Substation 4 (SS-04)",
+   "Feeder": "Feeder 22 (F-022)",
+   "DT": "Mansarovar DT 22 (DT-022)"
+  }
+ },
+ {
+  "meterId": "J100342",
+  "dtCode": "DT-023",
+  "hierarchy": {
+   "Meter ID": "J100342",
+   "Installation Status": "Faulty",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 3 (D-03)",
+   "Subdivision": "Subdivision 9 (SD-09)",
+   "Sub Station": "Substation 5 (SS-05)",
+   "Feeder": "Feeder 23 (F-023)",
+   "DT": "Vaishali DT 23 (DT-023)"
+  }
+ },
+ {
+  "meterId": "J100343",
+  "dtCode": "DT-024",
+  "hierarchy": {
+   "Meter ID": "J100343",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 4 (D-04)",
+   "Subdivision": "Subdivision 10 (SD-10)",
+   "Sub Station": "Substation 6 (SS-06)",
+   "Feeder": "Feeder 24 (F-024)",
+   "DT": "Raja Park DT 24 (DT-024)"
+  }
+ },
+ {
+  "meterId": "J100344",
+  "dtCode": "DT-025",
+  "hierarchy": {
+   "Meter ID": "J100344",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 5 (D-05)",
+   "Subdivision": "Subdivision 11 (SD-11)",
+   "Sub Station": "Substation 7 (SS-07)",
+   "Feeder": "Feeder 25 (F-025)",
+   "DT": "Bani Park DT 25 (DT-025)"
+  }
+ },
+ {
+  "meterId": "J100345",
+  "dtCode": "DT-026",
+  "hierarchy": {
+   "Meter ID": "J100345",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 6 (D-06)",
+   "Subdivision": "Subdivision 12 (SD-12)",
+   "Sub Station": "Substation 8 (SS-08)",
+   "Feeder": "Feeder 26 (F-026)",
+   "DT": "Jhotwara DT 26 (DT-026)"
+  }
+ },
+ {
+  "meterId": "J100346",
+  "dtCode": "DT-027",
+  "hierarchy": {
+   "Meter ID": "J100346",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 7 (D-07)",
+   "Subdivision": "Subdivision 13 (SD-13)",
+   "Sub Station": "Substation 9 (SS-09)",
+   "Feeder": "Feeder 27 (F-027)",
+   "DT": "Sanganer DT 27 (DT-027)"
+  }
+ },
+ {
+  "meterId": "J100347",
+  "dtCode": "DT-028",
+  "hierarchy": {
+   "Meter ID": "J100347",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 8 (D-08)",
+   "Subdivision": "Subdivision 14 (SD-14)",
+   "Sub Station": "Substation 10 (SS-10)",
+   "Feeder": "Feeder 28 (F-028)",
+   "DT": "Tonk Road DT 28 (DT-028)"
+  }
+ },
+ {
+  "meterId": "J100348",
+  "dtCode": "DT-029",
+  "hierarchy": {
+   "Meter ID": "J100348",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 9 (D-09)",
+   "Subdivision": "Subdivision 1 (SD-01)",
+   "Sub Station": "Substation 11 (SS-11)",
+   "Feeder": "Feeder 1 (F-001)",
+   "DT": "Sikar Road DT 29 (DT-029)"
+  }
+ },
+ {
+  "meterId": "J100349",
+  "dtCode": "DT-030",
+  "hierarchy": {
+   "Meter ID": "J100349",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 10 (D-10)",
+   "Subdivision": "Subdivision 2 (SD-02)",
+   "Sub Station": "Substation 12 (SS-12)",
+   "Feeder": "Feeder 2 (F-002)",
+   "DT": "Civil Lines DT 30 (DT-030)"
+  }
+ },
+ {
+  "meterId": "J100350",
+  "dtCode": "DT-031",
+  "hierarchy": {
+   "Meter ID": "J100350",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 1 (D-01)",
+   "Subdivision": "Subdivision 3 (SD-03)",
+   "Sub Station": "Substation 13 (SS-13)",
+   "Feeder": "Feeder 3 (F-003)",
+   "DT": "Malviya Nagar DT 31 (DT-031)"
+  }
+ },
+ {
+  "meterId": "J100351",
+  "dtCode": "DT-032",
+  "hierarchy": {
+   "Meter ID": "J100351",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 2 (D-02)",
+   "Subdivision": "Subdivision 4 (SD-04)",
+   "Sub Station": "Substation 14 (SS-14)",
+   "Feeder": "Feeder 4 (F-004)",
+   "DT": "Mansarovar DT 32 (DT-032)"
+  }
+ },
+ {
+  "meterId": "J100352",
+  "dtCode": "DT-033",
+  "hierarchy": {
+   "Meter ID": "J100352",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 3 (D-03)",
+   "Subdivision": "Subdivision 5 (SD-05)",
+   "Sub Station": "Substation 15 (SS-15)",
+   "Feeder": "Feeder 5 (F-005)",
+   "DT": "Vaishali DT 33 (DT-033)"
+  }
+ },
+ {
+  "meterId": "J100353",
+  "dtCode": "DT-034",
+  "hierarchy": {
+   "Meter ID": "J100353",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 4 (D-04)",
+   "Subdivision": "Subdivision 6 (SD-06)",
+   "Sub Station": "Substation 16 (SS-16)",
+   "Feeder": "Feeder 6 (F-006)",
+   "DT": "Raja Park DT 34 (DT-034)"
+  }
+ },
+ {
+  "meterId": "J100354",
+  "dtCode": "DT-035",
+  "hierarchy": {
+   "Meter ID": "J100354",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 5 (D-05)",
+   "Subdivision": "Subdivision 7 (SD-07)",
+   "Sub Station": "Substation 17 (SS-17)",
+   "Feeder": "Feeder 7 (F-007)",
+   "DT": "Bani Park DT 35 (DT-035)"
+  }
+ },
+ {
+  "meterId": "J100355",
+  "dtCode": "DT-036",
+  "hierarchy": {
+   "Meter ID": "J100355",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 6 (D-06)",
+   "Subdivision": "Subdivision 8 (SD-08)",
+   "Sub Station": "Substation 18 (SS-18)",
+   "Feeder": "Feeder 8 (F-008)",
+   "DT": "Jhotwara DT 36 (DT-036)"
+  }
+ },
+ {
+  "meterId": "J100356",
+  "dtCode": "DT-037",
+  "hierarchy": {
+   "Meter ID": "J100356",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 7 (D-07)",
+   "Subdivision": "Subdivision 9 (SD-09)",
+   "Sub Station": "Substation 1 (SS-01)",
+   "Feeder": "Feeder 9 (F-009)",
+   "DT": "Sanganer DT 37 (DT-037)"
+  }
+ },
+ {
+  "meterId": "J100357",
+  "dtCode": "DT-038",
+  "hierarchy": {
+   "Meter ID": "J100357",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 8 (D-08)",
+   "Subdivision": "Subdivision 10 (SD-10)",
+   "Sub Station": "Substation 2 (SS-02)",
+   "Feeder": "Feeder 10 (F-010)",
+   "DT": "Tonk Road DT 38 (DT-038)"
+  }
+ },
+ {
+  "meterId": "J100358",
+  "dtCode": "DT-039",
+  "hierarchy": {
+   "Meter ID": "J100358",
+   "Installation Status": "Faulty",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 9 (D-09)",
+   "Subdivision": "Subdivision 11 (SD-11)",
+   "Sub Station": "Substation 3 (SS-03)",
+   "Feeder": "Feeder 11 (F-011)",
+   "DT": "Sikar Road DT 39 (DT-039)"
+  }
+ },
+ {
+  "meterId": "J100359",
+  "dtCode": "DT-040",
+  "hierarchy": {
+   "Meter ID": "J100359",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 10 (D-10)",
+   "Subdivision": "Subdivision 12 (SD-12)",
+   "Sub Station": "Substation 4 (SS-04)",
+   "Feeder": "Feeder 12 (F-012)",
+   "DT": "Civil Lines DT 40 (DT-040)"
+  }
+ },
+ {
+  "meterId": "J100360",
+  "dtCode": "DT-001",
+  "hierarchy": {
+   "Meter ID": "J100360",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 1 (D-01)",
+   "Subdivision": "Subdivision 1 (SD-01)",
+   "Sub Station": "Substation 1 (SS-01)",
+   "Feeder": "Feeder 1 (F-001)",
+   "DT": "Malviya Nagar DT 1 (DT-001)"
+  }
+ },
+ {
+  "meterId": "J100361",
+  "dtCode": "DT-002",
+  "hierarchy": {
+   "Meter ID": "J100361",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 2 (D-02)",
+   "Subdivision": "Subdivision 2 (SD-02)",
+   "Sub Station": "Substation 2 (SS-02)",
+   "Feeder": "Feeder 2 (F-002)",
+   "DT": "Mansarovar DT 2 (DT-002)"
+  }
+ },
+ {
+  "meterId": "J100362",
+  "dtCode": "DT-003",
+  "hierarchy": {
+   "Meter ID": "J100362",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 3 (D-03)",
+   "Subdivision": "Subdivision 3 (SD-03)",
+   "Sub Station": "Substation 3 (SS-03)",
+   "Feeder": "Feeder 3 (F-003)",
+   "DT": "Vaishali DT 3 (DT-003)"
+  }
+ },
+ {
+  "meterId": "J100363",
+  "dtCode": "DT-004",
+  "hierarchy": {
+   "Meter ID": "J100363",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 4 (D-04)",
+   "Subdivision": "Subdivision 4 (SD-04)",
+   "Sub Station": "Substation 4 (SS-04)",
+   "Feeder": "Feeder 4 (F-004)",
+   "DT": "Raja Park DT 4 (DT-004)"
+  }
+ },
+ {
+  "meterId": "J100364",
+  "dtCode": "DT-005",
+  "hierarchy": {
+   "Meter ID": "J100364",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 5 (D-05)",
+   "Subdivision": "Subdivision 5 (SD-05)",
+   "Sub Station": "Substation 5 (SS-05)",
+   "Feeder": "Feeder 5 (F-005)",
+   "DT": "Bani Park DT 5 (DT-005)"
+  }
+ },
+ {
+  "meterId": "J100365",
+  "dtCode": "DT-006",
+  "hierarchy": {
+   "Meter ID": "J100365",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 6 (D-06)",
+   "Subdivision": "Subdivision 6 (SD-06)",
+   "Sub Station": "Substation 6 (SS-06)",
+   "Feeder": "Feeder 6 (F-006)",
+   "DT": "Jhotwara DT 6 (DT-006)"
+  }
+ },
+ {
+  "meterId": "J100366",
+  "dtCode": "DT-007",
+  "hierarchy": {
+   "Meter ID": "J100366",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 7 (D-07)",
+   "Subdivision": "Subdivision 7 (SD-07)",
+   "Sub Station": "Substation 7 (SS-07)",
+   "Feeder": "Feeder 7 (F-007)",
+   "DT": "Sanganer DT 7 (DT-007)"
+  }
+ },
+ {
+  "meterId": "J100367",
+  "dtCode": "DT-008",
+  "hierarchy": {
+   "Meter ID": "J100367",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 8 (D-08)",
+   "Subdivision": "Subdivision 8 (SD-08)",
+   "Sub Station": "Substation 8 (SS-08)",
+   "Feeder": "Feeder 8 (F-008)",
+   "DT": "Tonk Road DT 8 (DT-008)"
+  }
+ },
+ {
+  "meterId": "J100368",
+  "dtCode": "DT-009",
+  "hierarchy": {
+   "Meter ID": "J100368",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 9 (D-09)",
+   "Subdivision": "Subdivision 9 (SD-09)",
+   "Sub Station": "Substation 9 (SS-09)",
+   "Feeder": "Feeder 9 (F-009)",
+   "DT": "Sikar Road DT 9 (DT-009)"
+  }
+ },
+ {
+  "meterId": "J100369",
+  "dtCode": "DT-010",
+  "hierarchy": {
+   "Meter ID": "J100369",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 10 (D-10)",
+   "Subdivision": "Subdivision 10 (SD-10)",
+   "Sub Station": "Substation 10 (SS-10)",
+   "Feeder": "Feeder 10 (F-010)",
+   "DT": "Civil Lines DT 10 (DT-010)"
+  }
+ },
+ {
+  "meterId": "J100370",
+  "dtCode": "DT-011",
+  "hierarchy": {
+   "Meter ID": "J100370",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "",
+   "Division": "Division 1 (D-01)",
+   "Subdivision": "Subdivision 11 (SD-11)",
+   "Sub Station": "Substation 11 (SS-11)",
+   "Feeder": "Feeder 11 (F-011)",
+   "DT": "Malviya Nagar DT 11 (DT-011)"
+  }
+ },
+ {
+  "meterId": "J100371",
+  "dtCode": "DT-012",
+  "hierarchy": {
+   "Meter ID": "J100371",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "",
+   "Division": "Division 2 (D-02)",
+   "Subdivision": "Subdivision 12 (SD-12)",
+   "Sub Station": "Substation 12 (SS-12)",
+   "Feeder": "Feeder 12 (F-012)",
+   "DT": "Mansarovar DT 12 (DT-012)"
+  }
+ },
+ {
+  "meterId": "J100372",
+  "dtCode": "DT-013",
+  "hierarchy": {
+   "Meter ID": "J100372",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 3 (D-03)",
+   "Subdivision": "Subdivision 13 (SD-13)",
+   "Sub Station": "Substation 13 (SS-13)",
+   "Feeder": "",
+   "DT": "Vaishali DT 13 (DT-013)"
+  }
+ },
+ {
+  "meterId": "J100373",
+  "dtCode": "DT-014",
+  "hierarchy": {
+   "Meter ID": "J100373",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 4 (D-04)",
+   "Subdivision": "Subdivision 14 (SD-14)",
+   "Sub Station": "Substation 14 (SS-14)",
+   "Feeder": "Feeder 14 (F-014)",
+   "DT": "Raja Park DT 14 (DT-014)"
+  }
+ },
+ {
+  "meterId": "J100374",
+  "dtCode": "DT-015",
+  "hierarchy": {
+   "Meter ID": "J100374",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 5 (D-05)",
+   "Subdivision": "Subdivision 1 (SD-01)",
+   "Sub Station": "Substation 15 (SS-15)",
+   "Feeder": "Feeder 15 (F-015)",
+   "DT": "Bani Park DT 15 (DT-015)"
+  }
+ },
+ {
+  "meterId": "J100375",
+  "dtCode": "DT-016",
+  "hierarchy": {
+   "Meter ID": "J100375",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 6 (D-06)",
+   "Subdivision": "Subdivision 2 (SD-02)",
+   "Sub Station": "Substation 16 (SS-16)",
+   "Feeder": "Feeder 16 (F-016)",
+   "DT": "Jhotwara DT 16 (DT-016)"
+  }
+ },
+ {
+  "meterId": "J100376",
+  "dtCode": "DT-017",
+  "hierarchy": {
+   "Meter ID": "J100376",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 7 (D-07)",
+   "Subdivision": "Subdivision 3 (SD-03)",
+   "Sub Station": "Substation 17 (SS-17)",
+   "Feeder": "Feeder 17 (F-017)",
+   "DT": "Sanganer DT 17 (DT-017)"
+  }
+ },
+ {
+  "meterId": "J100377",
+  "dtCode": "DT-018",
+  "hierarchy": {
+   "Meter ID": "J100377",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 8 (D-08)",
+   "Subdivision": "Subdivision 4 (SD-04)",
+   "Sub Station": "Substation 18 (SS-18)",
+   "Feeder": "Feeder 18 (F-018)",
+   "DT": "Tonk Road DT 18 (DT-018)"
+  }
+ },
+ {
+  "meterId": "J100378",
+  "dtCode": "DT-019",
+  "hierarchy": {
+   "Meter ID": "J100378",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 9 (D-09)",
+   "Subdivision": "Subdivision 5 (SD-05)",
+   "Sub Station": "Substation 1 (SS-01)",
+   "Feeder": "Feeder 19 (F-019)",
+   "DT": "Sikar Road DT 19 (DT-019)"
+  }
+ },
+ {
+  "meterId": "J100379",
+  "dtCode": "DT-020",
+  "hierarchy": {
+   "Meter ID": "J100379",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 10 (D-10)",
+   "Subdivision": "Subdivision 6 (SD-06)",
+   "Sub Station": "Substation 2 (SS-02)",
+   "Feeder": "Feeder 20 (F-020)",
+   "DT": "Civil Lines DT 20 (DT-020)"
+  }
+ },
+ {
+  "meterId": "J100380",
+  "dtCode": "DT-021",
+  "hierarchy": {
+   "Meter ID": "J100380",
+   "Installation Status": "Faulty",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 1 (D-01)",
+   "Subdivision": "Subdivision 7 (SD-07)",
+   "Sub Station": "Substation 3 (SS-03)",
+   "Feeder": "Feeder 21 (F-021)",
+   "DT": "Malviya Nagar DT 21 (DT-021)"
+  }
+ },
+ {
+  "meterId": "J100381",
+  "dtCode": "DT-022",
+  "hierarchy": {
+   "Meter ID": "J100381",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 2 (D-02)",
+   "Subdivision": "Subdivision 8 (SD-08)",
+   "Sub Station": "Substation 4 (SS-04)",
+   "Feeder": "Feeder 22 (F-022)",
+   "DT": "Mansarovar DT 22 (DT-022)"
+  }
+ },
+ {
+  "meterId": "J100382",
+  "dtCode": "DT-023",
+  "hierarchy": {
+   "Meter ID": "J100382",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 3 (D-03)",
+   "Subdivision": "Subdivision 9 (SD-09)",
+   "Sub Station": "Substation 5 (SS-05)",
+   "Feeder": "Feeder 23 (F-023)",
+   "DT": "Vaishali DT 23 (DT-023)"
+  }
+ },
+ {
+  "meterId": "J100383",
+  "dtCode": "DT-024",
+  "hierarchy": {
+   "Meter ID": "J100383",
+   "Installation Status": "Faulty",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 4 (D-04)",
+   "Subdivision": "Subdivision 10 (SD-10)",
+   "Sub Station": "Substation 6 (SS-06)",
+   "Feeder": "Feeder 24 (F-024)",
+   "DT": "Raja Park DT 24 (DT-024)"
+  }
+ },
+ {
+  "meterId": "J100384",
+  "dtCode": "DT-025",
+  "hierarchy": {
+   "Meter ID": "J100384",
+   "Installation Status": "Decommissioned",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 5 (D-05)",
+   "Subdivision": "Subdivision 11 (SD-11)",
+   "Sub Station": "Substation 7 (SS-07)",
+   "Feeder": "Feeder 25 (F-025)",
+   "DT": "Bani Park DT 25 (DT-025)"
+  }
+ },
+ {
+  "meterId": "J100385",
+  "dtCode": "DT-026",
+  "hierarchy": {
+   "Meter ID": "J100385",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 6 (D-06)",
+   "Subdivision": "Subdivision 12 (SD-12)",
+   "Sub Station": "Substation 8 (SS-08)",
+   "Feeder": "Feeder 26 (F-026)",
+   "DT": "Jhotwara DT 26 (DT-026)"
+  }
+ },
+ {
+  "meterId": "J100386",
+  "dtCode": "DT-027",
+  "hierarchy": {
+   "Meter ID": "J100386",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 7 (D-07)",
+   "Subdivision": "Subdivision 13 (SD-13)",
+   "Sub Station": "Substation 9 (SS-09)",
+   "Feeder": "Feeder 27 (F-027)",
+   "DT": "Sanganer DT 27 (DT-027)"
+  }
+ },
+ {
+  "meterId": "J100387",
+  "dtCode": "DT-028",
+  "hierarchy": {
+   "Meter ID": "J100387",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 8 (D-08)",
+   "Subdivision": "Subdivision 14 (SD-14)",
+   "Sub Station": "Substation 10 (SS-10)",
+   "Feeder": "Feeder 28 (F-028)",
+   "DT": "Tonk Road DT 28 (DT-028)"
+  }
+ },
+ {
+  "meterId": "J100388",
+  "dtCode": "DT-029",
+  "hierarchy": {
+   "Meter ID": "J100388",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 9 (D-09)",
+   "Subdivision": "Subdivision 1 (SD-01)",
+   "Sub Station": "Substation 11 (SS-11)",
+   "Feeder": "Feeder 1 (F-001)",
+   "DT": "Sikar Road DT 29 (DT-029)"
+  }
+ },
+ {
+  "meterId": "J100389",
+  "dtCode": "DT-030",
+  "hierarchy": {
+   "Meter ID": "J100389",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 10 (D-10)",
+   "Subdivision": "Subdivision 2 (SD-02)",
+   "Sub Station": "Substation 12 (SS-12)",
+   "Feeder": "Feeder 2 (F-002)",
+   "DT": "Civil Lines DT 30 (DT-030)"
+  }
+ },
+ {
+  "meterId": "J100390",
+  "dtCode": "DT-031",
+  "hierarchy": {
+   "Meter ID": "J100390",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 1 (D-01)",
+   "Subdivision": "Subdivision 3 (SD-03)",
+   "Sub Station": "Substation 13 (SS-13)",
+   "Feeder": "Feeder 3 (F-003)",
+   "DT": "Malviya Nagar DT 31 (DT-031)"
+  }
+ },
+ {
+  "meterId": "J100391",
+  "dtCode": "DT-032",
+  "hierarchy": {
+   "Meter ID": "J100391",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 2 (D-02)",
+   "Subdivision": "Subdivision 4 (SD-04)",
+   "Sub Station": "Substation 14 (SS-14)",
+   "Feeder": "Feeder 4 (F-004)",
+   "DT": "Mansarovar DT 32 (DT-032)"
+  }
+ },
+ {
+  "meterId": "J100392",
+  "dtCode": "DT-033",
+  "hierarchy": {
+   "Meter ID": "J100392",
+   "Installation Status": "Faulty",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 3 (D-03)",
+   "Subdivision": "Subdivision 5 (SD-05)",
+   "Sub Station": "Substation 15 (SS-15)",
+   "Feeder": "Feeder 5 (F-005)",
+   "DT": "Vaishali DT 33 (DT-033)"
+  }
+ },
+ {
+  "meterId": "J100393",
+  "dtCode": "DT-034",
+  "hierarchy": {
+   "Meter ID": "J100393",
+   "Installation Status": "Faulty",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 4 (D-04)",
+   "Subdivision": "Subdivision 6 (SD-06)",
+   "Sub Station": "Substation 16 (SS-16)",
+   "Feeder": "Feeder 6 (F-006)",
+   "DT": "Raja Park DT 34 (DT-034)"
+  }
+ },
+ {
+  "meterId": "J100394",
+  "dtCode": "DT-035",
+  "hierarchy": {
+   "Meter ID": "J100394",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 5 (C-05)",
+   "Division": "Division 5 (D-05)",
+   "Subdivision": "Subdivision 7 (SD-07)",
+   "Sub Station": "Substation 17 (SS-17)",
+   "Feeder": "Feeder 7 (F-007)",
+   "DT": "Bani Park DT 35 (DT-035)"
+  }
+ },
+ {
+  "meterId": "J100395",
+  "dtCode": "DT-036",
+  "hierarchy": {
+   "Meter ID": "J100395",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 6 (C-06)",
+   "Division": "Division 6 (D-06)",
+   "Subdivision": "Subdivision 8 (SD-08)",
+   "Sub Station": "Substation 18 (SS-18)",
+   "Feeder": "Feeder 8 (F-008)",
+   "DT": "Jhotwara DT 36 (DT-036)"
+  }
+ },
+ {
+  "meterId": "J100396",
+  "dtCode": "DT-037",
+  "hierarchy": {
+   "Meter ID": "J100396",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 7 (D-07)",
+   "Subdivision": "Subdivision 9 (SD-09)",
+   "Sub Station": "Substation 1 (SS-01)",
+   "Feeder": "Feeder 9 (F-009)",
+   "DT": "Sanganer DT 37 (DT-037)"
+  }
+ },
+ {
+  "meterId": "J100397",
+  "dtCode": "DT-038",
+  "hierarchy": {
+   "Meter ID": "J100397",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 2 (Z-02)",
+   "Circle": "Circle 2 (C-02)",
+   "Division": "Division 8 (D-08)",
+   "Subdivision": "Subdivision 10 (SD-10)",
+   "Sub Station": "Substation 2 (SS-02)",
+   "Feeder": "Feeder 10 (F-010)",
+   "DT": "Tonk Road DT 38 (DT-038)"
+  }
+ },
+ {
+  "meterId": "J100398",
+  "dtCode": "DT-039",
+  "hierarchy": {
+   "Meter ID": "J100398",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 3 (Z-03)",
+   "Circle": "Circle 3 (C-03)",
+   "Division": "Division 9 (D-09)",
+   "Subdivision": "Subdivision 11 (SD-11)",
+   "Sub Station": "Substation 3 (SS-03)",
+   "Feeder": "Feeder 11 (F-011)",
+   "DT": "Sikar Road DT 39 (DT-039)"
+  }
+ },
+ {
+  "meterId": "J100399",
+  "dtCode": "DT-040",
+  "hierarchy": {
+   "Meter ID": "J100399",
+   "Installation Status": "Installed",
+   "Installation Type": "Whole Current",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 4 (C-04)",
+   "Division": "Division 10 (D-10)",
+   "Subdivision": "Subdivision 12 (SD-12)",
+   "Sub Station": "Substation 4 (SS-04)",
+   "Feeder": "Feeder 12 (F-012)",
+   "DT": "Civil Lines DT 40 (DT-040)"
+  }
+ },
+ {
+  "meterId": "J100400",
+  "dtCode": "DT-007",
+  "hierarchy": {
+   "Meter ID": "J100400",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 7 (D-07)",
+   "Subdivision": "Subdivision 7 (SD-07)",
+   "Sub Station": "Substation 7 (SS-07)",
+   "Feeder": "Feeder 7 (F-007)",
+   "DT": "Old Malviya Nagar Xfmr (DT-007)"
+  }
+ },
+ {
+  "meterId": "J100401",
+  "dtCode": "DT-007",
+  "hierarchy": {
+   "Meter ID": "J100401",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 7 (D-07)",
+   "Subdivision": "Subdivision 7 (SD-07)",
+   "Sub Station": "Substation 7 (SS-07)",
+   "Feeder": "Feeder 7 (F-007)",
+   "DT": "Old Malviya Nagar Xfmr (DT-007)"
+  }
+ },
+ {
+  "meterId": "J100402",
+  "dtCode": "DT-007",
+  "hierarchy": {
+   "Meter ID": "J100402",
+   "Installation Status": "Installed",
+   "Installation Type": "CT Operated",
+   "Zone": "Jaipur Zone 1 (Z-01)",
+   "Circle": "Circle 1 (C-01)",
+   "Division": "Division 7 (D-07)",
+   "Subdivision": "Subdivision 7 (SD-07)",
+   "Sub Station": "Substation 7 (SS-07)",
+   "Feeder": "Feeder 7 (F-007)",
+   "DT": "Old Malviya Nagar Xfmr (DT-007)"
+  }
+ }
+]

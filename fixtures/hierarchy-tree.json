@@ -1,0 +1,1960 @@
+{
+ "tree": [
+  {
+   "level": "zone",
+   "code": "Z-01",
+   "name": "Jaipur Zone 1",
+   "path": "Z-01",
+   "meterCount": 143,
+   "children": [
+    {
+     "level": "circle",
+     "code": "C-01",
+     "name": "Circle 1",
+     "path": "Z-01/C-01",
+     "meterCount": 73,
+     "children": [
+      {
+       "level": "division",
+       "code": "D-01",
+       "name": "Division 1",
+       "path": "Z-01/C-01/D-01",
+       "meterCount": 20,
+       "children": [
+        {
+         "level": "subdivision",
+         "code": "SD-01",
+         "name": "Subdivision 1",
+         "path": "Z-01/C-01/D-01/SD-01",
+         "meterCount": 10,
+         "children": [
+          {
+           "level": "substation",
+           "code": "SS-01",
+           "name": "Substation 1",
+           "path": "Z-01/C-01/D-01/SD-01/SS-01",
+           "meterCount": 10,
+           "children": [
+            {
+             "level": "feeder",
+             "code": "F-001",
+             "name": "Feeder 1",
+             "path": "Z-01/C-01/D-01/SD-01/SS-01/F-001",
+             "meterCount": 10,
+             "children": [
+              {
+               "level": "dt",
+               "code": "DT-001",
+               "name": "Malviya Nagar DT 1",
+               "path": "Z-01/C-01/D-01/SD-01/SS-01/F-001/DT-001",
+               "meterCount": 10,
+               "children": []
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "level": "subdivision",
+         "code": "SD-03",
+         "name": "Subdivision 3",
+         "path": "Z-01/C-01/D-01/SD-03",
+         "meterCount": 10,
+         "children": [
+          {
+           "level": "substation",
+           "code": "SS-13",
+           "name": "Substation 13",
+           "path": "Z-01/C-01/D-01/SD-03/SS-13",
+           "meterCount": 10,
+           "children": [
+            {
+             "level": "feeder",
+             "code": "F-003",
+             "name": "Feeder 3",
+             "path": "Z-01/C-01/D-01/SD-03/SS-13/F-003",
+             "meterCount": 10,
+             "children": [
+              {
+               "level": "dt",
+               "code": "DT-031",
+               "name": "Malviya Nagar DT 31",
+               "path": "Z-01/C-01/D-01/SD-03/SS-13/F-003/DT-031",
+               "meterCount": 10,
+               "children": []
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "level": "division",
+       "code": "D-07",
+       "name": "Division 7",
+       "path": "Z-01/C-01/D-07",
+       "meterCount": 23,
+       "children": [
+        {
+         "level": "subdivision",
+         "code": "SD-07",
+         "name": "Subdivision 7",
+         "path": "Z-01/C-01/D-07/SD-07",
+         "meterCount": 13,
+         "children": [
+          {
+           "level": "substation",
+           "code": "SS-07",
+           "name": "Substation 7",
+           "path": "Z-01/C-01/D-07/SD-07/SS-07",
+           "meterCount": 13,
+           "children": [
+            {
+             "level": "feeder",
+             "code": "F-007",
+             "name": "Feeder 7",
+             "path": "Z-01/C-01/D-07/SD-07/SS-07/F-007",
+             "meterCount": 13,
+             "children": [
+              {
+               "level": "dt",
+               "code": "DT-007",
+               "name": "Sanganer DT 7",
+               "path": "Z-01/C-01/D-07/SD-07/SS-07/F-007/DT-007",
+               "meterCount": 13,
+               "children": []
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "level": "subdivision",
+         "code": "SD-09",
+         "name": "Subdivision 9",
+         "path": "Z-01/C-01/D-07/SD-09",
+         "meterCount": 10,
+         "children": [
+          {
+           "level": "substation",
+           "code": "SS-01",
+           "name": "Substation 1",
+           "path": "Z-01/C-01/D-07/SD-09/SS-01",
+           "meterCount": 10,
+           "children": [
+            {
+             "level": "feeder",
+             "code": "F-009",
+             "name": "Feeder 9",
+             "path": "Z-01/C-01/D-07/SD-09/SS-01/F-009",
+             "meterCount": 10,
+             "children": [
+              {
+               "level": "dt",
+               "code": "DT-037",
+               "name": "Sanganer DT 37",
+               "path": "Z-01/C-01/D-07/SD-09/SS-01/F-009/DT-037",
+               "meterCount": 10,
+               "children": []
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "level": "division",
+       "code": "D-03",
+       "name": "Division 3",
+       "path": "Z-01/C-01/D-03",
+       "meterCount": 10,
+       "children": [
+        {
+         "level": "subdivision",
+         "code": "SD-13",
+         "name": "Subdivision 13",
+         "path": "Z-01/C-01/D-03/SD-13",
+         "meterCount": 10,
+         "children": [
+          {
+           "level": "substation",
+           "code": "SS-13",
+           "name": "Substation 13",
+           "path": "Z-01/C-01/D-03/SD-13/SS-13",
+           "meterCount": 10,
+           "children": [
+            {
+             "level": "feeder",
+             "code": "F-013",
+             "name": "Feeder 13",
+             "path": "Z-01/C-01/D-03/SD-13/SS-13/F-013",
+             "meterCount": 10,
+             "children": [
+              {
+               "level": "dt",
+               "code": "DT-013",
+               "name": "Vaishali DT 13",
+               "path": "Z-01/C-01/D-03/SD-13/SS-13/F-013/DT-013",
+               "meterCount": 10,
+               "children": []
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "level": "division",
+       "code": "D-09",
+       "name": "Division 9",
+       "path": "Z-01/C-01/D-09",
+       "meterCount": 10,
+       "children": [
+        {
+         "level": "subdivision",
+         "code": "SD-05",
+         "name": "Subdivision 5",
+         "path": "Z-01/C-01/D-09/SD-05",
+         "meterCount": 10,
+         "children": [
+          {
+           "level": "substation",
+           "code": "SS-01",
+           "name": "Substation 1",
+           "path": "Z-01/C-01/D-09/SD-05/SS-01",
+           "meterCount": 10,
+           "children": [
+            {
+             "level": "feeder",
+             "code": "F-019",
+             "name": "Feeder 19",
+             "path": "Z-01/C-01/D-09/SD-05/SS-01/F-019",
+             "meterCount": 10,
+             "children": [
+              {
+               "level": "dt",
+               "code": "DT-019",
+               "name": "Sikar Road DT 19",
+               "path": "Z-01/C-01/D-09/SD-05/SS-01/F-019/DT-019",
+               "meterCount": 10,
+               "children": []
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "level": "division",
+       "code": "D-05",
+       "name": "Division 5",
+       "path": "Z-01/C-01/D-05",
+       "meterCount": 10,
+       "children": [
+        {
+         "level": "subdivision",
+         "code": "SD-11",
+         "name": "Subdivision 11",
+         "path": "Z-01/C-01/D-05/SD-11",
+         "meterCount": 10,
+         "children": [
+          {
+           "level": "substation",
+           "code": "SS-07",
+           "name": "Substation 7",
+           "path": "Z-01/C-01/D-05/SD-11/SS-07",
+           "meterCount": 10,
+           "children": [
+            {
+             "level": "feeder",
+             "code": "F-025",
+             "name": "Feeder 25",
+             "path": "Z-01/C-01/D-05/SD-11/SS-07/F-025",
+             "meterCount": 10,
+             "children": [
+              {
+               "level": "dt",
+               "code": "DT-025",
+               "name": "Bani Park DT 25",
+               "path": "Z-01/C-01/D-05/SD-11/SS-07/F-025/DT-025",
+               "meterCount": 10,
+               "children": []
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "level": "circle",
+     "code": "C-04",
+     "name": "Circle 4",
+     "path": "Z-01/C-04",
+     "meterCount": 70,
+     "children": [
+      {
+       "level": "division",
+       "code": "D-04",
+       "name": "Division 4",
+       "path": "Z-01/C-04/D-04",
+       "meterCount": 20,
+       "children": [
+        {
+         "level": "subdivision",
+         "code": "SD-04",
+         "name": "Subdivision 4",
+         "path": "Z-01/C-04/D-04/SD-04",
+         "meterCount": 10,
+         "children": [
+          {
+           "level": "substation",
+           "code": "SS-04",
+           "name": "Substation 4",
+           "path": "Z-01/C-04/D-04/SD-04/SS-04",
+           "meterCount": 10,
+           "children": [
+            {
+             "level": "feeder",
+             "code": "F-004",
+             "name": "Feeder 4",
+             "path": "Z-01/C-04/D-04/SD-04/SS-04/F-004",
+             "meterCount": 10,
+             "children": [
+              {
+               "level": "dt",
+               "code": "DT-004",
+               "name": "Raja Park DT 4",
+               "path": "Z-01/C-04/D-04/SD-04/SS-04/F-004/DT-004",
+               "meterCount": 10,
+               "children": []
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "level": "subdivision",
+         "code": "SD-06",
+         "name": "Subdivision 6",
+         "path": "Z-01/C-04/D-04/SD-06",
+         "meterCount": 10,
+         "children": [
+          {
+           "level": "substation",
+           "code": "SS-16",
+           "name": "Substation 16",
+           "path": "Z-01/C-04/D-04/SD-06/SS-16",
+           "meterCount": 10,
+           "children": [
+            {
+             "level": "feeder",
+             "code": "F-006",
+             "name": "Feeder 6",
+             "path": "Z-01/C-04/D-04/SD-06/SS-16/F-006",
+             "meterCount": 10,
+             "children": [
+              {
+               "level": "dt",
+               "code": "DT-034",
+               "name": "Raja Park DT 34",
+               "path": "Z-01/C-04/D-04/SD-06/SS-16/F-006/DT-034",
+               "meterCount": 10,
+               "children": []
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "level": "division",
+       "code": "D-10",
+       "name": "Division 10",
+       "path": "Z-01/C-04/D-10",
+       "meterCount": 20,
+       "children": [
+        {
+         "level": "subdivision",
+         "code": "SD-10",
+         "name": "Subdivision 10",
+         "path": "Z-01/C-04/D-10/SD-10",
+         "meterCount": 10,
+         "children": [
+          {
+           "level": "substation",
+           "code": "SS-10",
+           "name": "Substation 10",
+           "path": "Z-01/C-04/D-10/SD-10/SS-10",
+           "meterCount": 10,
+           "children": [
+            {
+             "level": "feeder",
+             "code": "F-010",
+             "name": "Feeder 10",
+             "path": "Z-01/C-04/D-10/SD-10/SS-10/F-010",
+             "meterCount": 10,
+             "children": [
+              {
+               "level": "dt",
+               "code": "DT-010",
+               "name": "Civil Lines DT 10",
+               "path": "Z-01/C-04/D-10/SD-10/SS-10/F-010/DT-010",
+               "meterCount": 10,
+               "children": []
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "level": "subdivision",
+         "code": "SD-12",
+         "name": "Subdivision 12",
+         "path": "Z-01/C-04/D-10/SD-12",
+         "meterCount": 10,
+         "children": [
+          {
+           "level": "substation",
+           "code": "SS-04",
+           "name": "Substation 4",
+           "path": "Z-01/C-04/D-10/SD-12/SS-04",
+           "meterCount": 10,
+           "children": [
+            {
+             "level": "feeder",
+             "code": "F-012",
+             "name": "Feeder 12",
+             "path": "Z-01/C-04/D-10/SD-12/SS-04/F-012",
+             "meterCount": 10,
+             "children": [
+              {
+               "level": "dt",
+               "code": "DT-040",
+               "name": "Civil Lines DT 40",
+               "path": "Z-01/C-04/D-10/SD-12/SS-04/F-012/DT-040",
+               "meterCount": 10,
+               "children": []
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "level": "division",
+       "code": "D-06",
+       "name": "Division 6",
+       "path": "Z-01/C-04/D-06",
+       "meterCount": 10,
+       "children": [
+        {
+         "level": "subdivision",
+         "code": "SD-02",
+         "name": "Subdivision 2",
+         "path": "Z-01/C-04/D-06/SD-02",
+         "meterCount": 10,
+         "children": [
+          {
+           "level": "substation",
+           "code": "SS-16",
+           "name": "Substation 16",
+           "path": "Z-01/C-04/D-06/SD-02/SS-16",
+           "meterCount": 10,
+           "children": [
+            {
+             "level": "feeder",
+             "code": "F-016",
+             "name": "Feeder 16",
+             "path": "Z-01/C-04/D-06/SD-02/SS-16/F-016",
+             "meterCount": 10,
+             "children": [
+              {
+               "level": "dt",
+               "code": "DT-016",
+               "name": "Jhotwara DT 16",
+               "path": "Z-01/C-04/D-06/SD-02/SS-16/F-016/DT-016",
+               "meterCount": 10,
+               "children": []
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "level": "division",
+       "code": "D-02",
+       "name": "Division 2",
+       "path": "Z-01/C-04/D-02",
+       "meterCount": 10,
+       "children": [
+        {
+         "level": "subdivision",
+         "code": "SD-08",
+         "name": "Subdivision 8",
+         "path": "Z-01/C-04/D-02/SD-08",
+         "meterCount": 10,
+         "children": [
+          {
+           "level": "substation",
+           "code": "SS-04",
+           "name": "Substation 4",
+           "path": "Z-01/C-04/D-02/SD-08/SS-04",
+           "meterCount": 10,
+           "children": [
+            {
+             "level": "feeder",
+             "code": "F-022",
+             "name": "Feeder 22",
+             "path": "Z-01/C-04/D-02/SD-08/SS-04/F-022",
+             "meterCount": 10,
+             "children": [
+              {
+               "level": "dt",
+               "code": "DT-022",
+               "name": "Mansarovar DT 22",
+               "path": "Z-01/C-04/D-02/SD-08/SS-04/F-022/DT-022",
+               "meterCount": 10,
+               "children": []
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "level": "division",
+       "code": "D-08",
+       "name": "Division 8",
+       "path": "Z-01/C-04/D-08",
+       "meterCount": 10,
+       "children": [
+        {
+         "level": "subdivision",
+         "code": "SD-14",
+         "name": "Subdivision 14",
+         "path": "Z-01/C-04/D-08/SD-14",
+         "meterCount": 10,
+         "children": [
+          {
+           "level": "substation",
+           "code": "SS-10",
+           "name": "Substation 10",
+           "path": "Z-01/C-04/D-08/SD-14/SS-10",
+           "meterCount": 10,
+           "children": [
+            {
+             "level": "feeder",
+             "code": "F-028",
+             "name": "Feeder 28",
+             "path": "Z-01/C-04/D-08/SD-14/SS-10/F-028",
+             "meterCount": 10,
+             "children": [
+              {
+               "level": "dt",
+               "code": "DT-028",
+               "name": "Tonk Road DT 28",
+               "path": "Z-01/C-04/D-08/SD-14/SS-10/F-028/DT-028",
+               "meterCount": 10,
+               "children": []
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "level": "zone",
+   "code": "Z-02",
+   "name": "Jaipur Zone 2",
+   "path": "Z-02",
+   "meterCount": 130,
+   "children": [
+    {
+     "level": "circle",
+     "code": "C-02",
+     "name": "Circle 2",
+     "path": "Z-02/C-02",
+     "meterCount": 70,
+     "children": [
+      {
+       "level": "division",
+       "code": "D-02",
+       "name": "Division 2",
+       "path": "Z-02/C-02/D-02",
+       "meterCount": 20,
+       "children": [
+        {
+         "level": "subdivision",
+         "code": "SD-02",
+         "name": "Subdivision 2",
+         "path": "Z-02/C-02/D-02/SD-02",
+         "meterCount": 10,
+         "children": [
+          {
+           "level": "substation",
+           "code": "SS-02",
+           "name": "Substation 2",
+           "path": "Z-02/C-02/D-02/SD-02/SS-02",
+           "meterCount": 10,
+           "children": [
+            {
+             "level": "feeder",
+             "code": "F-002",
+             "name": "Feeder 2",
+             "path": "Z-02/C-02/D-02/SD-02/SS-02/F-002",
+             "meterCount": 10,
+             "children": [
+              {
+               "level": "dt",
+               "code": "DT-002",
+               "name": "Mansarovar DT 2",
+               "path": "Z-02/C-02/D-02/SD-02/SS-02/F-002/DT-002",
+               "meterCount": 10,
+               "children": []
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "level": "subdivision",
+         "code": "SD-04",
+         "name": "Subdivision 4",
+         "path": "Z-02/C-02/D-02/SD-04",
+         "meterCount": 10,
+         "children": [
+          {
+           "level": "substation",
+           "code": "SS-14",
+           "name": "Substation 14",
+           "path": "Z-02/C-02/D-02/SD-04/SS-14",
+           "meterCount": 10,
+           "children": [
+            {
+             "level": "feeder",
+             "code": "F-004",
+             "name": "Feeder 4",
+             "path": "Z-02/C-02/D-02/SD-04/SS-14/F-004",
+             "meterCount": 10,
+             "children": [
+              {
+               "level": "dt",
+               "code": "DT-032",
+               "name": "Mansarovar DT 32",
+               "path": "Z-02/C-02/D-02/SD-04/SS-14/F-004/DT-032",
+               "meterCount": 10,
+               "children": []
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "level": "division",
+       "code": "D-08",
+       "name": "Division 8",
+       "path": "Z-02/C-02/D-08",
+       "meterCount": 20,
+       "children": [
+        {
+         "level": "subdivision",
+         "code": "SD-08",
+         "name": "Subdivision 8",
+         "path": "Z-02/C-02/D-08/SD-08",
+         "meterCount": 10,
+         "children": [
+          {
+           "level": "substation",
+           "code": "SS-08",
+           "name": "Substation 8",
+           "path": "Z-02/C-02/D-08/SD-08/SS-08",
+           "meterCount": 10,
+           "children": [
+            {
+             "level": "feeder",
+             "code": "F-008",
+             "name": "Feeder 8",
+             "path": "Z-02/C-02/D-08/SD-08/SS-08/F-008",
+             "meterCount": 10,
+             "children": [
+              {
+               "level": "dt",
+               "code": "DT-008",
+               "name": "Tonk Road DT 8",
+               "path": "Z-02/C-02/D-08/SD-08/SS-08/F-008/DT-008",
+               "meterCount": 10,
+               "children": []
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "level": "subdivision",
+         "code": "SD-10",
+         "name": "Subdivision 10",
+         "path": "Z-02/C-02/D-08/SD-10",
+         "meterCount": 10,
+         "children": [
+          {
+           "level": "substation",
+           "code": "SS-02",
+           "name": "Substation 2",
+           "path": "Z-02/C-02/D-08/SD-10/SS-02",
+           "meterCount": 10,
+           "children": [
+            {
+             "level": "feeder",
+             "code": "F-010",
+             "name": "Feeder 10",
+             "path": "Z-02/C-02/D-08/SD-10/SS-02/F-010",
+             "meterCount": 10,
+             "children": [
+              {
+               "level": "dt",
+               "code": "DT-038",
+               "name": "Tonk Road DT 38",
+               "path": "Z-02/C-02/D-08/SD-10/SS-02/F-010/DT-038",
+               "meterCount": 10,
+               "children": []
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "level": "division",
+       "code": "D-04",
+       "name": "Division 4",
+       "path": "Z-02/C-02/D-04",
+       "meterCount": 10,
+       "children": [
+        {
+         "level": "subdivision",
+         "code": "SD-14",
+         "name": "Subdivision 14",
+         "path": "Z-02/C-02/D-04/SD-14",
+         "meterCount": 10,
+         "children": [
+          {
+           "level": "substation",
+           "code": "SS-14",
+           "name": "Substation 14",
+           "path": "Z-02/C-02/D-04/SD-14/SS-14",
+           "meterCount": 10,
+           "children": [
+            {
+             "level": "feeder",
+             "code": "F-014",
+             "name": "Feeder 14",
+             "path": "Z-02/C-02/D-04/SD-14/SS-14/F-014",
+             "meterCount": 10,
+             "children": [
+              {
+               "level": "dt",
+               "code": "DT-014",
+               "name": "Raja Park DT 14",
+               "path": "Z-02/C-02/D-04/SD-14/SS-14/F-014/DT-014",
+               "meterCount": 10,
+               "children": []
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "level": "division",
+       "code": "D-10",
+       "name": "Division 10",
+       "path": "Z-02/C-02/D-10",
+       "meterCount": 10,
+       "children": [
+        {
+         "level": "subdivision",
+         "code": "SD-06",
+         "name": "Subdivision 6",
+         "path": "Z-02/C-02/D-10/SD-06",
+         "meterCount": 10,
+         "children": [
+          {
+           "level": "substation",
+           "code": "SS-02",
+           "name": "Substation 2",
+           "path": "Z-02/C-02/D-10/SD-06/SS-02",
+           "meterCount": 10,
+           "children": [
+            {
+             "level": "feeder",
+             "code": "F-020",
+             "name": "Feeder 20",
+             "path": "Z-02/C-02/D-10/SD-06/SS-02/F-020",
+             "meterCount": 10,
+             "children": [
+              {
+               "level": "dt",
+               "code": "DT-020",
+               "name": "Civil Lines DT 20",
+               "path": "Z-02/C-02/D-10/SD-06/SS-02/F-020/DT-020",
+               "meterCount": 10,
+               "children": []
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "level": "division",
+       "code": "D-06",
+       "name": "Division 6",
+       "path": "Z-02/C-02/D-06",
+       "meterCount": 10,
+       "children": [
+        {
+         "level": "subdivision",
+         "code": "SD-12",
+         "name": "Subdivision 12",
+         "path": "Z-02/C-02/D-06/SD-12",
+         "meterCount": 10,
+         "children": [
+          {
+           "level": "substation",
+           "code": "SS-08",
+           "name": "Substation 8",
+           "path": "Z-02/C-02/D-06/SD-12/SS-08",
+           "meterCount": 10,
+           "children": [
+            {
+             "level": "feeder",
+             "code": "F-026",
+             "name": "Feeder 26",
+             "path": "Z-02/C-02/D-06/SD-12/SS-08/F-026",
+             "meterCount": 10,
+             "children": [
+              {
+               "level": "dt",
+               "code": "DT-026",
+               "name": "Jhotwara DT 26",
+               "path": "Z-02/C-02/D-06/SD-12/SS-08/F-026/DT-026",
+               "meterCount": 10,
+               "children": []
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "level": "circle",
+     "code": "C-05",
+     "name": "Circle 5",
+     "path": "Z-02/C-05",
+     "meterCount": 60,
+     "children": [
+      {
+       "level": "division",
+       "code": "D-05",
+       "name": "Division 5",
+       "path": "Z-02/C-05/D-05",
+       "meterCount": 20,
+       "children": [
+        {
+         "level": "subdivision",
+         "code": "SD-05",
+         "name": "Subdivision 5",
+         "path": "Z-02/C-05/D-05/SD-05",
+         "meterCount": 10,
+         "children": [
+          {
+           "level": "substation",
+           "code": "SS-05",
+           "name": "Substation 5",
+           "path": "Z-02/C-05/D-05/SD-05/SS-05",
+           "meterCount": 10,
+           "children": [
+            {
+             "level": "feeder",
+             "code": "F-005",
+             "name": "Feeder 5",
+             "path": "Z-02/C-05/D-05/SD-05/SS-05/F-005",
+             "meterCount": 10,
+             "children": [
+              {
+               "level": "dt",
+               "code": "DT-005",
+               "name": "Bani Park DT 5",
+               "path": "Z-02/C-05/D-05/SD-05/SS-05/F-005/DT-005",
+               "meterCount": 10,
+               "children": []
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "level": "subdivision",
+         "code": "SD-07",
+         "name": "Subdivision 7",
+         "path": "Z-02/C-05/D-05/SD-07",
+         "meterCount": 10,
+         "children": [
+          {
+           "level": "substation",
+           "code": "SS-17",
+           "name": "Substation 17",
+           "path": "Z-02/C-05/D-05/SD-07/SS-17",
+           "meterCount": 10,
+           "children": [
+            {
+             "level": "feeder",
+             "code": "F-007",
+             "name": "Feeder 7",
+             "path": "Z-02/C-05/D-05/SD-07/SS-17/F-007",
+             "meterCount": 10,
+             "children": [
+              {
+               "level": "dt",
+               "code": "DT-035",
+               "name": "Bani Park DT 35",
+               "path": "Z-02/C-05/D-05/SD-07/SS-17/F-007/DT-035",
+               "meterCount": 10,
+               "children": []
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "level": "division",
+       "code": "D-01",
+       "name": "Division 1",
+       "path": "Z-02/C-05/D-01",
+       "meterCount": 10,
+       "children": [
+        {
+         "level": "subdivision",
+         "code": "SD-11",
+         "name": "Subdivision 11",
+         "path": "Z-02/C-05/D-01/SD-11",
+         "meterCount": 10,
+         "children": [
+          {
+           "level": "substation",
+           "code": "SS-11",
+           "name": "Substation 11",
+           "path": "Z-02/C-05/D-01/SD-11/SS-11",
+           "meterCount": 10,
+           "children": [
+            {
+             "level": "feeder",
+             "code": "F-011",
+             "name": "Feeder 11",
+             "path": "Z-02/C-05/D-01/SD-11/SS-11/F-011",
+             "meterCount": 10,
+             "children": [
+              {
+               "level": "dt",
+               "code": "DT-011",
+               "name": "Malviya Nagar DT 11",
+               "path": "Z-02/C-05/D-01/SD-11/SS-11/F-011/DT-011",
+               "meterCount": 10,
+               "children": []
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "level": "division",
+       "code": "D-07",
+       "name": "Division 7",
+       "path": "Z-02/C-05/D-07",
+       "meterCount": 10,
+       "children": [
+        {
+         "level": "subdivision",
+         "code": "SD-03",
+         "name": "Subdivision 3",
+         "path": "Z-02/C-05/D-07/SD-03",
+         "meterCount": 10,
+         "children": [
+          {
+           "level": "substation",
+           "code": "SS-17",
+           "name": "Substation 17",
+           "path": "Z-02/C-05/D-07/SD-03/SS-17",
+           "meterCount": 10,
+           "children": [
+            {
+             "level": "feeder",
+             "code": "F-017",
+             "name": "Feeder 17",
+             "path": "Z-02/C-05/D-07/SD-03/SS-17/F-017",
+             "meterCount": 10,
+             "children": [
+              {
+               "level": "dt",
+               "code": "DT-017",
+               "name": "Sanganer DT 17",
+               "path": "Z-02/C-05/D-07/SD-03/SS-17/F-017/DT-017",
+               "meterCount": 10,
+               "children": []
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "level": "division",
+       "code": "D-03",
+       "name": "Division 3",
+       "path": "Z-02/C-05/D-03",
+       "meterCount": 10,
+       "children": [
+        {
+         "level": "subdivision",
+         "code": "SD-09",
+         "name": "Subdivision 9",
+         "path": "Z-02/C-05/D-03/SD-09",
+         "meterCount": 10,
+         "children": [
+          {
+           "level": "substation",
+           "code": "SS-05",
+           "name": "Substation 5",
+           "path": "Z-02/C-05/D-03/SD-09/SS-05",
+           "meterCount": 10,
+           "children": [
+            {
+             "level": "feeder",
+             "code": "F-023",
+             "name": "Feeder 23",
+             "path": "Z-02/C-05/D-03/SD-09/SS-05/F-023",
+             "meterCount": 10,
+             "children": [
+              {
+               "level": "dt",
+               "code": "DT-023",
+               "name": "Vaishali DT 23",
+               "path": "Z-02/C-05/D-03/SD-09/SS-05/F-023/DT-023",
+               "meterCount": 10,
+               "children": []
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "level": "division",
+       "code": "D-09",
+       "name": "Division 9",
+       "path": "Z-02/C-05/D-09",
+       "meterCount": 10,
+       "children": [
+        {
+         "level": "subdivision",
+         "code": "SD-01",
+         "name": "Subdivision 1",
+         "path": "Z-02/C-05/D-09/SD-01",
+         "meterCount": 10,
+         "children": [
+          {
+           "level": "substation",
+           "code": "SS-11",
+           "name": "Substation 11",
+           "path": "Z-02/C-05/D-09/SD-01/SS-11",
+           "meterCount": 10,
+           "children": [
+            {
+             "level": "feeder",
+             "code": "F-001",
+             "name": "Feeder 1",
+             "path": "Z-02/C-05/D-09/SD-01/SS-11/F-001",
+             "meterCount": 10,
+             "children": [
+              {
+               "level": "dt",
+               "code": "DT-029",
+               "name": "Sikar Road DT 29",
+               "path": "Z-02/C-05/D-09/SD-01/SS-11/F-001/DT-029",
+               "meterCount": 10,
+               "children": []
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "level": "zone",
+   "code": "Z-03",
+   "name": "Jaipur Zone 3",
+   "path": "Z-03",
+   "meterCount": 130,
+   "children": [
+    {
+     "level": "circle",
+     "code": "C-03",
+     "name": "Circle 3",
+     "path": "Z-03/C-03",
+     "meterCount": 70,
+     "children": [
+      {
+       "level": "division",
+       "code": "D-03",
+       "name": "Division 3",
+       "path": "Z-03/C-03/D-03",
+       "meterCount": 20,
+       "children": [
+        {
+         "level": "subdivision",
+         "code": "SD-03",
+         "name": "Subdivision 3",
+         "path": "Z-03/C-03/D-03/SD-03",
+         "meterCount": 10,
+         "children": [
+          {
+           "level": "substation",
+           "code": "SS-03",
+           "name": "Substation 3",
+           "path": "Z-03/C-03/D-03/SD-03/SS-03",
+           "meterCount": 10,
+           "children": [
+            {
+             "level": "feeder",
+             "code": "F-003",
+             "name": "Feeder 3",
+             "path": "Z-03/C-03/D-03/SD-03/SS-03/F-003",
+             "meterCount": 10,
+             "children": [
+              {
+               "level": "dt",
+               "code": "DT-003",
+               "name": "Vaishali DT 3",
+               "path": "Z-03/C-03/D-03/SD-03/SS-03/F-003/DT-003",
+               "meterCount": 10,
+               "children": []
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "level": "subdivision",
+         "code": "SD-05",
+         "name": "Subdivision 5",
+         "path": "Z-03/C-03/D-03/SD-05",
+         "meterCount": 10,
+         "children": [
+          {
+           "level": "substation",
+           "code": "SS-15",
+           "name": "Substation 15",
+           "path": "Z-03/C-03/D-03/SD-05/SS-15",
+           "meterCount": 10,
+           "children": [
+            {
+             "level": "feeder",
+             "code": "F-005",
+             "name": "Feeder 5",
+             "path": "Z-03/C-03/D-03/SD-05/SS-15/F-005",
+             "meterCount": 10,
+             "children": [
+              {
+               "level": "dt",
+               "code": "DT-033",
+               "name": "Vaishali DT 33",
+               "path": "Z-03/C-03/D-03/SD-05/SS-15/F-005/DT-033",
+               "meterCount": 10,
+               "children": []
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "level": "division",
+       "code": "D-09",
+       "name": "Division 9",
+       "path": "Z-03/C-03/D-09",
+       "meterCount": 20,
+       "children": [
+        {
+         "level": "subdivision",
+         "code": "SD-09",
+         "name": "Subdivision 9",
+         "path": "Z-03/C-03/D-09/SD-09",
+         "meterCount": 10,
+         "children": [
+          {
+           "level": "substation",
+           "code": "SS-09",
+           "name": "Substation 9",
+           "path": "Z-03/C-03/D-09/SD-09/SS-09",
+           "meterCount": 10,
+           "children": [
+            {
+             "level": "feeder",
+             "code": "F-009",
+             "name": "Feeder 9",
+             "path": "Z-03/C-03/D-09/SD-09/SS-09/F-009",
+             "meterCount": 10,
+             "children": [
+              {
+               "level": "dt",
+               "code": "DT-009",
+               "name": "Sikar Road DT 9",
+               "path": "Z-03/C-03/D-09/SD-09/SS-09/F-009/DT-009",
+               "meterCount": 10,
+               "children": []
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "level": "subdivision",
+         "code": "SD-11",
+         "name": "Subdivision 11",
+         "path": "Z-03/C-03/D-09/SD-11",
+         "meterCount": 10,
+         "children": [
+          {
+           "level": "substation",
+           "code": "SS-03",
+           "name": "Substation 3",
+           "path": "Z-03/C-03/D-09/SD-11/SS-03",
+           "meterCount": 10,
+           "children": [
+            {
+             "level": "feeder",
+             "code": "F-011",
+             "name": "Feeder 11",
+             "path": "Z-03/C-03/D-09/SD-11/SS-03/F-011",
+             "meterCount": 10,
+             "children": [
+              {
+               "level": "dt",
+               "code": "DT-039",
+               "name": "Sikar Road DT 39",
+               "path": "Z-03/C-03/D-09/SD-11/SS-03/F-011/DT-039",
+               "meterCount": 10,
+               "children": []
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "level": "division",
+       "code": "D-05",
+       "name": "Division 5",
+       "path": "Z-03/C-03/D-05",
+       "meterCount": 10,
+       "children": [
+        {
+         "level": "subdivision",
+         "code": "SD-01",
+         "name": "Subdivision 1",
+         "path": "Z-03/C-03/D-05/SD-01",
+         "meterCount": 10,
+         "children": [
+          {
+           "level": "substation",
+           "code": "SS-15",
+           "name": "Substation 15",
+           "path": "Z-03/C-03/D-05/SD-01/SS-15",
+           "meterCount": 10,
+           "children": [
+            {
+             "level": "feeder",
+             "code": "F-015",
+             "name": "Feeder 15",
+             "path": "Z-03/C-03/D-05/SD-01/SS-15/F-015",
+             "meterCount": 10,
+             "children": [
+              {
+               "level": "dt",
+               "code": "DT-015",
+               "name": "Bani Park DT 15",
+               "path": "Z-03/C-03/D-05/SD-01/SS-15/F-015/DT-015",
+               "meterCount": 10,
+               "children": []
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "level": "division",
+       "code": "D-01",
+       "name": "Division 1",
+       "path": "Z-03/C-03/D-01",
+       "meterCount": 10,
+       "children": [
+        {
+         "level": "subdivision",
+         "code": "SD-07",
+         "name": "Subdivision 7",
+         "path": "Z-03/C-03/D-01/SD-07",
+         "meterCount": 10,
+         "children": [
+          {
+           "level": "substation",
+           "code": "SS-03",
+           "name": "Substation 3",
+           "path": "Z-03/C-03/D-01/SD-07/SS-03",
+           "meterCount": 10,
+           "children": [
+            {
+             "level": "feeder",
+             "code": "F-021",
+             "name": "Feeder 21",
+             "path": "Z-03/C-03/D-01/SD-07/SS-03/F-021",
+             "meterCount": 10,
+             "children": [
+              {
+               "level": "dt",
+               "code": "DT-021",
+               "name": "Malviya Nagar DT 21",
+               "path": "Z-03/C-03/D-01/SD-07/SS-03/F-021/DT-021",
+               "meterCount": 10,
+               "children": []
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "level": "division",
+       "code": "D-07",
+       "name": "Division 7",
+       "path": "Z-03/C-03/D-07",
+       "meterCount": 10,
+       "children": [
+        {
+         "level": "subdivision",
+         "code": "SD-13",
+         "name": "Subdivision 13",
+         "path": "Z-03/C-03/D-07/SD-13",
+         "meterCount": 10,
+         "children": [
+          {
+           "level": "substation",
+           "code": "SS-09",
+           "name": "Substation 9",
+           "path": "Z-03/C-03/D-07/SD-13/SS-09",
+           "meterCount": 10,
+           "children": [
+            {
+             "level": "feeder",
+             "code": "F-027",
+             "name": "Feeder 27",
+             "path": "Z-03/C-03/D-07/SD-13/SS-09/F-027",
+             "meterCount": 10,
+             "children": [
+              {
+               "level": "dt",
+               "code": "DT-027",
+               "name": "Sanganer DT 27",
+               "path": "Z-03/C-03/D-07/SD-13/SS-09/F-027/DT-027",
+               "meterCount": 10,
+               "children": []
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "level": "circle",
+     "code": "C-06",
+     "name": "Circle 6",
+     "path": "Z-03/C-06",
+     "meterCount": 60,
+     "children": [
+      {
+       "level": "division",
+       "code": "D-06",
+       "name": "Division 6",
+       "path": "Z-03/C-06/D-06",
+       "meterCount": 20,
+       "children": [
+        {
+         "level": "subdivision",
+         "code": "SD-06",
+         "name": "Subdivision 6",
+         "path": "Z-03/C-06/D-06/SD-06",
+         "meterCount": 10,
+         "children": [
+          {
+           "level": "substation",
+           "code": "SS-06",
+           "name": "Substation 6",
+           "path": "Z-03/C-06/D-06/SD-06/SS-06",
+           "meterCount": 10,
+           "children": [
+            {
+             "level": "feeder",
+             "code": "F-006",
+             "name": "Feeder 6",
+             "path": "Z-03/C-06/D-06/SD-06/SS-06/F-006",
+             "meterCount": 10,
+             "children": [
+              {
+               "level": "dt",
+               "code": "DT-006",
+               "name": "Jhotwara DT 6",
+               "path": "Z-03/C-06/D-06/SD-06/SS-06/F-006/DT-006",
+               "meterCount": 10,
+               "children": []
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "level": "subdivision",
+         "code": "SD-08",
+         "name": "Subdivision 8",
+         "path": "Z-03/C-06/D-06/SD-08",
+         "meterCount": 10,
+         "children": [
+          {
+           "level": "substation",
+           "code": "SS-18",
+           "name": "Substation 18",
+           "path": "Z-03/C-06/D-06/SD-08/SS-18",
+           "meterCount": 10,
+           "children": [
+            {
+             "level": "feeder",
+             "code": "F-008",
+             "name": "Feeder 8",
+             "path": "Z-03/C-06/D-06/SD-08/SS-18/F-008",
+             "meterCount": 10,
+             "children": [
+              {
+               "level": "dt",
+               "code": "DT-036",
+               "name": "Jhotwara DT 36",
+               "path": "Z-03/C-06/D-06/SD-08/SS-18/F-008/DT-036",
+               "meterCount": 10,
+               "children": []
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "level": "division",
+       "code": "D-02",
+       "name": "Division 2",
+       "path": "Z-03/C-06/D-02",
+       "meterCount": 10,
+       "children": [
+        {
+         "level": "subdivision",
+         "code": "SD-12",
+         "name": "Subdivision 12",
+         "path": "Z-03/C-06/D-02/SD-12",
+         "meterCount": 10,
+         "children": [
+          {
+           "level": "substation",
+           "code": "SS-12",
+           "name": "Substation 12",
+           "path": "Z-03/C-06/D-02/SD-12/SS-12",
+           "meterCount": 10,
+           "children": [
+            {
+             "level": "feeder",
+             "code": "F-012",
+             "name": "Feeder 12",
+             "path": "Z-03/C-06/D-02/SD-12/SS-12/F-012",
+             "meterCount": 10,
+             "children": [
+              {
+               "level": "dt",
+               "code": "DT-012",
+               "name": "Mansarovar DT 12",
+               "path": "Z-03/C-06/D-02/SD-12/SS-12/F-012/DT-012",
+               "meterCount": 10,
+               "children": []
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "level": "division",
+       "code": "D-08",
+       "name": "Division 8",
+       "path": "Z-03/C-06/D-08",
+       "meterCount": 10,
+       "children": [
+        {
+         "level": "subdivision",
+         "code": "SD-04",
+         "name": "Subdivision 4",
+         "path": "Z-03/C-06/D-08/SD-04",
+         "meterCount": 10,
+         "children": [
+          {
+           "level": "substation",
+           "code": "SS-18",
+           "name": "Substation 18",
+           "path": "Z-03/C-06/D-08/SD-04/SS-18",
+           "meterCount": 10,
+           "children": [
+            {
+             "level": "feeder",
+             "code": "F-018",
+             "name": "Feeder 18",
+             "path": "Z-03/C-06/D-08/SD-04/SS-18/F-018",
+             "meterCount": 10,
+             "children": [
+              {
+               "level": "dt",
+               "code": "DT-018",
+               "name": "Tonk Road DT 18",
+               "path": "Z-03/C-06/D-08/SD-04/SS-18/F-018/DT-018",
+               "meterCount": 10,
+               "children": []
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "level": "division",
+       "code": "D-04",
+       "name": "Division 4",
+       "path": "Z-03/C-06/D-04",
+       "meterCount": 10,
+       "children": [
+        {
+         "level": "subdivision",
+         "code": "SD-10",
+         "name": "Subdivision 10",
+         "path": "Z-03/C-06/D-04/SD-10",
+         "meterCount": 10,
+         "children": [
+          {
+           "level": "substation",
+           "code": "SS-06",
+           "name": "Substation 6",
+           "path": "Z-03/C-06/D-04/SD-10/SS-06",
+           "meterCount": 10,
+           "children": [
+            {
+             "level": "feeder",
+             "code": "F-024",
+             "name": "Feeder 24",
+             "path": "Z-03/C-06/D-04/SD-10/SS-06/F-024",
+             "meterCount": 10,
+             "children": [
+              {
+               "level": "dt",
+               "code": "DT-024",
+               "name": "Raja Park DT 24",
+               "path": "Z-03/C-06/D-04/SD-10/SS-06/F-024/DT-024",
+               "meterCount": 10,
+               "children": []
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "level": "division",
+       "code": "D-10",
+       "name": "Division 10",
+       "path": "Z-03/C-06/D-10",
+       "meterCount": 10,
+       "children": [
+        {
+         "level": "subdivision",
+         "code": "SD-02",
+         "name": "Subdivision 2",
+         "path": "Z-03/C-06/D-10/SD-02",
+         "meterCount": 10,
+         "children": [
+          {
+           "level": "substation",
+           "code": "SS-12",
+           "name": "Substation 12",
+           "path": "Z-03/C-06/D-10/SD-02/SS-12",
+           "meterCount": 10,
+           "children": [
+            {
+             "level": "feeder",
+             "code": "F-002",
+             "name": "Feeder 2",
+             "path": "Z-03/C-06/D-10/SD-02/SS-12/F-002",
+             "meterCount": 10,
+             "children": [
+              {
+               "level": "dt",
+               "code": "DT-030",
+               "name": "Civil Lines DT 30",
+               "path": "Z-03/C-06/D-10/SD-02/SS-12/F-002/DT-030",
+               "meterCount": 10,
+               "children": []
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "dataQuality": {
+  "issueCount": 25,
+  "issues": [
+   {
+    "meterId": "J100162",
+    "dt": "DT-003",
+    "level": "feeder",
+    "problem": "blank",
+    "observed": "",
+    "used": "Feeder 3 (F-003)"
+   },
+   {
+    "meterId": "J100044",
+    "dt": "DT-005",
+    "level": "feeder",
+    "problem": "code missing",
+    "observed": "Feeder 5",
+    "used": "Feeder 5 (F-005)"
+   },
+   {
+    "meterId": "J100400",
+    "dt": "DT-007",
+    "level": "dt",
+    "problem": "differs from majority",
+    "observed": "Old Malviya Nagar Xfmr (DT-007)",
+    "used": "Sanganer DT 7 (DT-007)"
+   },
+   {
+    "meterId": "J100401",
+    "dt": "DT-007",
+    "level": "dt",
+    "problem": "differs from majority",
+    "observed": "Old Malviya Nagar Xfmr (DT-007)",
+    "used": "Sanganer DT 7 (DT-007)"
+   },
+   {
+    "meterId": "J100402",
+    "dt": "DT-007",
+    "level": "dt",
+    "problem": "differs from majority",
+    "observed": "Old Malviya Nagar Xfmr (DT-007)",
+    "used": "Sanganer DT 7 (DT-007)"
+   },
+   {
+    "meterId": "J100248",
+    "dt": "DT-009",
+    "level": "circle",
+    "problem": "blank",
+    "observed": "",
+    "used": "Circle 3 (C-03)"
+   },
+   {
+    "meterId": "J100170",
+    "dt": "DT-011",
+    "level": "circle",
+    "problem": "code missing",
+    "observed": "Circle 5",
+    "used": "Circle 5 (C-05)"
+   },
+   {
+    "meterId": "J100370",
+    "dt": "DT-011",
+    "level": "circle",
+    "problem": "blank",
+    "observed": "",
+    "used": "Circle 5 (C-05)"
+   },
+   {
+    "meterId": "J100210",
+    "dt": "DT-011",
+    "level": "feeder",
+    "problem": "code missing",
+    "observed": "Feeder 11",
+    "used": "Feeder 11 (F-011)"
+   },
+   {
+    "meterId": "J100011",
+    "dt": "DT-012",
+    "level": "circle",
+    "problem": "code missing",
+    "observed": "Circle 6",
+    "used": "Circle 6 (C-06)"
+   },
+   {
+    "meterId": "J100371",
+    "dt": "DT-012",
+    "level": "circle",
+    "problem": "blank",
+    "observed": "",
+    "used": "Circle 6 (C-06)"
+   },
+   {
+    "meterId": "J100372",
+    "dt": "DT-013",
+    "level": "feeder",
+    "problem": "blank",
+    "observed": "",
+    "used": "Feeder 13 (F-013)"
+   },
+   {
+    "meterId": "J100134",
+    "dt": "DT-015",
+    "level": "feeder",
+    "problem": "code missing",
+    "observed": "Feeder 15",
+    "used": "Feeder 15 (F-015)"
+   },
+   {
+    "meterId": "J100097",
+    "dt": "DT-018",
+    "level": "circle",
+    "problem": "code missing",
+    "observed": "Circle 6",
+    "used": "Circle 6 (C-06)"
+   },
+   {
+    "meterId": "J100257",
+    "dt": "DT-018",
+    "level": "feeder",
+    "problem": "blank",
+    "observed": "",
+    "used": "Feeder 18 (F-018)"
+   },
+   {
+    "meterId": "J100218",
+    "dt": "DT-019",
+    "level": "circle",
+    "problem": "blank",
+    "observed": "",
+    "used": "Circle 1 (C-01)"
+   },
+   {
+    "meterId": "J100302",
+    "dt": "DT-023",
+    "level": "substation",
+    "problem": "code missing",
+    "observed": "Substation 5",
+    "used": "Substation 5 (SS-05)"
+   },
+   {
+    "meterId": "J100265",
+    "dt": "DT-026",
+    "level": "circle",
+    "problem": "code missing",
+    "observed": "Circle 2",
+    "used": "Circle 2 (C-02)"
+   },
+   {
+    "meterId": "J100306",
+    "dt": "DT-027",
+    "level": "circle",
+    "problem": "blank",
+    "observed": "",
+    "used": "Circle 3 (C-03)"
+   },
+   {
+    "meterId": "J100228",
+    "dt": "DT-029",
+    "level": "substation",
+    "problem": "code missing",
+    "observed": "Substation 11",
+    "used": "Substation 11 (SS-11)"
+   },
+   {
+    "meterId": "J100268",
+    "dt": "DT-029",
+    "level": "feeder",
+    "problem": "code missing",
+    "observed": "Feeder 1",
+    "used": "Feeder 1 (F-001)"
+   },
+   {
+    "meterId": "J100153",
+    "dt": "DT-034",
+    "level": "substation",
+    "problem": "code missing",
+    "observed": "Substation 16",
+    "used": "Substation 16 (SS-16)"
+   },
+   {
+    "meterId": "J100074",
+    "dt": "DT-035",
+    "level": "circle",
+    "problem": "code missing",
+    "observed": "Circle 5",
+    "used": "Circle 5 (C-05)"
+   },
+   {
+    "meterId": "J100116",
+    "dt": "DT-037",
+    "level": "circle",
+    "problem": "code missing",
+    "observed": "Circle 1",
+    "used": "Circle 1 (C-01)"
+   },
+   {
+    "meterId": "J100078",
+    "dt": "DT-039",
+    "level": "feeder",
+    "problem": "code missing",
+    "observed": "Feeder 11",
+    "used": "Feeder 11 (F-011)"
+   }
+  ]
+ }
+}
